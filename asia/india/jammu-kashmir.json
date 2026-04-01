@@ -1,0 +1,414 @@
+[
+  {
+    "id": "ydn-00000061",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bhaderwah-jk",
+    "name": "Akashvani Bhaderwah",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JK",
+    "city": "Bhaderwah",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101 FM",
+    "lat": 32.95611111,
+    "lng": 75.70972222,
+    "logo": "logos/jammu-kashmir/ydn-00000061.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio246/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio246/play.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": false
+      },
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00432kbps.m3u8",
+        "format": "aac",
+        "bitrate": null,
+        "primary": false
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio246/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Dogri",
+      "secondary": [
+        "Hindi",
+        "Urdu"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bhadarwahi",
+      "bhaderwah",
+      "digital",
+      "dogri",
+      "hindi",
+      "jk",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000119",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jammu-jk",
+    "name": "Akashvani Jammu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JK",
+    "city": "Jammu",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 32.785,
+    "lng": 74.82388889,
+    "logo": "logos/jammu-kashmir/ydn-00000119.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio128/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Dogri",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "dogri",
+      "hindi",
+      "jammu",
+      "jk",
+      "local",
+      "news",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000138",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kathua-jk",
+    "name": "Akashvani Kathua",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JK",
+    "city": "Kathua",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 32.3925,
+    "lng": 75.5125,
+    "logo": "logos/jammu-kashmir/ydn-00000138.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio190/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 76,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Dogri",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "dogri",
+      "hindi",
+      "jk",
+      "kathua",
+      "local",
+      "news",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000223",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-srinagar-jk",
+    "name": "Akashvani Srinagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JK",
+    "city": "Srinagar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "103.5 FM",
+    "lat": 34.06805556,
+    "lng": 74.83555556,
+    "logo": "logos/jammu-kashmir/ydn-00000223.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio136/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Kashmiri",
+      "secondary": [
+        "Urdu",
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "digital",
+      "dogri",
+      "entertainment",
+      "folk",
+      "hindi",
+      "jk",
+      "kashmiri",
+      "local",
+      "music",
+      "news",
+      "srinagar",
+      "talk",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000291",
+    "type": "station",
+    "medium": "radio",
+    "slug": "awaz-fm-104-bhalwal-jammu-jk",
+    "name": "Awaz FM 104 Bhalwal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JK",
+    "city": "Jammu",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 32.785,
+    "lng": 74.823889,
+    "logo": "logos/jammu-kashmir/ydn-00000291.webp",
+    "streams": [
+      {
+        "url": "https://bwpfm104-awazradionetwork.radioca.st/stream",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "jammu",
+      "jk",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000426",
+    "type": "station",
+    "medium": "radio",
+    "slug": "doaba-radio-jammu-jk",
+    "name": "Doaba Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JK",
+    "city": "Jammu",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 32.785,
+    "lng": 74.823889,
+    "logo": "logos/jammu-kashmir/ydn-00000426.webp",
+    "streams": [
+      {
+        "url": "https://cast5.asurahosting.com/proxy/doabarad/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "jammu",
+      "jk",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00001234",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sharda-jammu-jk",
+    "name": "Radio Sharda",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JK",
+    "city": "Jammu",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Bollywood",
+      "Music",
+      "Community"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 32.785,
+    "lng": 74.823889,
+    "logo": "logos/jammu-kashmir/ydn-00001234.webp",
+    "streams": [
+      {
+        "url": "https://stream.zenolive.com/g4ua0b105eeuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://stream.zeno.fm/24fwxb105eeuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "http://s8.voscast.com:7738/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "fm",
+      "hindi",
+      "jammu",
+      "jk",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001246",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-srinagar-jk",
+    "name": "Radio Srinagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JK",
+    "city": "Srinagar",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Pop",
+      "Rock"
+    ],
+    "frequency": "",
+    "lat": 34.068056,
+    "lng": 74.835556,
+    "logo": "logos/jammu-kashmir/ydn-00001246.webp",
+    "streams": [
+      {
+        "url": "http://streaming01.x-6.nl:8000/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "jk",
+      "local",
+      "music",
+      "pop",
+      "rock",
+      "srinagar"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  }
+]

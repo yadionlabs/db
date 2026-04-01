@@ -1,0 +1,253 @@
+[
+  {
+    "id": "ydn-00001802",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-arun-itanagar-fm-ar",
+    "name": "Akashvani Arun Itanagar FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AR",
+    "city": "Itanagar",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "103.1 FM",
+    "lat": 27.0844,
+    "lng": 93.6053,
+    "logo": "logos/arunachal-pradesh/ydn-00001802.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio234/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ar",
+      "digital",
+      "english",
+      "entertainment",
+      "folk",
+      "hindi",
+      "itanagar",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000112",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-itanagar-ar",
+    "name": "Akashvani Itanagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AR",
+    "city": "Itanagar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 27.0844,
+    "lng": 93.6053,
+    "logo": "logos/arunachal-pradesh/ydn-00000112.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio277/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "English",
+        "Nyishi",
+        "Adi",
+        "Galo"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ar",
+      "digital",
+      "english",
+      "hindi",
+      "itanagar",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000184",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-pasighat-passighat-ar",
+    "name": "Akashvani Pasighat",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AR",
+    "city": "Passighat",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 28.04722222,
+    "lng": 95.335,
+    "logo": "logos/arunachal-pradesh/ydn-00000184.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio268/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Adi",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ar",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "news",
+      "passighat"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000227",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-tawang-ar",
+    "name": "Akashvani Tawang",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AR",
+    "city": "Tawang",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.1 FM",
+    "lat": 27.58166667,
+    "lng": 91.865,
+    "logo": "logos/arunachal-pradesh/ydn-00000227.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio272/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tibetan",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ar",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "monpa",
+      "music",
+      "news",
+      "talk",
+      "tawang"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000230",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-tezu-tawang-ar",
+    "name": "Akashvani Tezu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AR",
+    "city": "Tawang",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.1 FM",
+    "lat": 27.58166667,
+    "lng": 91.865,
+    "logo": "logos/arunachal-pradesh/ydn-00000230.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio267/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio267/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 56,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Mishmi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ar",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "tawang"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  }
+]

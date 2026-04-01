@@ -1,0 +1,1675 @@
+[
+  {
+    "id": "ydn-00000037",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ahmedabad-gj",
+    "name": "Akashvani Ahmedabad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "96.7 FM",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000037.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio037/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 157,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "digital",
+      "english",
+      "gj",
+      "gujarati",
+      "local",
+      "multilingual",
+      "news",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000038",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ahwa-gj",
+    "name": "Akashvani Ahwa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahwa",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 20.76361111,
+    "lng": 73.7125,
+    "logo": "logos/gujarat/ydn-00000038.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio236/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahwa",
+      "digital",
+      "gj",
+      "gujarati",
+      "hindi",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000066",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bhuj-gj",
+    "name": "Akashvani Bhuj",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Bhuj",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.7 FM",
+    "lat": 23.21944444,
+    "lng": 69.82222222,
+    "logo": "logos/gujarat/ydn-00000066.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio195/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": [
+        "Sindhi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bhuj",
+      "digital",
+      "english",
+      "entertainment",
+      "gj",
+      "gujarati",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000096",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-godhra-gj",
+    "name": "Akashvani Godhra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Godhra",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.2 FM",
+    "lat": 22.78333333,
+    "lng": 73.61666667,
+    "logo": "logos/gujarat/ydn-00000096.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio114/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio114/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "culture",
+      "digital",
+      "gj",
+      "godhra",
+      "gujarati",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000098",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-gujarati-ahmedabad-gj",
+    "name": "Akashvani Gujarati",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000098.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio135/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "digital",
+      "entertainment",
+      "gj",
+      "gujarati",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00001590",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-himmatnagar-gj",
+    "name": "Akashvani Himmatnagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Himmatnagar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 23.60527778,
+    "lng": 72.97888889,
+    "logo": "logos/gujarat/ydn-00001590.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio217/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "gj",
+      "gujarati",
+      "himmatnagar",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000198",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-rajkot-gj",
+    "name": "Akashvani Rajkot",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Rajkot",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "810 AM",
+    "lat": 22.36666667,
+    "lng": 70.69166667,
+    "logo": "logos/gujarat/ydn-00000198.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio155/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "gj",
+      "gujarati",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "rajkot",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000224",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-surat-gj",
+    "name": "Akashvani Surat",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Surat",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.1 FM",
+    "lat": 21.17277778,
+    "lng": 72.81722222,
+    "logo": "logos/gujarat/ydn-00000224.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio186/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "gj",
+      "gujarati",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "surat",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000241",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-vadodara-gj",
+    "name": "Akashvani Vadodara",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Vadodara",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music"
+    ],
+    "frequency": "93.9 FM",
+    "lat": 22.26,
+    "lng": 73.19944444,
+    "logo": "logos/gujarat/ydn-00000241.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio095/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "gj",
+      "gujarati",
+      "hindi",
+      "local",
+      "news",
+      "talk",
+      "vadodara"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000511",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-aaradhna-ahmedabad-gj",
+    "name": "Goldy Aaradhna",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000511.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/s14278r2cm8uv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/4kywc9r2cm8uv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Gujarati"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "english",
+      "gujarati",
+      "gj",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000514",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-blast-dhandhuka-gj",
+    "name": "Goldy Blast",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Dhandhuka",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 22.381,
+    "lng": 71.986,
+    "logo": "logos/gujarat/ydn-00000514.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/d0rwvvwa6p8uv",
+        "format": "aac",
+        "bitrate": 121,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "dhandhuka",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000515",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-classic-ahmedabad-gj",
+    "name": "Goldy Classic",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000515.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/hx2wtsw2kwkuv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "bollywood",
+      "gj",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000516",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-cool-ahmedabad-gj",
+    "name": "Goldy Cool",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Pop",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000516.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/3k1fb86tfm8uv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/hhfmh86tfm8uv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "entertainment",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000518",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-evergreen-dhandhuka-gj",
+    "name": "Goldy Evergreen",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Dhandhuka",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Oldies",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 22.381,
+    "lng": 71.986,
+    "logo": "logos/gujarat/ydn-00000518.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/n2fd0edh9k8uv",
+        "format": "aac",
+        "bitrate": 114,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dhandhuka",
+      "entertainment",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000519",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-fresh-ahmedabad-gj",
+    "name": "Goldy Fresh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000519.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/rfxzab5h3p8uv",
+        "format": "aac",
+        "bitrate": 118,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "bollywood",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000520",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-garba-ahmedabad-gj",
+    "name": "Goldy Garba",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Electronic",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000520.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/n0zkr7wa6p8uv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/by0808wa6p8uv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "electronic",
+      "folk",
+      "gj",
+      "gujarati",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000522",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-gujarati-ahmedabad-gj",
+    "name": "Goldy Gujarati",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000522.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/hrtamh18am8uv",
+        "format": "aac",
+        "bitrate": 116,
+        "primary": true
+      },
+      {
+        "url": "https://node-35.zeno.fm/28wseh18am8uv?rj-tok=AAABgIlhEbIANjyWb9vgpLFh0g&rj-ttl=5&zs=CVRavgOVTHmWyz1LlEROqQ",
+        "format": "aac",
+        "bitrate": 118,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "entertainment",
+      "gj",
+      "gujarati",
+      "internet",
+      "local",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000524",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-mukesh-ahmedabad-gj",
+    "name": "Goldy Mukesh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Oldies",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000524.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/t39watus1p8uv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/mrcz5sus1p8uv",
+        "format": "aac",
+        "bitrate": 116,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "entertainment",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000526",
+    "type": "station",
+    "medium": "radio",
+    "slug": "goldy-sarvaani-ahmedabad-gj",
+    "name": "Goldy Sarvaani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000526.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/c5bt9h37bm8uv",
+        "format": "aac",
+        "bitrate": 115,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/8ze2dk37bm8uv",
+        "format": "aac",
+        "bitrate": 116,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "folk",
+      "gj",
+      "gujarati",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000543",
+    "type": "station",
+    "medium": "radio",
+    "slug": "guruvani-90-8-fm-ahmedabad-gj",
+    "name": "Guruvani 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "FM",
+    "genres": [
+      "Education",
+      "Folk",
+      "Talk",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00000543.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radioguruwani.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "bollywood",
+      "education",
+      "fm",
+      "folk",
+      "gj",
+      "gujarati",
+      "local",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000585",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hits-of-asha-bhosle-vadodara-gj",
+    "name": "Hits Of Asha Bhosle",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Vadodara",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.26,
+    "lng": 73.199444,
+    "logo": "logos/gujarat/ydn-00000585.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/qd0ddu5qrdktv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "gj",
+      "gujarati",
+      "internet",
+      "local",
+      "vadodara"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000588",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hits-of-kishore-kumar-vadodara-gj",
+    "name": "Hits Of Kishore Kumar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Vadodara",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Classical",
+      "Entertainment",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 22.26,
+    "lng": 73.199444,
+    "logo": "logos/gujarat/ydn-00000588.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/pg6rqp8ztm0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/0ghtfp8ztm0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "entertainment",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "oldies",
+      "vadodara"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000590",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hits-of-lata-mangeshkar-vadodara-gj",
+    "name": "Hits Of Lata Mangeshkar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Vadodara",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.26,
+    "lng": 73.199444,
+    "logo": "logos/gujarat/ydn-00000590.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/g95zm67prfhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/xe1ye67prfhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "gj",
+      "gujarati",
+      "internet",
+      "local",
+      "vadodara"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000999",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-awaj-dahod-gj",
+    "name": "Radio Awaj",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Dahod",
+    "category": "FM",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 22.835,
+    "lng": 74.255,
+    "logo": "logos/gujarat/ydn-00000999.webp",
+    "streams": [
+      {
+        "url": "https://streamasiahlscdn.atc-labs.com/radioawaj.m3u8",
+        "format": "aac",
+        "bitrate": 33,
+        "primary": true
+      },
+      {
+        "url": "https://dhkxi1xp7j48l.cloudfront.net/radioawaj.aac",
+        "format": "aac",
+        "bitrate": 32,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dahod",
+      "english",
+      "fm",
+      "gj",
+      "local",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001121",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-manbhavan-90-8-fm-dahod-gj",
+    "name": "Radio Manbhavan 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Dahod",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.835,
+    "lng": 74.255,
+    "logo": "logos/gujarat/ydn-00001121.webp",
+    "streams": [
+      {
+        "url": "https://2radio.shoutcastservices.com/proxy/manbhavan/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dahod",
+      "gj",
+      "gujarati",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001134",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mattoli-dwarka-gj",
+    "name": "Radio Mattoli",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Dwarka",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.2442,
+    "lng": 68.9685,
+    "logo": "logos/gujarat/ydn-00001134.webp",
+    "streams": [
+      {
+        "url": "http://87.117.205.22:8066/stream?1486401996431.aac=",
+        "format": "aac",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dwarka",
+      "gj",
+      "gujarati",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001143",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-minhaj-bhuj-gj",
+    "name": "Radio Minhaj",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Bhuj",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Religious",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 23.219444,
+    "lng": 69.822222,
+    "logo": "logos/gujarat/ydn-00001143.webp",
+    "streams": [
+      {
+        "url": "http://s7.voscast.com:8642/;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhuj",
+      "bollywood",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001181",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-palanpur-90-4-fm-gj",
+    "name": "Radio Palanpur 90.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Palanpur",
+    "category": "FM",
+    "genres": [
+      "Community",
+      "Talk"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 24.1725,
+    "lng": 72.438,
+    "logo": "logos/gujarat/ydn-00001181.webp",
+    "streams": [
+      {
+        "url": "https://d1kddbxhain4yt.cloudfront.net/bkdmradio.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "gj",
+      "hindi",
+      "local",
+      "palanpur",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001287",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rangilo-gujarati-dahod-gj",
+    "name": "Rangilo Gujarati",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Dahod",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.835,
+    "lng": 74.255,
+    "logo": "logos/gujarat/ydn-00001287.webp",
+    "streams": [
+      {
+        "url": "http://s9.voscast.com:7402/;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dahod",
+      "gj",
+      "gujarati",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001419",
+    "type": "station",
+    "medium": "radio",
+    "slug": "swaminarayan-radio-dhun-bhuj-gj",
+    "name": "Swaminarayan Radio Dhun",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Bhuj",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 23.219444,
+    "lng": 69.822222,
+    "logo": "logos/gujarat/ydn-00001419.webp",
+    "streams": [
+      {
+        "url": "https://radio.swaminarayanbhagwan.org:8030/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://radio.bhujmandir.org:8000/stream/6/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhuj",
+      "entertainment",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001420",
+    "type": "station",
+    "medium": "radio",
+    "slug": "swaminarayan-radio-katha-bhuj-gj",
+    "name": "Swaminarayan Radio Katha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Bhuj",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 23.219444,
+    "lng": 69.822222,
+    "logo": "logos/gujarat/ydn-00001420.webp",
+    "streams": [
+      {
+        "url": "https://radio.swaminarayanbhagwan.org:8010/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://radio.bhujmandir.org:8000/stream/9/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhuj",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001422",
+    "type": "station",
+    "medium": "radio",
+    "slug": "swaminarayan-radio-kirtan-1-ahmedabad-gj",
+    "name": "Swaminarayan Radio Kirtan 1",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Ahmedabad",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 23.0225,
+    "lng": 72.5714,
+    "logo": "logos/gujarat/ydn-00001422.webp",
+    "streams": [
+      {
+        "url": "https://radio.nnd.media/listen/swaminarayan_kirtan/Kirtan.mp3",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      },
+      {
+        "url": "https://radio.nnd.media:8000/Kirtan.mp3?&_ic2=1",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmedabad",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001423",
+    "type": "station",
+    "medium": "radio",
+    "slug": "swaminarayan-radio-kirtan-2-bhuj-gj",
+    "name": "Swaminarayan Radio Kirtan 2",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Bhuj",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 23.219444,
+    "lng": 69.822222,
+    "logo": "logos/gujarat/ydn-00001423.webp",
+    "streams": [
+      {
+        "url": "https://radio.swaminarayanbhagwan.org:8020/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhuj",
+      "gj",
+      "hindi",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001424",
+    "type": "station",
+    "medium": "radio",
+    "slug": "swaminarayan-radio-kundaldham-vadodara-gj",
+    "name": "Swaminarayan Radio Kundaldham",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Vadodara",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 22.26,
+    "lng": 73.199444,
+    "logo": "logos/gujarat/ydn-00001424.webp",
+    "streams": [
+      {
+        "url": "https://radio.swaminarayanbhagwan.org:8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "gj",
+      "gujarati",
+      "internet",
+      "local",
+      "music",
+      "religious",
+      "vadodara"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001538",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-rajkot-gj",
+    "name": "Vividh Bharati Rajkot",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GJ",
+    "city": "Rajkot",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "102.4 FM",
+    "lat": 22.29888889,
+    "lng": 70.79222222,
+    "logo": "logos/gujarat/ydn-00001538.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio156/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "gj",
+      "gujarati",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "rajkot",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

@@ -1,0 +1,654 @@
+[
+  {
+    "id": "ydn-00000107",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-hisar-hr",
+    "name": "Akashvani Hisar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Hisar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music",
+      "Entertainment",
+      "Culture"
+    ],
+    "frequency": "102.3 FM",
+    "lat": 29.12833333,
+    "lng": 75.745,
+    "logo": "logos/haryana/ydn-00000107.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio185/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio185/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Haryanvi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "haryanvi",
+      "hindi",
+      "hisar",
+      "hr",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000155",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kurukshetra-hr",
+    "name": "Akashvani Kurukshetra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Kurukshetra",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music",
+      "Entertainment",
+      "Culture"
+    ],
+    "frequency": "101.4 FM",
+    "lat": 29.97083333,
+    "lng": 76.85944444,
+    "logo": "logos/haryana/ydn-00000155.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio213/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio213/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Haryanvi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "haryanvi",
+      "hindi",
+      "hr",
+      "kurukshetra",
+      "local",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000203",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-rohtak-hr",
+    "name": "Akashvani Rohtak",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Rohtak",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music",
+      "Entertainment",
+      "Culture"
+    ],
+    "frequency": "1143 AM",
+    "lat": 28.91694444,
+    "lng": 76.43444444,
+    "logo": "logos/haryana/ydn-00000203.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio188/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Haryanvi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "haryanvi",
+      "hindi",
+      "hr",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "rohtak",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000402",
+    "type": "station",
+    "medium": "radio",
+    "slug": "community-radio-connect-fm-107-8-gurugram-hr",
+    "name": "Community Radio Connect FM 107.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Gurugram",
+    "category": "Internet",
+    "genres": [
+      "Community"
+    ],
+    "frequency": "",
+    "lat": 28.4595,
+    "lng": 77.0266,
+    "logo": "logos/haryana/ydn-00000402.webp",
+    "streams": [
+      {
+        "url": "https://c34.radioboss.fm:8716/live",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "gurugram",
+      "hindi",
+      "hr",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000413",
+    "type": "station",
+    "medium": "radio",
+    "slug": "desi-world-radio-hisar-hr",
+    "name": "Desi World Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Hisar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 29.128333,
+    "lng": 75.745,
+    "logo": "logos/haryana/ydn-00000413.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/4mbfcn4mf24tv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "hisar",
+      "hr",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000449",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-24-bhiwadi-90-8-hisar-hr",
+    "name": "FM 24 Bhiwadi 90.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Hisar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 29.128333,
+    "lng": 75.745,
+    "logo": "logos/haryana/ydn-00000449.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/24network.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "hisar",
+      "hr",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000541",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gurgaon-ki-awaaz-gurugram-hr",
+    "name": "Gurgaon Ki Awaaz",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Gurugram",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Community",
+      "News"
+    ],
+    "frequency": "107.8 FM",
+    "lat": 28.4595,
+    "lng": 77.0266,
+    "logo": "logos/haryana/ydn-00000541.webp",
+    "streams": [
+      {
+        "url": "http://50.7.99.163:7045/GurgaonKiAawaz",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://gurgaonradio.out.airtime.pro/gurgaonradio_a",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": false
+      },
+      {
+        "url": "https://gurgaonradio.out.airtime.pro:8000/gurgaonradio_a",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "gurugram",
+      "hindi",
+      "hr",
+      "internet",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000956",
+    "type": "station",
+    "medium": "radio",
+    "slug": "poetree-forest-station-rohtak-hr",
+    "name": "PoeTree Forest Station",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Rohtak",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Pop",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 28.916944,
+    "lng": 76.434444,
+    "logo": "logos/haryana/ydn-00000956.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/da52mpbn5a0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/zf6wspbn5a0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "entertainment",
+      "hr",
+      "internet",
+      "local",
+      "pop",
+      "rohtak",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001083",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-haryanvi-hisar-hr",
+    "name": "Radio Haryanvi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Hisar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 29.128333,
+    "lng": 75.745,
+    "logo": "logos/haryana/ydn-00001083.webp",
+    "streams": [
+      {
+        "url": "https://listen.weareharyanvi.com/listen",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "hisar",
+      "hr",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001088",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-indradhanush-hisar-hr",
+    "name": "Radio Indradhanush",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Hisar",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 29.128333,
+    "lng": 75.745,
+    "logo": "logos/haryana/ydn-00001088.webp",
+    "streams": [
+      {
+        "url": "https://a12.asurahosting.com:7480/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      },
+      {
+        "url": "https://a12.asurahosting.com/listen/radio_indradhanush/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "hisar",
+      "hr",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001182",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-panj-panipat-hr",
+    "name": "Radio Panj",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Panipat",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 29.3909,
+    "lng": 76.9635,
+    "logo": "logos/haryana/ydn-00001182.webp",
+    "streams": [
+      {
+        "url": "https://s3.voscast.com:11265/stream",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "hr",
+      "internet",
+      "local",
+      "panipat"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001186",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-punjab-today-hisar-hr",
+    "name": "Radio Punjab Today",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Hisar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 29.128333,
+    "lng": 75.745,
+    "logo": "logos/haryana/ydn-00001186.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/5canbwkagwzuv",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "hisar",
+      "hr",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001196",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-read-india-gurugram-hr",
+    "name": "Radio Read India",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Gurugram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 28.4595,
+    "lng": 77.0266,
+    "logo": "logos/haryana/ydn-00001196.webp",
+    "streams": [
+      {
+        "url": "https://cdn1.mediaisyou.com/readindia.mp3",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "gurugram",
+      "hindi",
+      "hr",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001797",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vitasta-ambala-hr",
+    "name": "Radio Vitasta",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HR",
+    "city": "Ambala",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 30.3782,
+    "lng": 76.7767,
+    "logo": "logos/haryana/ydn-00001797.webp",
+    "streams": [
+      {
+        "url": "https://icecast.radiovitasta.in/stream.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://62.72.31.138:8000/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ambala",
+      "hindi",
+      "hr",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  }
+]

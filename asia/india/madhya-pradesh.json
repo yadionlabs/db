@@ -1,0 +1,1248 @@
+[
+  {
+    "id": "ydn-00000048",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-balaghat-mp",
+    "name": "Akashvani Balaghat",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Balaghat",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.3 FM",
+    "lat": 21.80861111,
+    "lng": 80.18055556,
+    "logo": "logos/madhya-pradesh/ydn-00000048.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio091/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "balaghat",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000060",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-betul-mp",
+    "name": "Akashvani Betul",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Betul",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.1 FM",
+    "lat": 21.91027778,
+    "lng": 77.91,
+    "logo": "logos/madhya-pradesh/ydn-00000060.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio108/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "betul",
+      "digital",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000065",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bhopal-mp",
+    "name": "Akashvani Bhopal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Bhopal",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 23.25166667,
+    "lng": 77.48083333,
+    "logo": "logos/madhya-pradesh/ydn-00000065.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio146/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 237,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhopal",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "mp",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000073",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chhatarpur-mp",
+    "name": "Akashvani Chhatarpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Chhatarpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "675 AM",
+    "lat": 24.86833333,
+    "lng": 79.53416667,
+    "logo": "logos/madhya-pradesh/ydn-00000073.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 71,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio104/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 71,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "chhatarpur",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000076",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chhindwara-mp",
+    "name": "Akashvani Chhindwara",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Chhindwara",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.2 FM",
+    "lat": 22.07666667,
+    "lng": 78.95194444,
+    "logo": "logos/madhya-pradesh/ydn-00000076.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio113/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "chhindwara",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000099",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-guna-mp",
+    "name": "Akashvani Guna",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Guna",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.3 FM",
+    "lat": 24.62666667,
+    "lng": 77.27138889,
+    "logo": "logos/madhya-pradesh/ydn-00000099.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio115/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "guna",
+      "hindi",
+      "local",
+      "mp",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000102",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-gwalior-mp",
+    "name": "Akashvani Gwalior",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Gwalior",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1386 AM",
+    "lat": 26.3,
+    "lng": 78.10833333,
+    "logo": "logos/madhya-pradesh/ydn-00000102.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 167,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio205/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 167,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "gwalior",
+      "hindi",
+      "local",
+      "mp",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000111",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-indore-mp",
+    "name": "Akashvani Indore",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Indore",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 22.7196,
+    "lng": 75.8577,
+    "logo": "logos/madhya-pradesh/ydn-00000111.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 72,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hindi",
+      "indore",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000113",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jabalpur-mp",
+    "name": "Akashvani Jabalpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Jabalpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "801 AM",
+    "lat": 23.19722222,
+    "lng": 79.90444444,
+    "logo": "logos/madhya-pradesh/ydn-00000113.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio167/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 121,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hindi",
+      "jabalpur",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000114",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jabalpur-fm-mp",
+    "name": "Akashvani Jabalpur FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Jabalpur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "102.9 FM",
+    "lat": 23.13416667,
+    "lng": 79.93555556,
+    "logo": "logos/madhya-pradesh/ydn-00000114.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio240/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jabalpur",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000142",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-khandwa-mp",
+    "name": "Akashvani Khandwa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Khandwa",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.2 FM",
+    "lat": 21.82833333,
+    "lng": 76.3725,
+    "logo": "logos/madhya-pradesh/ydn-00000142.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio143/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio143/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "khandwa",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000202",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-rewa-mp",
+    "name": "Akashvani Rewa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Rewa",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1179 AM",
+    "lat": 24.51861111,
+    "lng": 81.41694444,
+    "logo": "logos/madhya-pradesh/ydn-00000202.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 3026,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio225/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 3026,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "rewa",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000205",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-sagar-mp",
+    "name": "Akashvani Sagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Sagar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.6 FM",
+    "lat": 23.85,
+    "lng": 78.75,
+    "logo": "logos/madhya-pradesh/ydn-00000205.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 167,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio204/play.m3u8",
+        "format": "aac",
+        "bitrate": 167,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "sagar",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000212",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-shahdol-mp",
+    "name": "Akashvani Shahdol",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Shahdol",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102 FM",
+    "lat": 23.29,
+    "lng": 81.35,
+    "logo": "logos/madhya-pradesh/ydn-00000212.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio228/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio228/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "news",
+      "shahdol",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000217",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-shivpuri-mp",
+    "name": "Akashvani Shivpuri",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Shivpuri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.2 FM",
+    "lat": 25.425,
+    "lng": 77.67222222,
+    "logo": "logos/madhya-pradesh/ydn-00000217.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio171/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "mp",
+      "multilingual",
+      "music",
+      "news",
+      "shivpuri",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000240",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ujjain-mp",
+    "name": "Akashvani Ujjain",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Ujjain",
+    "category": "Digital",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 23.16,
+    "lng": 75.78222222,
+    "logo": "logos/madhya-pradesh/ydn-00000240.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio233/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 149,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "local",
+      "mp",
+      "news",
+      "ujjain"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000251",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aks-90-4-fm-satna-mp",
+    "name": "AKS 90.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Satna",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 24.6,
+    "lng": 80.83,
+    "logo": "logos/madhya-pradesh/ydn-00000251.webp",
+    "streams": [
+      {
+        "url": "https://servidor40-3.brlogic.com:7232/live",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "mp",
+      "satna"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000359",
+    "type": "station",
+    "medium": "radio",
+    "slug": "brahman-radio-gwalior-mp",
+    "name": "Brahman Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Gwalior",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.3,
+    "lng": 78.108333,
+    "logo": "logos/madhya-pradesh/ydn-00000359.webp",
+    "streams": [
+      {
+        "url": "http://brahman.riggrodigital.com:8082/stream/;",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "gwalior",
+      "hindi",
+      "internet",
+      "local",
+      "mp"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000850",
+    "type": "station",
+    "medium": "radio",
+    "slug": "me-and-you-gwalior-mp",
+    "name": "Me and You",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Gwalior",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.3,
+    "lng": 78.108333,
+    "logo": "logos/madhya-pradesh/ydn-00000850.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/t25y0r08vqbvv",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "gwalior",
+      "hindi",
+      "internet",
+      "local",
+      "mp"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00001061",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-dhwani-ujjain-mp",
+    "name": "Radio Dhwani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Ujjain",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 23.16,
+    "lng": 75.782222,
+    "logo": "logos/madhya-pradesh/ydn-00001061.webp",
+    "streams": [
+      {
+        "url": "https://cdn-cms.f-static.com/uploads/2568273/normal_5d8ba39d1261c.mp3",
+        "format": "mp3",
+        "bitrate": 179,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "mp",
+      "ujjain"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001126",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mann-vidisha-mp",
+    "name": "Radio Mann",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Vidisha",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Music"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 23.53,
+    "lng": 77.82,
+    "logo": "logos/madhya-pradesh/ydn-00001126.webp",
+    "streams": [
+      {
+        "url": "http://165.22.208.252:8020/radio.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "talk",
+      "vidisha"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001145",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mirchi-indore-mp",
+    "name": "Radio Mirchi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Indore",
+    "category": "FM",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 22.7196,
+    "lng": 75.8577,
+    "logo": "logos/madhya-pradesh/ydn-00001145.webp",
+    "streams": [
+      {
+        "url": "https://peridot.streamguys1.com:7155/MirchiFiji",
+        "format": "aac",
+        "bitrate": 24,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "fm",
+      "indore",
+      "local",
+      "marathi",
+      "mp",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001255",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-time-90-8-fm-sagar-mp",
+    "name": "Radio Time 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Sagar",
+    "category": "FM",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 23.85,
+    "lng": 78.75,
+    "logo": "logos/madhya-pradesh/ydn-00001255.webp",
+    "streams": [
+      {
+        "url": "http://165.22.208.252:8010/radio.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "fm",
+      "hindi",
+      "local",
+      "mp",
+      "music",
+      "sagar"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001299",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rj-ashi-sagar-mp",
+    "name": "RJ Ashi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Sagar",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Entertainment",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 23.85,
+    "lng": 78.75,
+    "logo": "logos/madhya-pradesh/ydn-00001299.webp",
+    "streams": [
+      {
+        "url": "http://188.165.192.5:8058/stream/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "mp",
+      "music",
+      "pop",
+      "sagar"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001495",
+    "type": "station",
+    "medium": "radio",
+    "slug": "v4u-radio-satna-mp",
+    "name": "V4U Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Satna",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 24.6,
+    "lng": 80.83,
+    "logo": "logos/madhya-pradesh/ydn-00001495.webp",
+    "streams": [
+      {
+        "url": "https://a6.asurahosting.com:7130/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "mp",
+      "satna"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001525",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-bhopal-mp",
+    "name": "Vividh Bharati Bhopal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Bhopal",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 23.24027778,
+    "lng": 77.39027778,
+    "logo": "logos/madhya-pradesh/ydn-00001525.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio248/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 238,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhopal",
+      "digital",
+      "hindi",
+      "local",
+      "mp",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001528",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-indore-mp",
+    "name": "Vividh Bharati Indore",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MP",
+    "city": "Indore",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 22.7196,
+    "lng": 75.8577,
+    "logo": "logos/madhya-pradesh/ydn-00001528.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio241/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "indore",
+      "local",
+      "mp",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "id": "ydn-00000134",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-karaikal-py",
+    "name": "Akashvani Karaikal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PY",
+    "city": "Karaikal",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.3 FM",
+    "lat": 11.98361111,
+    "lng": 79.71694444,
+    "logo": "logos/puducherry/ydn-00000134.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 148,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio050/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "karaikal",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "py",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000189",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-puducherry-py",
+    "name": "Akashvani Puducherry",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PY",
+    "city": "Puducherry",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "1215 AM",
+    "lat": 11.94027778,
+    "lng": 79.76666667,
+    "logo": "logos/puducherry/ydn-00000189.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio097/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": [
+        "English",
+        "French"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "news",
+      "puducherry",
+      "py",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000423",
+    "type": "station",
+    "medium": "radio",
+    "slug": "divyavani-sanskrit-radio-puducherry-py",
+    "name": "Divyavani Sanskrit Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PY",
+    "city": "Puducherry",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Culture",
+      "Folk",
+      "Talk",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 11.940278,
+    "lng": 79.766667,
+    "logo": "logos/puducherry/ydn-00000423.webp",
+    "streams": [
+      {
+        "url": "http://142.44.212.114:8070/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://epsilon.shoutca.st:8070/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://divyavani.radioca.st/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Sanskrit",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "culture",
+      "english",
+      "folk",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "puducherry",
+      "py",
+      "sanskrit",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000477",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-puducherry-py",
+    "name": "FM Rainbow Puducherry",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PY",
+    "city": "Puducherry",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 11.94027778,
+    "lng": 79.76666667,
+    "logo": "logos/puducherry/ydn-00000477.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio098/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "news",
+      "puducherry",
+      "py",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000735",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jipmer-internet-radio-puducherry-py",
+    "name": "Jipmer Internet Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PY",
+    "city": "Puducherry",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 11.940278,
+    "lng": 79.766667,
+    "logo": "logos/puducherry/ydn-00000735.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/jipmer.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "music",
+      "puducherry",
+      "py",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000777",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kudanthai-vaanoli-kumbakonam-fm-karaikal-py",
+    "name": "Kudanthai Vaanoli Kumbakonam FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PY",
+    "city": "Karaikal",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.983611,
+    "lng": 79.716944,
+    "logo": "logos/puducherry/ydn-00000777.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/qhm35xhd9yzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "karaikal",
+      "local",
+      "py",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000918",
+    "type": "station",
+    "medium": "radio",
+    "slug": "nesaganam-tamil-online-radio-karaikal-py",
+    "name": "Nesaganam Tamil Online Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PY",
+    "city": "Karaikal",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Religious",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 11.983611,
+    "lng": 79.716944,
+    "logo": "logos/puducherry/ydn-00000918.webp",
+    "streams": [
+      {
+        "url": "http://192.95.39.65:5206/stream/;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "http://192.95.39.65:5206/;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "karaikal",
+      "local",
+      "music",
+      "pop",
+      "py",
+      "religious",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000979",
+    "type": "station",
+    "medium": "radio",
+    "slug": "puthuvai-radio-puducherry-py",
+    "name": "Puthuvai Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PY",
+    "city": "Puducherry",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 11.940278,
+    "lng": 79.766667,
+    "logo": "logos/puducherry/ydn-00000979.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/dou4ril79xduv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "internet",
+      "local",
+      "music",
+      "puducherry",
+      "py",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  }
+]

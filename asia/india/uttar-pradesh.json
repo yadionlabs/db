@@ -1,0 +1,2457 @@
+[
+  {
+    "id": "ydn-00000014",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aaj-tak-news-radio-noida-up",
+    "name": "Aaj Tak News Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Noida",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 28.5355,
+    "lng": 77.391,
+    "logo": "logos/uttar-pradesh/ydn-00000014.webp",
+    "streams": [
+      {
+        "url": "http://feeds.intoday.in/aajtak/api/master.m3u8",
+        "format": "aac",
+        "bitrate": 1444,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "noida",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000015",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aaj-tak-prime-time-noida-up",
+    "name": "Aaj Tak Prime Time",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Noida",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "News",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 28.5355,
+    "lng": 77.391,
+    "logo": "logos/uttar-pradesh/ydn-00000015.webp",
+    "streams": [
+      {
+        "url": "http://feeds.intoday.in/aajtak/api/atprime/master.m3u8",
+        "format": "aac",
+        "bitrate": 5256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "noida",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000027",
+    "type": "station",
+    "medium": "radio",
+    "slug": "agra-radio-up",
+    "name": "Agra Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Agra",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 27.135278,
+    "lng": 78.035833,
+    "logo": "logos/uttar-pradesh/ydn-00000027.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/m1krtxpk11zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "agra",
+      "bollywood",
+      "classical",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000035",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-agra-up",
+    "name": "Akashvani Agra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Agra",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1530 AM",
+    "lat": 27.13527778,
+    "lng": 78.03583333,
+    "logo": "logos/uttar-pradesh/ydn-00000035.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio059/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "agra",
+      "braj bhasha",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000047",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ayodhya-up",
+    "name": "Akashvani Ayodhya",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Ayodhya",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.9 FM",
+    "lat": 26.7922,
+    "lng": 82.2008,
+    "logo": "logos/uttar-pradesh/ydn-00000047.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio152/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ayodhya",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000052",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bareilly-up",
+    "name": "Akashvani Bareilly",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Bareilly",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.4 FM",
+    "lat": 28.30555556,
+    "lng": 79.42166667,
+    "logo": "logos/uttar-pradesh/ydn-00000052.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio124/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio124/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bareilly",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000097",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-gorakhpur-up",
+    "name": "Akashvani Gorakhpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Gorakhpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.1 FM",
+    "lat": 26.86666667,
+    "lng": 83.45222222,
+    "logo": "logos/uttar-pradesh/ydn-00000097.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio203/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 149,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bhojpuri",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "english",
+      "entertainment",
+      "gorakhpur",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000123",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jhansi-up",
+    "name": "Akashvani Jhansi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Jhansi",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103 FM",
+    "lat": 25.46388889,
+    "lng": 78.625,
+    "logo": "logos/uttar-pradesh/ydn-00000123.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 72,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio099/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 72,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hindi",
+      "jhansi",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000133",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kanpur-up",
+    "name": "Akashvani Kanpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Kanpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.7 FM",
+    "lat": 26.47833333,
+    "lng": 80.32361111,
+    "logo": "logos/uttar-pradesh/ydn-00000133.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio194/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 380,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "kanpur",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000157",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-lucknow-up",
+    "name": "Akashvani Lucknow",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "747 AM",
+    "lat": 26.87833333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00000157.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio046/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Awadhi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "lucknow",
+      "music",
+      "news",
+      "talk",
+      "up",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000168",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-mathura-up",
+    "name": "Akashvani Mathura",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Mathura",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "102.2 FM",
+    "lat": 27.5075,
+    "lng": 77.65472222,
+    "logo": "logos/uttar-pradesh/ydn-00000168.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio067/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio067/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Brajbhasha",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "mathura",
+      "music",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000176",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-najibabad-up",
+    "name": "Akashvani Najibabad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Najibabad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 29.62666667,
+    "lng": 78.38333333,
+    "logo": "logos/uttar-pradesh/ydn-00000176.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio162/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "local",
+      "music",
+      "najibabad",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000180",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-obra-up",
+    "name": "Akashvani Obra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Obra",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.7 FM",
+    "lat": 24.46388889,
+    "lng": 82.96416667,
+    "logo": "logos/uttar-pradesh/ydn-00000180.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio235/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 74,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio235/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 74,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "obra",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000188",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-prayagraj-up",
+    "name": "Akashvani Prayagraj",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Prayagraj",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "1026 AM",
+    "lat": 25.43027778,
+    "lng": 81.93777778,
+    "logo": "logos/uttar-pradesh/ydn-00000188.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio125/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 129,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "prayagraj",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000199",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-rampur-up",
+    "name": "Akashvani Rampur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Rampur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.9 FM",
+    "lat": 28.75333333,
+    "lng": 79.05666667,
+    "logo": "logos/uttar-pradesh/ydn-00000199.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio179/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio179/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "rampur",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000242",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-varanasi-up",
+    "name": "Akashvani Varanasi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Varanasi",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "1242 AM",
+    "lat": 25.36972222,
+    "lng": 83.025,
+    "logo": "logos/uttar-pradesh/ydn-00000242.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio094/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bhojpuri",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bhojpuri",
+      "culture",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "up",
+      "varanasi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000290",
+    "type": "station",
+    "medium": "radio",
+    "slug": "avs-fm-lucknow-up",
+    "name": "AVS FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.878333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00000290.webp",
+    "streams": [
+      {
+        "url": "https://stream-173.zeno.fm/3kroxxfx2javv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIza3JveHhmeDJqYXZ2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IllLZnJjSzRFVGdDQjNlMUY1angyZGciLCJpYXQiOjE3MzY1OTg5NDYsImV4cCI6MTczNjU5OTAwNn0.EQIpbreipHUOeIJ33z",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "lucknow",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000294",
+    "type": "station",
+    "medium": "radio",
+    "slug": "azad-hind-radio-meerut-up",
+    "name": "Azad Hind Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Meerut",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "90 FM",
+    "lat": 28.9845,
+    "lng": 77.7064,
+    "logo": "logos/uttar-pradesh/ydn-00000294.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/subhartiradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "fm",
+      "hindi",
+      "local",
+      "meerut",
+      "music",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000304",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bbd-fm-lucknow-up",
+    "name": "BBD FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "Internet",
+    "genres": [
+      "Folk"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 26.878333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00000304.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/bbdradioone.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "folk",
+      "hindi",
+      "internet",
+      "local",
+      "lucknow",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00001592",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bundelkhand-radio-jhansi-up",
+    "name": "Bundelkhand Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Jhansi",
+    "category": "FM",
+    "genres": [
+      "Bollywood",
+      "Community",
+      "Entertainment",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 25.463889,
+    "lng": 78.625,
+    "logo": "logos/uttar-pradesh/ydn-00001592.webp",
+    "streams": [
+      {
+        "url": "http://duxziyl7da3cm.cloudfront.net/rdbundelkhand.m3u8",
+        "format": "aac",
+        "bitrate": 65,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "entertainment",
+      "fm",
+      "hindi",
+      "jhansi",
+      "local",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000364",
+    "type": "station",
+    "medium": "radio",
+    "slug": "butwal-94-4-fm-lucknow-up",
+    "name": "Butwal 94.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.878333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00000364.webp",
+    "streams": [
+      {
+        "url": "http://streaming.softnep.net:8003/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "lucknow",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000395",
+    "type": "station",
+    "medium": "radio",
+    "slug": "cms-radio-lucknow-up",
+    "name": "CMS Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "FM",
+    "genres": [
+      "Folk"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 26.878333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00000395.webp",
+    "streams": [
+      {
+        "url": "http://streamasiahlscdn.atc-labs.com/CMSStream1.m3u8",
+        "format": "aac",
+        "bitrate": 65,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "folk",
+      "hindi",
+      "local",
+      "lucknow",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000460",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-moradabad-89-6-up",
+    "name": "FM Moradabad 89.6",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Moradabad",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Music",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "89.6 FM",
+    "lat": 28.8386,
+    "lng": 78.7733,
+    "logo": "logos/uttar-pradesh/ydn-00000460.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/fmmoradabad.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "fm",
+      "hindi",
+      "local",
+      "moradabad",
+      "music",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000472",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-kanpur-up",
+    "name": "FM Rainbow Kanpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Kanpur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 26.47833333,
+    "lng": 80.32361111,
+    "logo": "logos/uttar-pradesh/ydn-00000472.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio058/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 379,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "kanpur",
+      "local",
+      "news",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000474",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-lucknow-varanasi-up",
+    "name": "FM Rainbow Lucknow",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Varanasi",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "100.7 FM",
+    "lat": 25.30555556,
+    "lng": 82.97777778,
+    "logo": "logos/uttar-pradesh/ydn-00000474.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio047/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "digital",
+      "folk",
+      "hindi",
+      "local",
+      "news",
+      "pop",
+      "talk",
+      "up",
+      "urdu",
+      "varanasi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000528",
+    "type": "station",
+    "medium": "radio",
+    "slug": "good-news-today-noida-up",
+    "name": "Good News Today",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Noida",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 28.5355,
+    "lng": 77.391,
+    "logo": "logos/uttar-pradesh/ydn-00000528.webp",
+    "streams": [
+      {
+        "url": "http://feeds.intoday.in/gnt/api/master.m3u8",
+        "format": "aac",
+        "bitrate": 1444,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "noida",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000544",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gyan-vani-prayagraj-up",
+    "name": "Gyan Vani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Prayagraj",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.430278,
+    "lng": 81.937778,
+    "logo": "logos/uttar-pradesh/ydn-00000544.webp",
+    "streams": [
+      {
+        "url": "http://14.139.40.250:1935/live/Gyandhara/playlist.m3u8",
+        "format": "hls",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "prayagraj",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000545",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gyanasthali-radio-89-6-fm-gonda-up",
+    "name": "Gyanasthali Radio 89.6 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Gonda",
+    "category": "FM",
+    "genres": [
+      "Education",
+      "Talk",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "89.6 FM",
+    "lat": 27.133,
+    "lng": 81.9619,
+    "logo": "logos/uttar-pradesh/ydn-00000545.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/gyansthali.aac",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "education",
+      "fm",
+      "gonda",
+      "hindi",
+      "local",
+      "music",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000552",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hamawahal-radio-govardhan-up",
+    "name": "Hamawahal Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Govardhan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 27.5,
+    "lng": 77.46,
+    "logo": "logos/uttar-pradesh/ydn-00000552.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/csw7fv7sz1zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "govardhan",
+      "hindi",
+      "internet",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000574",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hello-banaras-91-2-fm-varanasi-up",
+    "name": "Hello Banaras 91.2 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Varanasi",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "91.2 FM",
+    "lat": 25.369722,
+    "lng": 83.025,
+    "logo": "logos/uttar-pradesh/ydn-00000574.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/hellobanaras.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "fm",
+      "hindi",
+      "local",
+      "talk",
+      "up",
+      "varanasi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000602",
+    "type": "station",
+    "medium": "radio",
+    "slug": "india-today-noida-up",
+    "name": "India Today",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Noida",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 28.5355,
+    "lng": 77.391,
+    "logo": "logos/uttar-pradesh/ydn-00000602.webp",
+    "streams": [
+      {
+        "url": "http://feeds.intoday.in/hltapps/api/master.m3u8",
+        "format": "aac",
+        "bitrate": 1443,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "noida",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000603",
+    "type": "station",
+    "medium": "radio",
+    "slug": "indifun-radio-meerut-up",
+    "name": "Indifun Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Meerut",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 28.9845,
+    "lng": 77.7064,
+    "logo": "logos/uttar-pradesh/ydn-00000603.webp",
+    "streams": [
+      {
+        "url": "http://indifun.net:7000/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://indifun.net:7000/;;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "meerut",
+      "music",
+      "pop",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000605",
+    "type": "station",
+    "medium": "radio",
+    "slug": "inner-voice-radio-ghaziabad-up",
+    "name": "Inner Voice Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Ghaziabad",
+    "category": "Internet",
+    "genres": [
+      "Education",
+      "Talk",
+      "News",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 28.6692,
+    "lng": 77.4538,
+    "logo": "logos/uttar-pradesh/ydn-00000605.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/niscortradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "education",
+      "ghaziabad",
+      "hindi",
+      "internet",
+      "local",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000765",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kisan-fm-90-4-basti-up",
+    "name": "Kisan FM 90.4 Basti",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Basti",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Community",
+      "Entertainment",
+      "News"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 26.795,
+    "lng": 82.732,
+    "logo": "logos/uttar-pradesh/ydn-00000765.webp",
+    "streams": [
+      {
+        "url": "https://streamasiahlscdn.atc-labs.com/kisanfm.m3u8",
+        "format": "aac",
+        "bitrate": 65,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "basti",
+      "community",
+      "entertainment",
+      "fm",
+      "local",
+      "marathi",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000783",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kumbhvani-prayagraj-up",
+    "name": "KumbhVani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Prayagraj",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Religious",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 25.43027778,
+    "lng": 81.93777778,
+    "logo": "logos/uttar-pradesh/ydn-00000783.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "prayagraj",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000990",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-aashiqanaa-kanpur-up",
+    "name": "Radio Aashiqanaa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Kanpur",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 26.478333,
+    "lng": 80.323611,
+    "logo": "logos/uttar-pradesh/ydn-00000990.webp",
+    "streams": [
+      {
+        "url": "https://mars.streamerr.co/8154/stream",
+        "format": "aac",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "kanpur",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001076",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-gorakhpur-90-8-up",
+    "name": "Radio Gorakhpur 90.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Gorakhpur",
+    "category": "FM",
+    "genres": [
+      "Community"
+    ],
+    "frequency": "",
+    "lat": 26.866667,
+    "lng": 83.452222,
+    "logo": "logos/uttar-pradesh/ydn-00001076.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/6awcp59295quv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "gorakhpur",
+      "hindi",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001094",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-junction-lucknow-up",
+    "name": "Radio Junction",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.878333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00001094.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/bvdvkxqd6nhvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "lucknow",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001096",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-kanpuriya-kanpur-up",
+    "name": "Radio Kanpuriya",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Kanpur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.478333,
+    "lng": 80.323611,
+    "logo": "logos/uttar-pradesh/ydn-00001096.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xea7lfbiitxvv.m3u",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "kanpur",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001102",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-kesari-90-0-fm-deoria-up",
+    "name": "Radio Kesari 90.0 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Deoria",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Bollywood",
+      "Community",
+      "Entertainment"
+    ],
+    "frequency": "90 FM",
+    "lat": 26.5017,
+    "lng": 83.7791,
+    "logo": "logos/uttar-pradesh/ydn-00001102.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/vk4ye95hnxhvv",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "deoria",
+      "entertainment",
+      "fm",
+      "hindi",
+      "local",
+      "news",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001565",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-lumbini-fm-96-8-lucknow-up",
+    "name": "Radio Lumbini FM 96.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.878333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00001565.webp",
+    "streams": [
+      {
+        "url": "https://live.itech.host:4515/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "lucknow",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001112",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-madhyapaschim-fm-91-4-lucknow-up",
+    "name": "Radio Madhyapaschim FM 91.4",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.878333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00001112.webp",
+    "streams": [
+      {
+        "url": "https://live.itech.host:9011/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "lucknow",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001120",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-manavrachna-107-8-fm-govardhan-up",
+    "name": "Radio Manavrachna 107.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Govardhan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 27.5,
+    "lng": 77.46,
+    "logo": "logos/uttar-pradesh/ydn-00001120.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/manavrachna.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "govardhan",
+      "hindi",
+      "internet",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001566",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mantra-gorakhpur-up",
+    "name": "Radio Mantra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Gorakhpur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.866667,
+    "lng": 83.452222,
+    "logo": "logos/uttar-pradesh/ydn-00001566.webp",
+    "streams": [
+      {
+        "url": "https://streamlky.alsolnet.com/mantrafm",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "gorakhpur",
+      "hindi",
+      "internet",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001161",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mungra-jaunpur-up",
+    "name": "Radio Mungra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Jaunpur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.746,
+    "lng": 82.683,
+    "logo": "logos/uttar-pradesh/ydn-00001161.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/3c4tfqwuvxhvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "jaunpur",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001175",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-noida-up",
+    "name": "Radio Noida",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Noida",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Community",
+      "Education",
+      "News"
+    ],
+    "frequency": "",
+    "lat": 28.5355,
+    "lng": 77.391,
+    "logo": "logos/uttar-pradesh/ydn-00001175.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xbz9wlgsygyuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "education",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "noida",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001185",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-pragya-padrauna-up",
+    "name": "Radio Pragya",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Padrauna",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 26.902,
+    "lng": 83.979,
+    "logo": "logos/uttar-pradesh/ydn-00001185.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/adavvhe29f8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "fm",
+      "hindi",
+      "local",
+      "padrauna",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001193",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-rang-deoria-up",
+    "name": "Radio Rang",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Deoria",
+    "category": "FM",
+    "genres": [
+      "Folk",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "89.6 FM",
+    "lat": 26.5017,
+    "lng": 83.7791,
+    "logo": "logos/uttar-pradesh/ydn-00001193.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ennzbbrfs0hvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/44r9x09cqchvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "deoria",
+      "fm",
+      "folk",
+      "hindi",
+      "local",
+      "music",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001197",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-resunga-fm-106-2-gonda-up",
+    "name": "Radio Resunga FM 106.2",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Gonda",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 27.133,
+    "lng": 81.9619,
+    "logo": "logos/uttar-pradesh/ydn-00001197.webp",
+    "streams": [
+      {
+        "url": "https://live.itech.host:3260/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "gonda",
+      "hindi",
+      "internet",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001231",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sd-90-8-fm-muzaffarnagar-up",
+    "name": "Radio SD 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Muzaffarnagar",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 29.4727,
+    "lng": 77.7085,
+    "logo": "logos/uttar-pradesh/ydn-00001231.webp",
+    "streams": [
+      {
+        "url": "https://uk2.internet-radio.com/proxy/radiosdapp?mp=/stream/;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "http://uk2.internet-radio.com:8066/stream",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "fm",
+      "hindi",
+      "local",
+      "muzaffarnagar",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001262",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-urja-govardhan-up",
+    "name": "Radio Urja",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Govardhan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 27.5,
+    "lng": 77.46,
+    "logo": "logos/uttar-pradesh/ydn-00001262.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/3y0ey012muhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "govardhan",
+      "hindi",
+      "internet",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001411",
+    "type": "station",
+    "medium": "radio",
+    "slug": "suno-sharda-90-8-fm-noida-up",
+    "name": "Suno Sharda 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Noida",
+    "category": "FM",
+    "genres": [
+      "Folk",
+      "Talk",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 28.5355,
+    "lng": 77.391,
+    "logo": "logos/uttar-pradesh/ydn-00001411.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/shardaradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "fm",
+      "folk",
+      "hindi",
+      "local",
+      "music",
+      "noida",
+      "talk",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001483",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tikapur-fm-101-lucknow-up",
+    "name": "Tikapur FM 101",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Lucknow",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.878333,
+    "lng": 81.045,
+    "logo": "logos/uttar-pradesh/ydn-00001483.webp",
+    "streams": [
+      {
+        "url": "https://live.itech.host:9519/live",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "lucknow",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001544",
+    "type": "station",
+    "medium": "radio",
+    "slug": "voice-of-kannauj-90-4-fm-up",
+    "name": "Voice of Kannauj 90.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UP",
+    "city": "Kannauj",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 27.05,
+    "lng": 79.92,
+    "logo": "logos/uttar-pradesh/ydn-00001544.webp",
+    "streams": [
+      {
+        "url": "https://sp14.instainternet.com/8242/stream",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "kannauj",
+      "local",
+      "up"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  }
+]

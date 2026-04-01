@@ -1,0 +1,159 @@
+[
+  {
+    "id": "ydn-00000039",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-aizawl-mz",
+    "name": "Akashvani Aizawl",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MZ",
+    "city": "Aizawl",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "540 AM",
+    "lat": 23.73,
+    "lng": 92.70666667,
+    "logo": "logos/mizoram/ydn-00000039.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio221/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio221/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Mizo",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "aizawl",
+      "culture",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "mizo",
+      "multilingual",
+      "music",
+      "mz",
+      "news",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000159",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-lunglei-mz",
+    "name": "Akashvani Lunglei",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MZ",
+    "city": "Lunglei",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 22.87,
+    "lng": 92.76083333,
+    "logo": "logos/mizoram/ydn-00000159.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio269/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Mizo",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "lunglei",
+      "mizo",
+      "mz",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00001814",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-zowai-aizawl-fm-mz",
+    "name": "Akashvani Zowai Aizawl FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MZ",
+    "city": "Aizawl",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "100.7 FM",
+    "lat": 23.73,
+    "lng": 92.70666667,
+    "logo": "logos/mizoram/ydn-00001814.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio242/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Mizo",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "aizawl",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "mizo",
+      "music",
+      "mz",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  }
+]

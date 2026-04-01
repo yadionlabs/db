@@ -1,0 +1,5387 @@
+[
+  {
+    "id": "ydn-00000003",
+    "type": "station",
+    "medium": "radio",
+    "slug": "3a-fm-telugu-india",
+    "name": "3A FM - Telugu",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000003.webp",
+    "streams": [
+      {
+        "url": "http://174.36.206.197:8070/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000005",
+    "type": "station",
+    "medium": "radio",
+    "slug": "88-10-big-fm-india",
+    "name": "88.10 BIG FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000005.webp",
+    "streams": [
+      {
+        "url": "http://174.36.206.197:8072/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000008",
+    "type": "station",
+    "medium": "radio",
+    "slug": "92-5-sv-fm-radio-india",
+    "name": "92.5 SV FM Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000008.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/l52bgsse8i2vv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000016",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aap-ki-aawaz-india",
+    "name": "Aap Ki Aawaz",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000016.webp",
+    "streams": [
+      {
+        "url": "https://node-27.zeno.fm/spm0t8gq45quv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000024",
+    "type": "station",
+    "medium": "radio",
+    "slug": "adarsh-india",
+    "name": "Adarsh",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000024.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/gppks043568uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000252",
+    "type": "station",
+    "medium": "radio",
+    "slug": "alishyaa-india",
+    "name": "Alishyaa",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000252.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/c8ajts3rdivtv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000256",
+    "type": "station",
+    "medium": "radio",
+    "slug": "american-tamil-radio-india",
+    "name": "American Tamil Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000256.webp",
+    "streams": [
+      {
+        "url": "https://cp11.serverse.com/proxy/hgsmgluv/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000258",
+    "type": "station",
+    "medium": "radio",
+    "slug": "amlisten-music-radio-india",
+    "name": "Amlisten - Music Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000258.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/yf5p1bya1feuv",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "internet",
+      "local",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000272",
+    "type": "station",
+    "medium": "radio",
+    "slug": "anugrah-radio-india",
+    "name": "Anugrah Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000272.webp",
+    "streams": [
+      {
+        "url": "https://radio.zionmediait.com/proxy/anugrah?mp=/1",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000292",
+    "type": "station",
+    "medium": "radio",
+    "slug": "axbi-radio-india",
+    "name": "Axbi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000292.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/lwg8o6oqyhkvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00001799",
+    "type": "station",
+    "medium": "radio",
+    "slug": "baani-net-kirtan-india",
+    "name": "Baani Net - Kirtan",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001799.webp",
+    "streams": [
+      {
+        "url": "http://144.76.38.100:8019/stream/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "music",
+      "punjabi",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000297",
+    "type": "station",
+    "medium": "radio",
+    "slug": "back-2-back-hindi-songs-india",
+    "name": "Back 2 Back Hindi Songs",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000297.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ebk4bovgsv1uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000300",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bakthimalar-fm-india",
+    "name": "Bakthimalar FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000300.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/f0k0tema6zhvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000301",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bathusha-islamic-radio-india",
+    "name": "Bathusha Islamic Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000301.webp",
+    "streams": [
+      {
+        "url": "http://eu10.fastcast4u.com:14550/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000308",
+    "type": "station",
+    "medium": "radio",
+    "slug": "beat-music-india",
+    "name": "Beat Music",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000308.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ceyhu3k7g18uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000309",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bh-fm-india",
+    "name": "BH FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000309.webp",
+    "streams": [
+      {
+        "url": "http://85.25.185.202:8055/;",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000311",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhakti-rang-india",
+    "name": "Bhakti Rang",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000311.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/130arv4sarzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000312",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhakti-sagar-fm-india",
+    "name": "Bhakti Sagar FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000312.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/lcida9v81nmvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000314",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhakti-vikasa-swami-radio-india",
+    "name": "Bhakti Vikasa Swami Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000314.webp",
+    "streams": [
+      {
+        "url": "http://s7.voscast.com:8046/stream.mp3",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000346",
+    "type": "station",
+    "medium": "radio",
+    "slug": "blessings-radio-india",
+    "name": "Blessings Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000346.webp",
+    "streams": [
+      {
+        "url": "http://37.187.93.104:8586/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000356",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bollywood-music-radio-india",
+    "name": "Bollywood Music Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000356.webp",
+    "streams": [
+      {
+        "url": "http://64.71.79.181:5124/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000357",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bollywood-super-cool-hits-india",
+    "name": "Bollywood Super Cool Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000357.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/zs3m3yxjr7buv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000360",
+    "type": "station",
+    "medium": "radio",
+    "slug": "break-up-india",
+    "name": "Break Up",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000360.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ngpzzb9du9juv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000366",
+    "type": "station",
+    "medium": "radio",
+    "slug": "capital-disko-india",
+    "name": "Capital Disko",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000366.webp",
+    "streams": [
+      {
+        "url": "http://sr2.inmystream.info:8040/stream/;",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000367",
+    "type": "station",
+    "medium": "radio",
+    "slug": "catholic-hub-kannada-india",
+    "name": "Catholic Hub Kannada",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000367.webp",
+    "streams": [
+      {
+        "url": "http://91.121.164.210:8076/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000368",
+    "type": "station",
+    "medium": "radio",
+    "slug": "catholic-tamil-india",
+    "name": "Catholic Tamil",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000368.webp",
+    "streams": [
+      {
+        "url": "https://listen.radioking.com/radio/224683/stream/268186",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000372",
+    "type": "station",
+    "medium": "radio",
+    "slug": "chillax-fm-india",
+    "name": "Chillax FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000372.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ohhsihm2byluv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000373",
+    "type": "station",
+    "medium": "radio",
+    "slug": "chirantanee-bongonet-india",
+    "name": "Chirantanee - BongOnet",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000373.webp",
+    "streams": [
+      {
+        "url": "http://radio.bongonet.net:8036/;stream/1",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000374",
+    "type": "station",
+    "medium": "radio",
+    "slug": "christian-fm-india",
+    "name": "Christian FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000374.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/g89zszx3yqruv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "malayalam",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00001573",
+    "type": "station",
+    "medium": "radio",
+    "slug": "christian-online-radio-india",
+    "name": "Christian Online Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001573.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/dw8s64e6puquv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000383",
+    "type": "station",
+    "medium": "radio",
+    "slug": "christian-zone-fm-india",
+    "name": "Christian Zone FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000383.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/e41wb91zrzzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000384",
+    "type": "station",
+    "medium": "radio",
+    "slug": "christmas-carols-india",
+    "name": "Christmas Carols",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000384.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/v6xrukgtmm0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000388",
+    "type": "station",
+    "medium": "radio",
+    "slug": "classic-radio-hindi-india",
+    "name": "Classic Radio - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000388.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/zewahanyfjptv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "bollywood",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000391",
+    "type": "station",
+    "medium": "radio",
+    "slug": "classic-sangeet-maala-radio-india",
+    "name": "Classic Sangeet Maala Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000391.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/yykgouelfzvuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000400",
+    "type": "station",
+    "medium": "radio",
+    "slug": "comedy-radio-india",
+    "name": "Comedy Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000400.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/08frweayag8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000409",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ctbc-tamil-india",
+    "name": "CTBC Tamil",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000409.webp",
+    "streams": [
+      {
+        "url": "http://ctbcfmradio.primcast.com:4086/;stream.mp3",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000410",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ctr24-india",
+    "name": "CTR24",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000410.webp",
+    "streams": [
+      {
+        "url": "http://198.27.66.225:8498/stream.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000418",
+    "type": "station",
+    "medium": "radio",
+    "slug": "digital-school-india",
+    "name": "Digital School",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000418.webp",
+    "streams": [
+      {
+        "url": "http://209.133.216.3:7316/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000420",
+    "type": "station",
+    "medium": "radio",
+    "slug": "divasi-handa-india",
+    "name": "Divasi Handa",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000420.webp",
+    "streams": [
+      {
+        "url": "http://192.184.9.79:8414/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000424",
+    "type": "station",
+    "medium": "radio",
+    "slug": "djvelly-india",
+    "name": "DJvelly",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Electronic"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000424.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8zv8mryx9p8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "electronic",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000435",
+    "type": "station",
+    "medium": "radio",
+    "slug": "elurchi-radio-india",
+    "name": "Elurchi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000435.webp",
+    "streams": [
+      {
+        "url": "http://192.240.97.69:9201/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000445",
+    "type": "station",
+    "medium": "radio",
+    "slug": "feed-christmas-india",
+    "name": "Feed Christmas",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000445.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/edm82w8pmm0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000494",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gagan-radio-india",
+    "name": "Gagan Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000494.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/wrcf669yh2zuv",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000495",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gal-kal-radio-india",
+    "name": "Gal Kal Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000495.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/4wcfh8edfwzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000496",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gan-gow-radio-india",
+    "name": "Gan Gow Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000496.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/71xz48qdfwzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000497",
+    "type": "station",
+    "medium": "radio",
+    "slug": "geet-radio-bangla-india",
+    "name": "Geet Radio - Bangla",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000497.webp",
+    "streams": [
+      {
+        "url": "https://server.geetradio.com:8050/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000499",
+    "type": "station",
+    "medium": "radio",
+    "slug": "geet-radio-gujarati-india",
+    "name": "Geet Radio - Gujarati",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000499.webp",
+    "streams": [
+      {
+        "url": "https://server.geetradio.com:8070/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000500",
+    "type": "station",
+    "medium": "radio",
+    "slug": "geet-radio-kannada-india",
+    "name": "Geet Radio - Kannada",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000500.webp",
+    "streams": [
+      {
+        "url": "https://server.geetradio.com:8040/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000502",
+    "type": "station",
+    "medium": "radio",
+    "slug": "geet-radio-marathi-india",
+    "name": "Geet Radio - Marathi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000502.webp",
+    "streams": [
+      {
+        "url": "https://server.geetradio.com:8060/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000507",
+    "type": "station",
+    "medium": "radio",
+    "slug": "global-punjab-tv-india",
+    "name": "Global Punjab TV",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000507.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/2nnc9uy4za0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000510",
+    "type": "station",
+    "medium": "radio",
+    "slug": "golden-voice-fm-punjabi-india",
+    "name": "Golden Voice FM - Punjabi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000510.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/qc07glwm4lvtv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000532",
+    "type": "station",
+    "medium": "radio",
+    "slug": "grace-christian-radio-hindi-india",
+    "name": "Grace Christian Radio - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000532.webp",
+    "streams": [
+      {
+        "url": "https://centova71.instainternet.com/proxy/gracehindiradio?1730981316502=&mp=/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000533",
+    "type": "station",
+    "medium": "radio",
+    "slug": "grace-christian-radio-telugu-india",
+    "name": "Grace Christian Radio - Telugu",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000533.webp",
+    "streams": [
+      {
+        "url": "https://centova71.instainternet.com/proxy/gracetradio?1730981015132=&mp=/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000542",
+    "type": "station",
+    "medium": "radio",
+    "slug": "guru-raghavendra-bhakti-radio-india",
+    "name": "Guru Raghavendra Bhakti Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000542.webp",
+    "streams": [
+      {
+        "url": "http://streams.museter.com:8231/autodj",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000569",
+    "type": "station",
+    "medium": "radio",
+    "slug": "happy-christmas-india",
+    "name": "Happy Christmas",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000569.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/560c2p9ngf9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000570",
+    "type": "station",
+    "medium": "radio",
+    "slug": "harrish-jayaraj-india",
+    "name": "Harrish Jayaraj",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000570.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ob6tjg8gulptv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000573",
+    "type": "station",
+    "medium": "radio",
+    "slug": "heavenly-word-christian-india",
+    "name": "Heavenly Word Christian",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000573.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/5suvmcxad9quv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000576",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hello-radio-glps-maruthonkara-india",
+    "name": "Hello Radio GLPS Maruthonkara",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000576.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/dnhdypmdeqkuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000577",
+    "type": "station",
+    "medium": "radio",
+    "slug": "himachali-naati-india",
+    "name": "Himachali Naati",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000577.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/5utz0d1z668uv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000580",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hindi-retro-hits-radio-india",
+    "name": "Hindi Retro Hits Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000580.webp",
+    "streams": [
+      {
+        "url": "https://stream-006.zeno.fm/v2zfmxef798uv?zs=Nne2hq6eSwK3TTV_ZmPAlg",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000583",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hits-india",
+    "name": "Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000583.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8kmzmz8abzzuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000587",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hits-of-bollywood-maayboli-india",
+    "name": "Hits Of Bollywood - Maayboli",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000587.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/463d8uzrwfeuv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "marathi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000606",
+    "type": "station",
+    "medium": "radio",
+    "slug": "innisai-fm-india",
+    "name": "Innisai FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000606.webp",
+    "streams": [
+      {
+        "url": "http://192.240.102.133:12346/;stream.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000616",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jaintia-digital-radio-india",
+    "name": "Jaintia Digital Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000616.webp",
+    "streams": [
+      {
+        "url": "https://listen.radioking.com/radio/745390/stream/811981",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000733",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jesus-radio-malayalam-india",
+    "name": "Jesus Radio - Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000733.webp",
+    "streams": [
+      {
+        "url": "http://88.198.138.88:8000/jesusradio/;.m3u",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000745",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jrm-markaz-ki-awaz-india",
+    "name": "JRM Markaz Ki Awaz",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000745.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/z2ryhp76u7zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000763",
+    "type": "station",
+    "medium": "radio",
+    "slug": "khandeshi-pk-india",
+    "name": "Khandeshi PK",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000763.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8u1r26ba5v8uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000772",
+    "type": "station",
+    "medium": "radio",
+    "slug": "konkani-christian-radio-india",
+    "name": "Konkani Christian Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000772.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/9ncm0d88t7zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000774",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kripalu-bhakti-dhara-radio-india",
+    "name": "Kripalu Bhakti Dhara Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000774.webp",
+    "streams": [
+      {
+        "url": "http://s7.streammonster.com:8473/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://kbd.out.airtime.pro:8000/kbd_a",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000779",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kumar-sanu-india",
+    "name": "Kumar Sanu",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000779.webp",
+    "streams": [
+      {
+        "url": "https://stream-164.zeno.fm/shxt7qxapy8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzaHh0N3F4YXB5OHV2IiwiaG9zdCI6InN0cmVhbS0xNjQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlVEaWNpRUFRVFpXVEVsWFB0QUtES0EiLCJpYXQiOjE3MzM5MzM1ODEsImV4cCI6MTczMzkzMzY0MX0.1acJcT7zVVJSndU4cP",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000780",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kumari-tamil-media-radio-india",
+    "name": "Kumari Tamil Media Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000780.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/rp7fbgrkhbquv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000793",
+    "type": "station",
+    "medium": "radio",
+    "slug": "legends-hits-hindi-india",
+    "name": "Legends Hits Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000793.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/msaay0cm7kduv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000795",
+    "type": "station",
+    "medium": "radio",
+    "slug": "life-fm-india",
+    "name": "Life FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000795.webp",
+    "streams": [
+      {
+        "url": "https://node-26.zeno.fm/k0qrmtts91zuv?rj-tok=AAABczRkykEAR8bR_MZDw_rdiQ&rj-ttl=5",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000797",
+    "type": "station",
+    "medium": "radio",
+    "slug": "listen-gurbani-radio-india",
+    "name": "Listen Gurbani Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000797.webp",
+    "streams": [
+      {
+        "url": "http://149.56.195.94:8460/stream?icy=http",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000812",
+    "type": "station",
+    "medium": "radio",
+    "slug": "m-s-viswanathan-fm-india",
+    "name": "M S Viswanathan FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000812.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/x7wc1xgllvsvv/",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000816",
+    "type": "station",
+    "medium": "radio",
+    "slug": "maayboli-radio-india",
+    "name": "Maayboli Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000816.webp",
+    "streams": [
+      {
+        "url": "https://stream-18.zeno.fm/48kybvzrwfeuv?zs=HlPa6uWDRtKwGJu5Lk3fWw",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000819",
+    "type": "station",
+    "medium": "radio",
+    "slug": "madhur-awaz-india",
+    "name": "Madhur Awaz",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000819.webp",
+    "streams": [
+      {
+        "url": "http://janus.shoutca.st:9117/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000831",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mahakal-24x7-india",
+    "name": "Mahakal 24x7",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000831.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/x42y8ezyurhvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000839",
+    "type": "station",
+    "medium": "radio",
+    "slug": "malwa-radio-india",
+    "name": "Malwa Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000839.webp",
+    "streams": [
+      {
+        "url": "https://stream-149.zeno.fm/mqa4ue738p8uv?zs=jCcZR_I7SEWSUo7Os0hBWg",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000848",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mayavi-india",
+    "name": "Mayavi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000848.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/w97epjjnbmltv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000854",
+    "type": "station",
+    "medium": "radio",
+    "slug": "melody-india",
+    "name": "Melody",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000854.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xg7m7t61x1zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000859",
+    "type": "station",
+    "medium": "radio",
+    "slug": "metro-one-radio-india",
+    "name": "Metro One Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000859.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/7clmyuwxfqxuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000901",
+    "type": "station",
+    "medium": "radio",
+    "slug": "namathu-fm-india",
+    "name": "Namathu FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000901.webp",
+    "streams": [
+      {
+        "url": "https://s3.voscast.com:10527/stream?type=.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000924",
+    "type": "station",
+    "medium": "radio",
+    "slug": "nilacharal-online-fm-india",
+    "name": "Nilacharal Online FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000924.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/lvboft5xbbhtv.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000945",
+    "type": "station",
+    "medium": "radio",
+    "slug": "one-way-fm-telugu-india",
+    "name": "One Way FM Telugu",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000945.webp",
+    "streams": [
+      {
+        "url": "https://listen.radioking.com/radio/746302/stream/812908",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000946",
+    "type": "station",
+    "medium": "radio",
+    "slug": "oye-india-india",
+    "name": "Oye India",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000946.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cgrwb1hd4v8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001580",
+    "type": "station",
+    "medium": "radio",
+    "slug": "palamadom-radio-malayalam-india",
+    "name": "Palamadom Radio - Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001580.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/g40ant3fdwzuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "malayalam",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000955",
+    "type": "station",
+    "medium": "radio",
+    "slug": "playtamil-fm-india",
+    "name": "Playtamil FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000955.webp",
+    "streams": [
+      {
+        "url": "http://212.83.138.48:8352/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000960",
+    "type": "station",
+    "medium": "radio",
+    "slug": "pop-station-india",
+    "name": "Pop station",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000960.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/204b4474wuhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000966",
+    "type": "station",
+    "medium": "radio",
+    "slug": "pudhayal-india",
+    "name": "Pudhayal",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000966.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/kfwz2wydfwzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000989",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-aamar-india",
+    "name": "Radio Aamar",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00000989.webp",
+    "streams": [
+      {
+        "url": "http://109.169.23.95:7536/;stream.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001004",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-bangla-102-0-india",
+    "name": "Radio Bangla 102.0",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001004.webp",
+    "streams": [
+      {
+        "url": "https://stream-176.zeno.fm/hvyz5hqkfuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJodnl6NWhxa2Z1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im1VM2hic3ZCVDlhZThLdzJVVkpqQkEiLCJpYXQiOjE3Mzg1OTc0NTUsImV4cCI6MTczODU5NzUxNX0.wX7W4ULeGmgFcl1ejW",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001013",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-bilal-india",
+    "name": "Radio Bilal",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001013.webp",
+    "streams": [
+      {
+        "url": "http://node-15.zeno.fm/597chss594zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001014",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-bilal-al-quran-india",
+    "name": "Radio Bilal Al Quran",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001014.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/3qxzv3w4za0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001015",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-bilal-bayan-india",
+    "name": "Radio Bilal Bayan",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001015.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/frhgv6cmva0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001016",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-bilal-moulid-shareef-india",
+    "name": "Radio Bilal Moulid Shareef",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001016.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cu8hnwqaed0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001022",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-chann-pardesi-punjabi-radio-india",
+    "name": "Radio Chann Pardesi - Punjabi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Folk"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001022.webp",
+    "streams": [
+      {
+        "url": "http://ice.mehramedia.com:8763/live",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "folk",
+      "internet",
+      "local",
+      "music",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001029",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-24-india",
+    "name": "Radio City 24",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001029.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/uyczz2wtywzuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "music",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001035",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-91-9-fm-gorakhpur-india",
+    "name": "Radio City 91.9 FM Gorakhpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "FM",
+    "genres": [],
+    "frequency": "91.9 FM",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001035.webp",
+    "streams": [
+      {
+        "url": "https://prclive1.listenon.in/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001063",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-dil-india",
+    "name": "Radio Dil",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001063.webp",
+    "streams": [
+      {
+        "url": "https://us3.streamingpulse.com/ssl/radiodil2",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001067",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-dunia-india",
+    "name": "Radio Dunia",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001067.webp",
+    "streams": [
+      {
+        "url": "https://stream.justneed.in:2087/listen/radio_dunia/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001075",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-goongoon-india",
+    "name": "Radio GoonGoon",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001075.webp",
+    "streams": [
+      {
+        "url": "http://live.radiogoongoon.com:8888/stream/1/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001084",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-hithot-tamil-india",
+    "name": "Radio HitHot Tamil",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001084.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/55gcqfxwzp8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001174",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-njan-malayali-india",
+    "name": "Radio Njan Malayali",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001174.webp",
+    "streams": [
+      {
+        "url": "http://78.129.193.103:22469/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001180",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-palamadom-india",
+    "name": "Radio Palamadom",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001180.webp",
+    "streams": [
+      {
+        "url": "https://stream-163.zeno.fm/fbbg2pbbmbruv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJmYmJnMnBiYm1icnV2IiwiaG9zdCI6InN0cmVhbS0xNjMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNUSGlleThZUm1HSTRkR3loUkFxVEEiLCJpYXQiOjE3MTY5MTQwMTgsImV4cCI6MTcxNjkxNDA3OH0.2unxH7Kms_Bv8YcwDI",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001229",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-scrambler-ducati-india",
+    "name": "Radio Scrambler Ducati",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001229.webp",
+    "streams": [
+      {
+        "url": "https://stream.radio.co/sa359d3b4a/listen",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001242",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sindhi-sindhunagar-india",
+    "name": "Radio Sindhi - Sindhunagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001242.webp",
+    "streams": [
+      {
+        "url": "http://139.59.119.157:8241/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001252",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-tamilan-india",
+    "name": "Radio Tamilan",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001252.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/s3fd0rhbylxtv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001253",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-tango-india",
+    "name": "Radio Tango",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001253.webp",
+    "streams": [
+      {
+        "url": "http://188.40.135.197:8394/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001261",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-urdu-mehfil-e-noor-india",
+    "name": "Radio Urdu Mehfil-e-Noor",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001261.webp",
+    "streams": [
+      {
+        "url": "http://104.7.66.64:8092/;?icy=http",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001263",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-uttarakhand-india",
+    "name": "Radio Uttarakhand",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001263.webp",
+    "streams": [
+      {
+        "url": "http://cdn1.mediaisyou.com/radioraibar.mp3",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001274",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-wayanad-india",
+    "name": "Radio Wayanad",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001274.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/pmp6rvqpqjyvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001276",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-zindagi-india",
+    "name": "Radio Zindagi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001276.webp",
+    "streams": [
+      {
+        "url": "https://us9.maindigitalstream.com/ssl/RadioZindagi",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001317",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rrr-adhu-india",
+    "name": "RRR Adhu",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001317.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/soptktfunetuv",
+        "format": "mp3",
+        "bitrate": 80,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001319",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rva-radio-veritas-asia-hindi-india",
+    "name": "RVA Radio Veritas Asia Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001319.webp",
+    "streams": [
+      {
+        "url": "https://livestream.rvasia.org:8443/Hindi.mp3",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001320",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sabka-radio-india",
+    "name": "Sabka Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001320.webp",
+    "streams": [
+      {
+        "url": "http://sabka.radio.verkkotelakka.net:8005/sabka.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001321",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sada-bahar-music-radio-india",
+    "name": "Sada Bahar Music Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Oldies",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001321.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/kahx8t98vp8uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001333",
+    "type": "station",
+    "medium": "radio",
+    "slug": "samadhanbeldar-india",
+    "name": "Samadhanbeldar",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001333.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/484b3nky768uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001342",
+    "type": "station",
+    "medium": "radio",
+    "slug": "santhali-fm-india",
+    "name": "Santhali FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001342.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8euy8hmd1k0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001351",
+    "type": "station",
+    "medium": "radio",
+    "slug": "seven-hills-fm-india",
+    "name": "Seven Hills FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001351.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/urusdb3unv8uv",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001356",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shakthi-104-1-tamil-fm-india",
+    "name": "Shakthi 104.1 Tamil FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001356.webp",
+    "streams": [
+      {
+        "url": "http://live.trusl.com:1160/;",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001583",
+    "type": "station",
+    "medium": "radio",
+    "slug": "suvarthamaanam-radio-hindi-india",
+    "name": "Suvarthamaanam Radio - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001583.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/p8vnzy6z9u8uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001446",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tamil-thangam-india",
+    "name": "Tamil Thangam",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001446.webp",
+    "streams": [
+      {
+        "url": "https://www.liveradio.es/http:/stream.zeno.fm/e2b3xgmdhuquv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001449",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tamilair-india",
+    "name": "Tamilair",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001449.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8z017k02138uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001451",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tamilaruvi-fm-india",
+    "name": "Tamilaruvi FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001451.webp",
+    "streams": [
+      {
+        "url": "https://cast6.asurahosting.com/proxy/tamilaruvi/stream",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001452",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tech-all-nations-radio-s-india",
+    "name": "Tech All Nations Radio S",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001452.webp",
+    "streams": [
+      {
+        "url": "http://69.46.24.226:7539/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001464",
+    "type": "station",
+    "medium": "radio",
+    "slug": "thaalam-24x7-malayalam-india",
+    "name": "Thaalam 24x7 Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001464.webp",
+    "streams": [
+      {
+        "url": "https://radio.thaalam24x7.in/listen/thaalam_24x7/live",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001465",
+    "type": "station",
+    "medium": "radio",
+    "slug": "thalapathy-india",
+    "name": "Thalapathy",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001465.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cfhsw5ckvzzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001468",
+    "type": "station",
+    "medium": "radio",
+    "slug": "thayagam-tamil-radio-india",
+    "name": "Thayagam Tamil Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001468.webp",
+    "streams": [
+      {
+        "url": "https://s3.yesstreaming.net:7019/thayagam48K",
+        "format": "aac",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001470",
+    "type": "station",
+    "medium": "radio",
+    "slug": "the-talk-box-24x7-india",
+    "name": "The Talk Box 24x7",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001470.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/c4t6y6hyaphvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001480",
+    "type": "station",
+    "medium": "radio",
+    "slug": "thisara-fm-india",
+    "name": "Thisara FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001480.webp",
+    "streams": [
+      {
+        "url": "http://69.46.24.226:7635/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001486",
+    "type": "station",
+    "medium": "radio",
+    "slug": "traditores-radio-india",
+    "name": "Traditores Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001486.webp",
+    "streams": [
+      {
+        "url": "http://158.69.227.214:8125/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001493",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ullathai-allitha-india",
+    "name": "Ullathai Allitha",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001493.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/6fmzh9v2wwzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001504",
+    "type": "station",
+    "medium": "radio",
+    "slug": "valipokan-india",
+    "name": "Valipokan",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001504.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/039ybw7sef9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001512",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vidhyaraagam-radio-india",
+    "name": "Vidhyaraagam Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001512.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/0u08umvd5uhvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001513",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vidyasagar-radio-india",
+    "name": "Vidyasagar Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001513.webp",
+    "streams": [
+      {
+        "url": "http://212.83.138.48:8664/;stream.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001516",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vilas-kumar-sirsath-india",
+    "name": "Vilas Kumar Sirsath",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001516.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/0pb39uk90s8uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001517",
+    "type": "station",
+    "medium": "radio",
+    "slug": "virijallu-fm-india",
+    "name": "Virijallu FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001517.webp",
+    "streams": [
+      {
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC10_SC",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001546",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vsvp-tech-fm-india",
+    "name": "VSVP Tech FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001546.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/im3yjuljp56vv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  },
+  {
+    "id": "ydn-00001551",
+    "type": "station",
+    "medium": "radio",
+    "slug": "wings-radio-india",
+    "name": "Wings Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001551.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/36x60axrgm8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  },
+  {
+    "id": "ydn-00001552",
+    "type": "station",
+    "medium": "radio",
+    "slug": "winner-india",
+    "name": "Winner",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001552.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/6n9ussrdfwzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  },
+  {
+    "id": "ydn-00001557",
+    "type": "station",
+    "medium": "radio",
+    "slug": "yuwave-india",
+    "name": "Yuwave",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001557.webp",
+    "streams": [
+      {
+        "url": "http://144.217.203.184:8615/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  },
+  {
+    "id": "ydn-00001558",
+    "type": "station",
+    "medium": "radio",
+    "slug": "zaar-fm-india",
+    "name": "Zaar FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001558.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/kbmrz3hfaxhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  },
+  {
+    "id": "ydn-00001559",
+    "type": "station",
+    "medium": "radio",
+    "slug": "zikr-fm-india",
+    "name": "ZIKR FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/unknown/ydn-00001559.webp",
+    "streams": [
+      {
+        "url": "http://50.7.77.114:8441/autodj",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  }
+]

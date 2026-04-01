@@ -1,0 +1,55 @@
+[
+  {
+    "id": "ydn-00000083",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-daman-dd",
+    "name": "Akashvani Daman",
+    "continent": "asia",
+    "country": "IN",
+    "state": "DD",
+    "city": "Daman",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "102.3 FM",
+    "lat": 20.4125,
+    "lng": 72.86305556,
+    "logo": "logos/daman-diu/ydn-00000083.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio208/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 123,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "daman",
+      "dd",
+      "digital",
+      "english",
+      "entertainment",
+      "gujarati",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  }
+]

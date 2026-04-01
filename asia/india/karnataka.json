@@ -1,0 +1,3345 @@
+[
+  {
+    "id": "ydn-00001610",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bellari-ballari-ka",
+    "name": "Akashvani Bellari",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Ballari",
+    "category": "Digital",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 15.13694444,
+    "lng": 76.88027778,
+    "logo": "logos/karnataka/ydn-00001610.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio142/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ballari",
+      "digital",
+      "ka",
+      "kannada",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000058",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bengaluru-amrutvarshini-ka",
+    "name": "Akashvani Bengaluru Amrutvarshini",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Classical",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000058.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio028/hlspbaudio028_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "digital",
+      "english",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000062",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bhadravati-bhadrawati-ka",
+    "name": "Akashvani Bhadravati",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bhadrawati",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "675 AM",
+    "lat": 13.81888889,
+    "lng": 75.66861111,
+    "logo": "logos/karnataka/ydn-00000062.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 74,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": false
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio211/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 74,
+        "primary": false
+      },
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhadrawati",
+      "digital",
+      "english",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "marathi",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000067",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bijapur-vijayapura-ka",
+    "name": "Akashvani Bijapur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Vijayapura",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 16.83,
+    "lng": 75.71,
+    "logo": "logos/karnataka/ydn-00000067.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio145/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "vijayapura"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000077",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chitradurga-ka",
+    "name": "Akashvani Chitradurga",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Chitradurga",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.6 FM",
+    "lat": 14.225,
+    "lng": 76.41166667,
+    "logo": "logos/karnataka/ydn-00000077.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio105/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "chitradurga",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000091",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-dharwad-ka",
+    "name": "Akashvani Dharwad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Dharwad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "765 AM",
+    "lat": 15.41666667,
+    "lng": 75.04166667,
+    "logo": "logos/karnataka/ydn-00000091.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio150/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "dharwad",
+      "digital",
+      "english",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000105",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-hassan-ka",
+    "name": "Akashvani Hassan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Hassan",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.2 FM",
+    "lat": 13.02222222,
+    "lng": 76.10222222,
+    "logo": "logos/karnataka/ydn-00000105.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio172/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hassan",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000108",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-hosapete-ka",
+    "name": "Akashvani Hosapete",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Hosapete",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 15.2689,
+    "lng": 76.3909,
+    "logo": "logos/karnataka/ydn-00000108.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio184/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "hosapete",
+      "ka",
+      "kannada",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000131",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kalaburgi-gulbarga-kalaburagi-ka",
+    "name": "Akashvani Kalaburgi (Gulbarga)",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Kalaburagi",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 17.27222222,
+    "lng": 76.81666667,
+    "logo": "logos/karnataka/ydn-00000131.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio015/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 78,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "ka",
+      "kalaburagi",
+      "kannada",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000136",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-karnataka-bengaluru-ka",
+    "name": "Akashvani Karnataka",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000136.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio030/hlspbaudio030_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "digital",
+      "english",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000137",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-karwar-ka",
+    "name": "Akashvani Karwar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Karwar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.3 FM",
+    "lat": 14.82138889,
+    "lng": 74.135,
+    "logo": "logos/karnataka/ydn-00000137.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio123/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "digital",
+      "english",
+      "hindi",
+      "ka",
+      "kannada",
+      "karwar",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000160",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-madikeri-ka",
+    "name": "Akashvani Madikeri",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Madikeri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.1 FM",
+    "lat": 12.4244,
+    "lng": 75.7382,
+    "logo": "logos/karnataka/ydn-00000160.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio068/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": [
+        "Kodava"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "madikeri",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000164",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-mangaluru-ka",
+    "name": "Akashvani Mangaluru",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Mangaluru",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "100.3 FM",
+    "lat": 12.9141,
+    "lng": 74.856,
+    "logo": "logos/karnataka/ydn-00000164.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio073/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 166,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": [
+        "Tulu"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "mangaluru",
+      "multilingual",
+      "news",
+      "talk",
+      "tulu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000172",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-mysuru-ka",
+    "name": "Akashvani Mysuru",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Mysuru",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "100.6 FM",
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "logo": "logos/karnataka/ydn-00000172.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio177/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "multilingual",
+      "music",
+      "mysuru",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000195",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-raichur-ka",
+    "name": "Akashvani Raichur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Raichur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.1 FM",
+    "lat": 16.18888889,
+    "lng": 77.36222222,
+    "logo": "logos/karnataka/ydn-00000195.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio198/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "news",
+      "raichur",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000344",
+    "type": "station",
+    "medium": "radio",
+    "slug": "big-fm-bangalore-bengaluru-ka",
+    "name": "Big FM Bangalore",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "FM",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "92.7 FM",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000344.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/dbstwo3dvhhtv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "bollywood",
+      "fm",
+      "hindi",
+      "ka",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000354",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bollywood-gaane-purane-belagavi-ka",
+    "name": "Bollywood Gaane Purane",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Belagavi",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 15.8497,
+    "lng": 74.4977,
+    "logo": "logos/karnataka/ydn-00000354.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/6n6ewddtad0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/hem5rrfn07zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "belagavi",
+      "bollywood",
+      "classical",
+      "hindi",
+      "internet",
+      "ka",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000427",
+    "type": "station",
+    "medium": "radio",
+    "slug": "dollar-fm-bengaluru-ka",
+    "name": "Dollar FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "News",
+      "Music",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000427.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/06b4pm7pyd0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "bollywood",
+      "community",
+      "english",
+      "internet",
+      "ka",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000432",
+    "type": "station",
+    "medium": "radio",
+    "slug": "eawaz-770-am-hoskote-ka",
+    "name": "Eawaz 770 AM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Hoskote",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 13.0707,
+    "lng": 77.7981,
+    "logo": "logos/karnataka/ydn-00000432.webp",
+    "streams": [
+      {
+        "url": "http://37.59.41.148:7764/;",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hoskote",
+      "internet",
+      "ka",
+      "kannada",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000444",
+    "type": "station",
+    "medium": "radio",
+    "slug": "feba-online-bengaluru-ka",
+    "name": "FEBA Online",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Pop",
+      "Music",
+      "Education",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000444.webp",
+    "streams": [
+      {
+        "url": "https://listen.radioking.com/radio/557210/stream/616676",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://www.radioking.com/play/feba-online/618317",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      },
+      {
+        "url": "https://listen.radioking.com/radio/557210/stream/618317",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "education",
+      "english",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "pop",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000471",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-kannada-kaamanbilu-bengaluru-ka",
+    "name": "FM Rainbow Kannada Kaamanbilu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000471.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio027/hlspbaudio027_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": [
+        "English",
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "digital",
+      "english",
+      "hindi",
+      "ka",
+      "kannada",
+      "local",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000557",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hand-of-jesus-english-bandipur-ka",
+    "name": "Hand of Jesus - English",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bandipur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.66,
+    "lng": 76.63,
+    "logo": "logos/karnataka/ydn-00000557.webp",
+    "streams": [
+      {
+        "url": "http://84.16.232.202:7434/stream",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bandipur",
+      "internet",
+      "ka",
+      "kannada",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000739",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jnana-dhwani-mysuru-ka",
+    "name": "Jnana Dhwani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Mysuru",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Community"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "logo": "logos/karnataka/ydn-00000739.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/metradio.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "ka",
+      "kannada",
+      "local",
+      "mysuru",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000746",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jss-radio-91-2-fm-mysuru-ka",
+    "name": "JSS Radio 91.2 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Mysuru",
+    "category": "FM",
+    "genres": [
+      "Education",
+      "Folk",
+      "Talk",
+      "Community",
+      "Culture"
+    ],
+    "frequency": "91.2 FM",
+    "lat": 12.2958,
+    "lng": 76.6394,
+    "logo": "logos/karnataka/ydn-00000746.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/jssradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "culture",
+      "education",
+      "fm",
+      "folk",
+      "ka",
+      "kannada",
+      "local",
+      "mysuru",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000757",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kashmir-online-radio-bandipur-ka",
+    "name": "Kashmir Online Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bandipur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.66,
+    "lng": 76.63,
+    "logo": "logos/karnataka/ydn-00000757.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/hdsynxpdam8uv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bandipur",
+      "internet",
+      "ka",
+      "kannada",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000768",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kle-venudhwani-90-4-fm-belagavi-ka",
+    "name": "KLE Venudhwani 90.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Belagavi",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Music",
+      "Community"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 15.8497,
+    "lng": 74.4977,
+    "logo": "logos/karnataka/ydn-00000768.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/Klevenudhwani.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "belagavi",
+      "community",
+      "fm",
+      "ka",
+      "kannada",
+      "local",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000784",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kundapura-radio-ka",
+    "name": "Kundapura Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Kundapura",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Community"
+    ],
+    "frequency": "89.6 FM",
+    "lat": 13.63,
+    "lng": 74.69,
+    "logo": "logos/karnataka/ydn-00000784.webp",
+    "streams": [
+      {
+        "url": "http://d9unqqphyis97.cloudfront.net/kundapura.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "ka",
+      "kannada",
+      "kundapura",
+      "local",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000821",
+    "type": "station",
+    "medium": "radio",
+    "slug": "madhur-tarang-bengaluru-ka",
+    "name": "Madhur Tarang",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Pop",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000821.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/63eqy23x34zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/v0gde6udfg8uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      },
+      {
+        "url": "https://stream.zeno.fm/jppgwh1eozauv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Kannada"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "english",
+      "internet",
+      "ka",
+      "kannada",
+      "local",
+      "music",
+      "pop",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000893",
+    "type": "station",
+    "medium": "radio",
+    "slug": "myopus-radio-c-train-bengaluru-ka",
+    "name": "Myopus Radio - C Train",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Blues",
+      "Jazz"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000893.webp",
+    "streams": [
+      {
+        "url": "http://myopusradio.com:8000/ctrain",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "blues",
+      "english",
+      "internet",
+      "jazz",
+      "ka",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000894",
+    "type": "station",
+    "medium": "radio",
+    "slug": "myopus-radio-cassette-player-bengaluru-ka",
+    "name": "Myopus Radio - Cassette Player",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000894.webp",
+    "streams": [
+      {
+        "url": "http://myopusradio.com:8000/cassetteplayer",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "english",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000905",
+    "type": "station",
+    "medium": "radio",
+    "slug": "namm-radio-india-bengaluru-ka",
+    "name": "Namm Radio - India",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Oldies",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000905.webp",
+    "streams": [
+      {
+        "url": "http://stream-157.zeno.fm/6quh1pfnt1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2cXVoMXBmbnQxZHV2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkdMUmJtMlFYUlBhU2xKWnZnNWdORVEiLCJpYXQiOjE3MjYyMzQyNTQsImV4cCI6MTcyNjIzNDMxNH0.T14AmCM29kbtkNtIj3E",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://stream.zenolive.com/6quh1pfnt1duv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://stream.zeno.fm/6quh1pfnt1duv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "entertainment",
+      "internet",
+      "ka",
+      "kannada",
+      "local",
+      "music",
+      "oldies",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000909",
+    "type": "station",
+    "medium": "radio",
+    "slug": "namma-dhwani-crs-90-4-mhz-bangarapet-ka",
+    "name": "Namma Dhwani CRS 90.4 MHz",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bangarapet",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Music"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 12.991,
+    "lng": 78.178,
+    "logo": "logos/karnataka/ydn-00000909.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/nammadhwani.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bangarapet",
+      "fm",
+      "ka",
+      "kannada",
+      "local",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000954",
+    "type": "station",
+    "medium": "radio",
+    "slug": "periyava-vanoli-bengaluru-ka",
+    "name": "Periyava Vanoli",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Music",
+      "Education",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000954.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ark0f47urg0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/27hvq39urg0uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Tamil"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "education",
+      "entertainment",
+      "hindi",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "religious",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000961",
+    "type": "station",
+    "medium": "radio",
+    "slug": "power-fm-kannada-bengaluru-ka",
+    "name": "Power FM - Kannada",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000961.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/rketbsyc5uhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream-174.zeno.fm/rketbsyc5uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJya2V0YnN5YzV1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImRZVHpLaGRsVGJteFhrbElHc2dUYXciLCJpYXQiOjE3MzIxMDM3MDQsImV4cCI6MTczMjEwMzc2NH0.-u6833-xBIfMwjXy4i",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "english",
+      "internet",
+      "ka",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000991",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-active-bengaluru-ka",
+    "name": "Radio Active",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "FM",
+    "genres": [
+      "Talk"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000991.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xwhhyc5nyk8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "fm",
+      "hindi",
+      "ka",
+      "local",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00000997",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-amchi-konkani-bengaluru-ka",
+    "name": "Radio Amchi Konkani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00000997.webp",
+    "streams": [
+      {
+        "url": "http://178.32.107.151:3711/stream",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "https://eu9.fastcast4u.com/proxy/alfagodwin/stream",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Konkani"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "hindi",
+      "internet",
+      "ka",
+      "konkani",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001037",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-electronica-bengaluru-ka",
+    "name": "Radio City - Electronica",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Electronic",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "94.3 FM",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001037.webp",
+    "streams": [
+      {
+        "url": "https://a5.asurahosting.com:8600/radio.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/gdtbdqwzrf9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://prclive4.listenon.in/Electronica",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "electronic",
+      "english",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001055",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-daijiworld-mangaluru-ka",
+    "name": "Radio Daijiworld",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Mangaluru",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9141,
+    "lng": 74.856,
+    "logo": "logos/karnataka/ydn-00001055.webp",
+    "streams": [
+      {
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC013_SC",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "https://15113.live.streamtheworld.com:443/SAM08AAC013_SC",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      },
+      {
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM08AAC013.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "mangaluru",
+      "multilingual",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001068",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-fresh-athani-athni-ka",
+    "name": "Radio Fresh Athani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Athni",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 16.726,
+    "lng": 75.064,
+    "logo": "logos/karnataka/ydn-00001068.webp",
+    "streams": [
+      {
+        "url": "http://85.25.185.202:8625/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "athni",
+      "internet",
+      "ka",
+      "kannada",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001072",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-girmit-bengaluru-ka",
+    "name": "Radio Girmit",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "FM",
+    "genres": [
+      "Classical",
+      "Music",
+      "Talk"
+    ],
+    "frequency": "97 FM",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001072.webp",
+    "streams": [
+      {
+        "url": "https://stream.radiojar.com/g6dgm6m6p3hvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "classical",
+      "english",
+      "fm",
+      "ka",
+      "kannada",
+      "local",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001098",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-kasturi-bengaluru-ka",
+    "name": "Radio Kasturi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Community",
+      "Education",
+      "Entertainment",
+      "News"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001098.webp",
+    "streams": [
+      {
+        "url": "https://icecast.bkwsu.eu/radio-kasturi-bangluru16k.mp3",
+        "format": "mp3",
+        "bitrate": 16,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "community",
+      "education",
+      "entertainment",
+      "hindi",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001105",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-kundapura-89-6-fm-ka",
+    "name": "Radio Kundapura 89.6 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Kundapura",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 13.63,
+    "lng": 74.69,
+    "logo": "logos/karnataka/ydn-00001105.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/kundapura.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "ka",
+      "kannada",
+      "kundapura",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001107",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-lemon-bengaluru-ka",
+    "name": "Radio Lemon - Bengaluru",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001107.webp",
+    "streams": [
+      {
+        "url": "http://schedule.radiolemonlive.com:8000/live",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "internet",
+      "ka",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001152",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mirchi-bengaluru-est-ka",
+    "name": "Radio Mirchi Bengaluru (EST)",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001152.webp",
+    "streams": [
+      {
+        "url": "https://14623.live.streamtheworld.com:443/RADIO_SUNO_MELODY_S06_SC",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "bollywood",
+      "hindi",
+      "internet",
+      "ka",
+      "local",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001200",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-retro-bollywood-retro-bollywood-90-s-bengaluru-ka",
+    "name": "Radio Retro Bollywood - Retro Bollywood 90's",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001200.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/fdgs82xkzhhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "bollywood",
+      "hindi",
+      "internet",
+      "ka",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001199",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-retro-bollywood-90s-kalaburagi-ka",
+    "name": "Radio Retro Bollywood 90s",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Kalaburagi",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 17.272222,
+    "lng": 76.816667,
+    "logo": "logos/karnataka/ydn-00001199.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/u0hrd3xkzhhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "internet",
+      "ka",
+      "kalaburagi",
+      "kannada",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001235",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-shivamogga-fm-90-8-ka",
+    "name": "Radio Shivamogga FM 90.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Shivamogga",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 13.93,
+    "lng": 75.56,
+    "logo": "logos/karnataka/ydn-00001235.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radioshivmogga.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "ka",
+      "kannada",
+      "local",
+      "shivamogga"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001245",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-solapuri-hulkoti-ka",
+    "name": "Radio Solapuri",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Hulkoti",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 15.42,
+    "lng": 75.38,
+    "logo": "logos/karnataka/ydn-00001245.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/0t091ttp6ueuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hulkoti",
+      "internet",
+      "ka",
+      "kannada",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001247",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-suladimantapa-bengaluru-ka",
+    "name": "Radio SuladiMantapa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001247.webp",
+    "streams": [
+      {
+        "url": "https://suladimantapa.com/listen/radio_suladimantapa/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "folk",
+      "internet",
+      "ka",
+      "kannada",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001292",
+    "type": "station",
+    "medium": "radio",
+    "slug": "retro-bollywood-kalaburagi-ka",
+    "name": "Retro Bollywood",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Kalaburagi",
+    "category": "Internet",
+    "genres": [
+      "Oldies",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 17.272222,
+    "lng": 76.816667,
+    "logo": "logos/karnataka/ydn-00001292.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/g372rxef798uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "ka",
+      "kalaburagi",
+      "local",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001328",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sahakar-radio-gadag-hulkoti-ka",
+    "name": "Sahakar Radio Gadag",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Hulkoti",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 15.42,
+    "lng": 75.38,
+    "logo": "logos/karnataka/ydn-00001328.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/kvkhulkoti.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hulkoti",
+      "internet",
+      "ka",
+      "kannada",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001332",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sakkath-radio-belagavi-ka",
+    "name": "Sakkath Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Belagavi",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 15.8497,
+    "lng": 74.4977,
+    "logo": "logos/karnataka/ydn-00001332.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/fcsk9ryerd0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "belagavi",
+      "bollywood",
+      "hindi",
+      "internet",
+      "ka",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001336",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sandesh-radio-kundapura-ka",
+    "name": "Sandesh Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Kundapura",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 13.63,
+    "lng": 74.69,
+    "logo": "logos/karnataka/ydn-00001336.webp",
+    "streams": [
+      {
+        "url": "https://sandeshradio2017.radioca.st/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "ka",
+      "kannada",
+      "kundapura",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001345",
+    "type": "station",
+    "medium": "radio",
+    "slug": "satyatmavani-radio-bengaluru-ka",
+    "name": "Satyatmavani Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001345.webp",
+    "streams": [
+      {
+        "url": "https://us1.streamingpulse.com/ssl/RadioSatyatmavani",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "http://173.192.207.51:7086/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      },
+      {
+        "url": "http://us1.streamingpulse.com:7322/stream/;",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "internet",
+      "ka",
+      "local",
+      "marathi",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001348",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sdm-radio-ninada-ujire-ka",
+    "name": "SDM Radio Ninada",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Ujire",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Culture"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 12.997,
+    "lng": 75.326,
+    "logo": "logos/karnataka/ydn-00001348.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/sdmradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "culture",
+      "fm",
+      "ka",
+      "kannada",
+      "local",
+      "news",
+      "talk",
+      "ujire"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001354",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shaiva-lahari-bengaluru-ka",
+    "name": "Shaiva Lahari",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001354.webp",
+    "streams": [
+      {
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2925215_SC",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "internet",
+      "ka",
+      "kannada",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001359",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shalombeats-radio-english-bengaluru-ka",
+    "name": "ShalomBeats Radio - English",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001359.webp",
+    "streams": [
+      {
+        "url": "http://rd.shalombeatsradio.com:8190/stream/;",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "english",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "pop",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001360",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shalombeats-radio-hindi-bengaluru-ka",
+    "name": "ShalomBeats Radio - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop",
+      "Music",
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001360.webp",
+    "streams": [
+      {
+        "url": "http://rd.shalombeatsradio.com:7090/stream/;",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "pop",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001361",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shalombeats-radio-instrumental-bengaluru-ka",
+    "name": "ShalomBeats Radio - Instrumental",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001361.webp",
+    "streams": [
+      {
+        "url": "http://rd.shalombeatsradio.com:8010/stream.mp3",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "english",
+      "internet",
+      "ka",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001362",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shalombeats-radio-kannada-bengaluru-ka",
+    "name": "ShalomBeats Radio - Kannada",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001362.webp",
+    "streams": [
+      {
+        "url": "http://rd.shalombeatsradio.com:8090/stream/;",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "entertainment",
+      "internet",
+      "ka",
+      "kannada",
+      "local",
+      "music",
+      "pop",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001363",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shalombeats-radio-malayalam-bengaluru-ka",
+    "name": "ShalomBeats Radio - Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001363.webp",
+    "streams": [
+      {
+        "url": "http://rd.shalombeatsradio.com:8006/stream/;",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "malayalam",
+      "music",
+      "pop",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001364",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shalombeats-radio-tamil-bengaluru-ka",
+    "name": "ShalomBeats Radio - Tamil",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001364.webp",
+    "streams": [
+      {
+        "url": "http://rd.shalombeatsradio.com:6090/stream/;",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "pop",
+      "religious",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001365",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shalombeats-radio-telugu-bengaluru-ka",
+    "name": "ShalomBeats Radio - Telugu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001365.webp",
+    "streams": [
+      {
+        "url": "http://rd.shalombeatsradio.com:9190/stream/;",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "pop",
+      "religious",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001396",
+    "type": "station",
+    "medium": "radio",
+    "slug": "spark-radio-bengaluru-ka",
+    "name": "Spark Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "News",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001396.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/u5z0b5hr7x8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "english",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001398",
+    "type": "station",
+    "medium": "radio",
+    "slug": "spooler-pod-bengaluru-ka",
+    "name": "Spooler Pod",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "News"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001398.webp",
+    "streams": [
+      {
+        "url": "http://65.108.98.93:7747/stream/;",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "hindi",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001404",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sri-guru-raghavendra-bhakthi-radio-raichur-ka",
+    "name": "Sri Guru Raghavendra Bhakthi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Raichur",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 16.188889,
+    "lng": 77.362222,
+    "logo": "logos/karnataka/ydn-00001404.webp",
+    "streams": [
+      {
+        "url": "https://cast5.my-control-panel.com/proxy/gururayar/stream/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "ka",
+      "local",
+      "multilingual",
+      "music",
+      "raichur",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001586",
+    "type": "station",
+    "medium": "radio",
+    "slug": "theophony-english-christian-radio-bengaluru-ka",
+    "name": "Theophony - English Christian Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001586.webp",
+    "streams": [
+      {
+        "url": "https://mediatechnica.com:8000/theophony_english.mp3",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "english",
+      "internet",
+      "ka",
+      "local",
+      "music",
+      "pop",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001474",
+    "type": "station",
+    "medium": "radio",
+    "slug": "theophony-tamil-christian-radio-bengaluru-ka",
+    "name": "Theophony - Tamil Christian Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001474.webp",
+    "streams": [
+      {
+        "url": "https://mediatechnica.com:8002/theophony_tamil.mp3",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://usa19.fastcast4u.com:5480/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://mediatechnica.com:2020/stream/theophonytamilaac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "entertainment",
+      "internet",
+      "ka",
+      "local",
+      "religious",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001531",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-kannada-bengaluru-ka",
+    "name": "Vividh Bharati Kannada",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001531.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Kannada",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "regional",
+    "tags": [
+      "bengaluru",
+      "digital",
+      "english",
+      "hindi",
+      "ka",
+      "kannada",
+      "news",
+      "regional"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001547",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vv-radio-bengaluru-ka",
+    "name": "VV Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KA",
+    "city": "Bengaluru",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Electronic",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 12.9716,
+    "lng": 77.5946,
+    "logo": "logos/karnataka/ydn-00001547.webp",
+    "streams": [
+      {
+        "url": "http://music2.vvradio.co.in:2802/stream/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://player.vvradio.co.in/proxy/vvradio/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengaluru",
+      "bollywood",
+      "electronic",
+      "folk",
+      "hindi",
+      "internet",
+      "ka",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  }
+]

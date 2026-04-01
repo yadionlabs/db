@@ -1,0 +1,412 @@
+[
+  {
+    "id": "ydn-00000071",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chandigarh-ch",
+    "name": "Akashvani Chandigarh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "101.6 FM",
+    "lat": 30.89777778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00000071.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio111/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ch",
+      "chandigarh",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "news",
+      "punjabi",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000347",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bol-punjabi-radio-chandigarh-ch",
+    "name": "Bol Punjabi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 30.897778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00000347.webp",
+    "streams": [
+      {
+        "url": "https://bolpunjabi-ekamsoftware.radioca.st/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://bolpunjabi-ekamsoftware.radioca.st//stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "ch",
+      "chandigarh",
+      "folk",
+      "internet",
+      "local",
+      "music",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000546",
+    "type": "station",
+    "medium": "radio",
+    "slug": "h-o-s-hamdosana-radio-chandigarh-ch",
+    "name": "H O S Hamdosana Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 30.897778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00000546.webp",
+    "streams": [
+      {
+        "url": "https://stream3.themediasite.co.uk:8242/stream",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ch",
+      "chandigarh",
+      "hindi",
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000794",
+    "type": "station",
+    "medium": "radio",
+    "slug": "leo-s-casino-radio-chandigarh-ch",
+    "name": "Leo's Casino Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 30.897778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00000794.webp",
+    "streams": [
+      {
+        "url": "https://streaming.live365.com/a45657",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ch",
+      "chandigarh",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000872",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mohabbat-radio-chandigarh-ch",
+    "name": "Mohabbat Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 30.897778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00000872.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/t2ekq8zsgtzuv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "ch",
+      "chandigarh",
+      "hindi",
+      "internet",
+      "local",
+      "multilingual"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000975",
+    "type": "station",
+    "medium": "radio",
+    "slug": "punjabi-beats-chandigarh-ch",
+    "name": "Punjabi Beats",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 30.897778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00000975.webp",
+    "streams": [
+      {
+        "url": "https://stream.zenolive.com/qcy86xwg65quv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "ch",
+      "chandigarh",
+      "internet",
+      "local",
+      "music",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000998",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-arun-chandigarh-ch",
+    "name": "Radio Arun",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "FM",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 30.897778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00000998.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/utiao2m9iuxuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "ch",
+      "chandigarh",
+      "entertainment",
+      "fm",
+      "hindi",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001025",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-chitkara-chandigarh-ch",
+    "name": "Radio Chitkara",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Music"
+    ],
+    "frequency": "107.8 FM",
+    "lat": 30.897778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00001025.webp",
+    "streams": [
+      {
+        "url": "http://47.29.216.37:88/broadwave.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ch",
+      "chandigarh",
+      "fm",
+      "hindi",
+      "local",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001506",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vasda-punjab-radio-chandigarh-ch",
+    "name": "Vasda Punjab Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CH",
+    "city": "Chandigarh",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Community",
+      "Culture",
+      "News"
+    ],
+    "frequency": "",
+    "lat": 30.897778,
+    "lng": 76.9725,
+    "logo": "logos/chandigarh/ydn-00001506.webp",
+    "streams": [
+      {
+        "url": "http://192.184.9.158:9018/autodj",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ch",
+      "chandigarh",
+      "community",
+      "culture",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

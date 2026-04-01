@@ -1,0 +1,547 @@
+[
+  {
+    "id": "ydn-00000070",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chaibasa-jh",
+    "name": "Akashvani Chaibasa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Chaibasa",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.7 FM",
+    "lat": 22.545,
+    "lng": 85.80694444,
+    "logo": "logos/jharkhand/ydn-00000070.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio224/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Ho",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "chaibasa",
+      "digital",
+      "entertainment",
+      "hindi",
+      "jh",
+      "local",
+      "nagpuri",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000082",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-daltonganj-medininagar-daltonganj-jh",
+    "name": "Akashvani Daltonganj",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Medininagar (daltonganj)",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103 FM",
+    "lat": 24.03,
+    "lng": 84.07,
+    "logo": "logos/jharkhand/ydn-00000082.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio202/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "jh",
+      "local",
+      "medininagar (daltonganj)",
+      "multilingual",
+      "music",
+      "nagpuri",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000106",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-hazaribagh-jh",
+    "name": "Akashvani Hazaribagh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Hazaribagh",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.1 FM",
+    "lat": 23.9675,
+    "lng": 85.35027778,
+    "logo": "logos/jharkhand/ydn-00000106.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio197/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 74,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hazaribagh",
+      "hindi",
+      "jh",
+      "local",
+      "music",
+      "nagpuri",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000120",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jamshedpur-jh",
+    "name": "Akashvani Jamshedpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Jamshedpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Classical",
+      "Talk",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "1584 AM",
+    "lat": 22.79388889,
+    "lng": 86.16861111,
+    "logo": "logos/jharkhand/ydn-00000120.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio216/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Nagpuri",
+      "secondary": [
+        "Hindi",
+        "English",
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "jamshedpur",
+      "jh",
+      "local",
+      "multilingual",
+      "music",
+      "nagpuri",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000200",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ranchi-jh",
+    "name": "Akashvani Ranchi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Ranchi",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "549 AM",
+    "lat": 23.40694444,
+    "lng": 85.21833333,
+    "logo": "logos/jharkhand/ydn-00000200.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio199/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Nagpuri",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "jh",
+      "local",
+      "multilingual",
+      "music",
+      "nagpuri",
+      "news",
+      "ranchi",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000433",
+    "type": "station",
+    "medium": "radio",
+    "slug": "edudew-radio-deoghar-jh",
+    "name": "Edudew Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Deoghar",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 24.48,
+    "lng": 86.7,
+    "logo": "logos/jharkhand/ydn-00000433.webp",
+    "streams": [
+      {
+        "url": "https://edudew.com:8443/edudew",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "deoghar",
+      "entertainment",
+      "hindi",
+      "internet",
+      "jh",
+      "local",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000478",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-ranchi-jh",
+    "name": "FM Rainbow Ranchi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Ranchi",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 23.36833333,
+    "lng": 85.30055556,
+    "logo": "logos/jharkhand/ydn-00000478.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio253/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jh",
+      "local",
+      "nagpuri",
+      "news",
+      "ranchi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000934",
+    "type": "station",
+    "medium": "radio",
+    "slug": "nwgelcdg-ranchi-jh",
+    "name": "NWGELCDG Live",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Ranchi",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 23.406944,
+    "lng": 85.218333,
+    "logo": "logos/jharkhand/ydn-00000934.webp",
+    "streams": [
+      {
+        "url": "http://node-10.zeno.fm/zsuv48uh8s8uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "jh",
+      "local",
+      "ranchi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001091",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-jagriti-90-4-fm-giridih-jh",
+    "name": "Radio Jagriti 90.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Giridih",
+    "category": "FM",
+    "genres": [
+      "Pop",
+      "Oldies",
+      "Bollywood"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 24.18,
+    "lng": 86.3,
+    "logo": "logos/jharkhand/ydn-00001091.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/4dycn4hmffhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/kgdue4hmffhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "fm",
+      "giridih",
+      "hindi",
+      "jh",
+      "local",
+      "oldies",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001530",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-jamshedpur-jh",
+    "name": "Vividh Bharati Jamshedpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Jamshedpur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "100.8 FM",
+    "lat": 22.79388889,
+    "lng": 86.16861111,
+    "logo": "logos/jharkhand/ydn-00001530.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio266/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 148,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio266/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Nagpuri",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jamshedpur",
+      "jh",
+      "local",
+      "music",
+      "nagpuri",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001539",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-ranchi-jh",
+    "name": "Vividh Bharati Ranchi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "JH",
+    "city": "Ranchi",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "103.3 FM",
+    "lat": 23.36833333,
+    "lng": 85.30055556,
+    "logo": "logos/jharkhand/ydn-00001539.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio250/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio250/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Nagpuri",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jh",
+      "local",
+      "music",
+      "nagpuri",
+      "news",
+      "ranchi",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

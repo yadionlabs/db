@@ -1,0 +1,1149 @@
+[
+  {
+    "id": "ydn-00000011",
+    "type": "station",
+    "medium": "radio",
+    "slug": "99-1-bubba-fm-ulubari-guwahati-as",
+    "name": "99.1 Bubba FM Ulubari",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00000011.webp",
+    "streams": [
+      {
+        "url": "http://studio.barthakur.com:8000/Bubba",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "guwahati",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000093",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-dibrugarh-as",
+    "name": "Akashvani Dibrugarh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Dibrugarh",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 27.46722222,
+    "lng": 94.95833333,
+    "logo": "logos/assam/ydn-00000093.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio255/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "dibrugarh",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000094",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-diphu-as",
+    "name": "Akashvani Diphu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Diphu",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1584 AM",
+    "lat": 25.84111111,
+    "lng": 93.44805556,
+    "logo": "logos/assam/ydn-00000094.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio271/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio271/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "digital",
+      "diphu",
+      "english",
+      "hindi",
+      "local",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000100",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-guwahati-mahabahu-as",
+    "name": "Akashvani Guwahati Mahabahu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 26.19472222,
+    "lng": 91.78611111,
+    "logo": "logos/assam/ydn-00000100.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio133/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 129,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "classical",
+      "digital",
+      "english",
+      "entertainment",
+      "guwahati",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000101",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-guwahati-pragjyotishpur-as",
+    "name": "Akashvani Guwahati Pragjyotishpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 26.15027778,
+    "lng": 91.76833333,
+    "logo": "logos/assam/ydn-00000101.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio237/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "digital",
+      "english",
+      "guwahati",
+      "hindi",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000103",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-haflong-as",
+    "name": "Akashvani Haflong",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Haflong",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "100.2 FM",
+    "lat": 25.15944444,
+    "lng": 93.02222222,
+    "logo": "logos/assam/ydn-00000103.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio258/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "digital",
+      "english",
+      "entertainment",
+      "haflong",
+      "hindi",
+      "local",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000127",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jorhat-as",
+    "name": "Akashvani Jorhat",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Jorhat",
+    "category": "Digital",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 26.76194444,
+    "lng": 94.23805556,
+    "logo": "logos/assam/ydn-00000127.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio261/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "digital",
+      "hindi",
+      "jorhat",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000146",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kokrajhar-as",
+    "name": "Akashvani Kokrajhar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Kokrajhar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 26.36833333,
+    "lng": 90.31222222,
+    "logo": "logos/assam/ydn-00000146.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio055/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": [
+        "Bodo"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "digital",
+      "english",
+      "hindi",
+      "kokrajhar",
+      "local",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000173",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-nagaon-as",
+    "name": "Akashvani Nagaon",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Nagaon",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.7 FM",
+    "lat": 26.33472222,
+    "lng": 92.67055556,
+    "logo": "logos/assam/ydn-00000173.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio260/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio260/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "music",
+      "nagaon",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000218",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-silchar-as",
+    "name": "Akashvani Silchar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Silchar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "828 AM",
+    "lat": 24.75722222,
+    "lng": 92.78777778,
+    "logo": "logos/assam/ydn-00000218.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 74,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio090/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 74,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": [
+        "Bengali"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "bengali",
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "silchar",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000229",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-tezpur-as",
+    "name": "Akashvani Tezpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Tezpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "102.4 FM",
+    "lat": 26.63,
+    "lng": 92.81,
+    "logo": "logos/assam/ydn-00000229.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio270/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio270/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "tezpur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000362",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bu-radio-barishal-university-dibrugarh-as",
+    "name": "BU Radio - Barishal University",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Dibrugarh",
+    "category": "Internet",
+    "genres": [
+      "Education"
+    ],
+    "frequency": "",
+    "lat": 27.467222,
+    "lng": 94.958333,
+    "logo": "logos/assam/ydn-00000362.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/x3wb4hevj5atv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "dibrugarh",
+      "education",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000536",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gupshup-internet-radio-guwahati-as",
+    "name": "Gupshup Internet Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00000536.webp",
+    "streams": [
+      {
+        "url": "https://internetradio.gupshupradio.com:8080/?type=mp3",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "guwahati",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000802",
+    "type": "station",
+    "medium": "radio",
+    "slug": "lok-ratnagarbha-dibrugarh-as",
+    "name": "Lok Ratnagarbha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Dibrugarh",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 27.467222,
+    "lng": 94.958333,
+    "logo": "logos/assam/ydn-00000802.webp",
+    "streams": [
+      {
+        "url": "http://85.25.185.202:8118/stream?1568101614244.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "dibrugarh",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000863",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mixify-90-s-hits-guwahati-as",
+    "name": "Mixify 90's Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00000863.webp",
+    "streams": [
+      {
+        "url": "https://server.mixify.in/listen/listen/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      },
+      {
+        "url": "https://server.mixify.in:8000/stream/;",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "bollywood",
+      "entertainment",
+      "guwahati",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000865",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mixify-bengali-hits-guwahati-as",
+    "name": "Mixify Bengali Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00000865.webp",
+    "streams": [
+      {
+        "url": "https://server.mixify.in/listen/bangla/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Bengali"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "bengali",
+      "bollywood",
+      "entertainment",
+      "guwahati",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000866",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mixify-english-hits-guwahati-as",
+    "name": "Mixify English Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Electronic",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00000866.webp",
+    "streams": [
+      {
+        "url": "https://server.mixify.in/listen/english/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "electronic",
+      "english",
+      "entertainment",
+      "guwahati",
+      "hindi",
+      "internet",
+      "local",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000867",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mixify-evergreen-hits-guwahati-as",
+    "name": "Mixify Evergreen Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00000867.webp",
+    "streams": [
+      {
+        "url": "https://server.mixify.in/listen/evergreen/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      },
+      {
+        "url": "https://server.mixify.in:8010/stream/;",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "bollywood",
+      "guwahati",
+      "hindi",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000910",
+    "type": "station",
+    "medium": "radio",
+    "slug": "narshingbari-radio-guwahati-as",
+    "name": "Narshingbari Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00000910.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/9ur46pyc7ehvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "guwahati",
+      "hindi",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001012",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-bhumi-92-8-fm-dibrugarh-as",
+    "name": "Radio Bhumi 92.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Dibrugarh",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 27.467222,
+    "lng": 94.958333,
+    "logo": "logos/assam/ydn-00001012.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ybf1umk1k18uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "dibrugarh",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001064",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-dipshikha-guwahati-as",
+    "name": "Radio Dipshikha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00001064.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cwaoub9xh0kuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "guwahati",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001080",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-gup-shup-haflong-as",
+    "name": "Radio Gup-Shup",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Haflong",
+    "category": "FM",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 25.159444,
+    "lng": 93.022222,
+    "logo": "logos/assam/ydn-00001080.webp",
+    "streams": [
+      {
+        "url": "https://internetradio.gupshupradio.com:8080/;;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "bollywood",
+      "fm",
+      "haflong",
+      "hindi",
+      "local",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001081",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-gupshup-guwahati-as",
+    "name": "Radio Gupshup",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Music"
+    ],
+    "frequency": "94.3 FM",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00001081.webp",
+    "streams": [
+      {
+        "url": "http://103.95.48.18:8080/;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "fm",
+      "guwahati",
+      "hindi",
+      "local",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001232",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-shadhin-92-4-fm-guwahati-as",
+    "name": "Radio Shadhin 92.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Guwahati",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.194722,
+    "lng": 91.786111,
+    "logo": "logos/assam/ydn-00001232.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/eabgu655puquv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "guwahati",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001291",
+    "type": "station",
+    "medium": "radio",
+    "slug": "relaks-radio-bangla-dibrugarh-as",
+    "name": "Relaks Radio Bangla",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AS",
+    "city": "Dibrugarh",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 27.467222,
+    "lng": 94.958333,
+    "logo": "logos/assam/ydn-00001291.webp",
+    "streams": [
+      {
+        "url": "https://s3.voscast.com:9893/live",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Assamese",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "as",
+      "assamese",
+      "dibrugarh",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  }
+]

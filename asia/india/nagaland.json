@@ -1,0 +1,198 @@
+[
+  {
+    "id": "ydn-00000145",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kohima-nl",
+    "name": "Akashvani Kohima",
+    "continent": "asia",
+    "country": "IN",
+    "state": "NL",
+    "city": "Kohima",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 25.715,
+    "lng": 94.04388889,
+    "logo": "logos/nagaland/ydn-00000145.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio274/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Nagamese",
+        "Tenyidie"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "kohima",
+      "local",
+      "nagamese",
+      "news",
+      "nl"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000169",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-mokokchung-nl",
+    "name": "Akashvani Mokokchung",
+    "continent": "asia",
+    "country": "IN",
+    "state": "NL",
+    "city": "Mokokchung",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.9 FM",
+    "lat": 26.345,
+    "lng": 94.556111,
+    "logo": "logos/nagaland/ydn-00000169.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio263/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio263/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Ao",
+      "secondary": [
+        "English",
+        "Nagamese"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "mokokchung",
+      "multilingual",
+      "music",
+      "nagamese",
+      "news",
+      "nl",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00001812",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-tragopan-kohima-fm-nl",
+    "name": "Akashvani Tragopan Kohima FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "NL",
+    "city": "Kohima",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "103 FM",
+    "lat": 25.65722222,
+    "lng": 94.09861111,
+    "logo": "logos/nagaland/ydn-00001812.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio220/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Nagamese",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "kohima",
+      "local",
+      "music",
+      "nagamese",
+      "news",
+      "nl",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000898",
+    "type": "station",
+    "medium": "radio",
+    "slug": "nagaland-christian-radio-kohima-nl",
+    "name": "Nagaland Christian Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "NL",
+    "city": "Kohima",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.715,
+    "lng": 94.043889,
+    "logo": "logos/nagaland/ydn-00000898.webp",
+    "streams": [
+      {
+        "url": "http://5.10.69.99:8000/live",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "kohima",
+      "local",
+      "nl"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  }
+]

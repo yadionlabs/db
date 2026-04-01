@@ -1,0 +1,16 @@
+{
+  "id": "asia",
+  "name": "Asia",
+  "updatedAt": "2026-04-02T11:39:54.825Z",
+  "totalStations": 1304,
+  "countries": [
+    {
+      "code": "IN",
+      "name": "India",
+      "slug": "india",
+      "indexFile": "india/_index.json",
+      "allFile": "india/_all.json",
+      "stations": 1304
+    }
+  ]
+}

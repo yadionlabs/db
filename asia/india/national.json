@@ -1,0 +1,237 @@
+[
+  {
+    "id": "ydn-00001803",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-esd-dari-delhi-nat",
+    "name": "Akashvani ESD Dari",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "Delhi",
+    "category": "Digital",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 28.6225,
+    "lng": 77.20972222,
+    "logo": "logos/national/ydn-00001803.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio232/hlspbaudio232_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Dari",
+      "secondary": []
+    },
+    "coverage": "national",
+    "tags": [
+      "dari",
+      "delhi",
+      "digital",
+      "nat",
+      "national",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00001804",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-esd-pashto-delhi-nat",
+    "name": "Akashvani ESD Pashto",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "Delhi",
+    "category": "Digital",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 28.6225,
+    "lng": 77.20972222,
+    "logo": "logos/national/ydn-00001804.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio244/hlspbaudio244_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Pashto",
+      "secondary": []
+    },
+    "coverage": "national",
+    "tags": [
+      "delhi",
+      "digital",
+      "nat",
+      "national",
+      "news",
+      "pashto"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00001807",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-news-24x7-delhi-nat",
+    "name": "Akashvani News 24x7",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "Delhi",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 28.69777778,
+    "lng": 77.215,
+    "logo": "logos/national/ydn-00001807.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "national",
+    "tags": [
+      "delhi",
+      "digital",
+      "english",
+      "hindi",
+      "nat",
+      "national",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00001809",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-raagam-bengaluru-nat",
+    "name": "Akashvani Raagam",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "Bengaluru",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 12.97611111,
+    "lng": 77.595,
+    "logo": "logos/national/ydn-00001809.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudioragam/hlspbaudioragam32kbps.m3u8",
+        "format": "aac",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Various",
+      "secondary": []
+    },
+    "coverage": "national",
+    "tags": [
+      "bengaluru",
+      "classical",
+      "digital",
+      "folk",
+      "hindi",
+      "malayalam",
+      "multilingual",
+      "music",
+      "nat",
+      "national",
+      "news",
+      "tamil",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00001524",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-mumbai-nat",
+    "name": "Vividh Bharati",
+    "continent": "asia",
+    "country": "IN",
+    "state": null,
+    "city": "Mumbai",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "106.4 FM",
+    "lat": 19.18888889,
+    "lng": 72.81388889,
+    "logo": "logos/national/ydn-00001524.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "national",
+    "tags": [
+      "bollywood",
+      "digital",
+      "entertainment",
+      "hindi",
+      "multilingual",
+      "mumbai",
+      "music",
+      "nat",
+      "national",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

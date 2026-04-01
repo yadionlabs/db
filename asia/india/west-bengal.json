@@ -1,0 +1,1377 @@
+[
+  {
+    "id": "ydn-00000010",
+    "type": "station",
+    "medium": "radio",
+    "slug": "92-9-anandabarta-radio-kolkata-wb",
+    "name": "92.9 Anandabarta Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "FM",
+    "genres": [
+      "Pop",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "92.9 FM",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000010.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/api7odetstltv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "fm",
+      "kolkata",
+      "local",
+      "music",
+      "pop",
+      "tamil",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000050",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bangla-kolkata-wb",
+    "name": "Akashvani Bangla",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000050.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio137/hlspbaudio137_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "folk",
+      "kolkata",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "pop",
+      "talk",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000147",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kolkata-geetanjali-wb",
+    "name": "Akashvani Kolkata Geetanjali",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music",
+      "Classical",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000147.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio055_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "kolkata",
+      "local",
+      "news",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000148",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kolkata-sanchayita-wb",
+    "name": "Akashvani Kolkata Sanchayita",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000148.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio056/hlspbaudio056_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "entertainment",
+      "kolkata",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000154",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kurseong-wb",
+    "name": "Akashvani Kurseong",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kurseong",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.5 FM",
+    "lat": 26.87916667,
+    "lng": 88.27722222,
+    "logo": "logos/west-bengal/ydn-00000154.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio183/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Nepali",
+      "secondary": [
+        "Bengali"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "english",
+      "entertainment",
+      "kurseong",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000163",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-maitree-siliguri-wb",
+    "name": "Akashvani Maitree",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Siliguri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Culture",
+      "International"
+    ],
+    "frequency": "",
+    "lat": 26.73,
+    "lng": 88.43666667,
+    "logo": "logos/west-bengal/ydn-00000163.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio245/hlspbaudio245_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "local",
+      "news",
+      "siliguri",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000171",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-murshidabad-wb",
+    "name": "Akashvani Murshidabad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Murshidabad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.2 FM",
+    "lat": 24.18,
+    "lng": 88.28,
+    "logo": "logos/west-bengal/ydn-00000171.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio169/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "classical",
+      "digital",
+      "english",
+      "entertainment",
+      "local",
+      "multilingual",
+      "murshidabad",
+      "music",
+      "news",
+      "talk",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000213",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-shantiniketan-wb",
+    "name": "Akashvani Shantiniketan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Shantiniketan",
+    "category": "Digital",
+    "genres": [
+      "Talk",
+      "Education",
+      "Culture"
+    ],
+    "frequency": "103.1 FM",
+    "lat": 23.66944444,
+    "lng": 87.69527778,
+    "logo": "logos/west-bengal/ydn-00000213.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio247/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "entertainment",
+      "local",
+      "news",
+      "shantiniketan",
+      "sports",
+      "talk",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000219",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-siliguri-wb",
+    "name": "Akashvani Siliguri",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Siliguri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "711 AM",
+    "lat": 26.73,
+    "lng": 88.43666667,
+    "logo": "logos/west-bengal/ydn-00000219.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio164/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "local",
+      "multilingual",
+      "news",
+      "siliguri",
+      "talk",
+      "tamil",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000350",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bollywood-evergreen-hits-1-kolkata-wb",
+    "name": "Bollywood Evergreen Hits 1",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Oldies",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000350.webp",
+    "streams": [
+      {
+        "url": "http://cast2.asurahosting.com:8569/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "kolkata",
+      "local",
+      "music",
+      "oldies",
+      "pop",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000351",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bollywood-evergreen-hits-2-kolkata-wb",
+    "name": "Bollywood Evergreen Hits 2",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Oldies",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000351.webp",
+    "streams": [
+      {
+        "url": "http://eu1.reliastream.com:8233/stream/;",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "kolkata",
+      "local",
+      "music",
+      "oldies",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000353",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bollywood-evergreen-hits-3-kolkata-wb",
+    "name": "Bollywood Evergreen Hits 3",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000353.webp",
+    "streams": [
+      {
+        "url": "http://104.167.2.55:8099/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "http://directchannel3.hindihits.top/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "kolkata",
+      "local",
+      "music",
+      "oldies",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000408",
+    "type": "station",
+    "medium": "radio",
+    "slug": "crypticu-radio-kolkata-wb",
+    "name": "CrypticU Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000408.webp",
+    "streams": [
+      {
+        "url": "http://servidor15.brlogic.com:7046/live?type=.m3u",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "internet",
+      "kolkata",
+      "local",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000419",
+    "type": "station",
+    "medium": "radio",
+    "slug": "dinajpur-today-kolkata-wb",
+    "name": "Dinajpur Today",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000419.webp",
+    "streams": [
+      {
+        "url": "http://162.244.81.202:8160/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "internet",
+      "kolkata",
+      "local",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000434",
+    "type": "station",
+    "medium": "radio",
+    "slug": "elite-fm-kolkata-wb",
+    "name": "Elite FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000434.webp",
+    "streams": [
+      {
+        "url": "http://carina.streamerr.co:8114/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "internet",
+      "kolkata",
+      "local",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000454",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-gold-kolkata-wb",
+    "name": "FM Gold Kolkata",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000454.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio057/hlspbaudio057_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "english",
+      "hindi",
+      "kolkata",
+      "local",
+      "news",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000473",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-kolkata-wb",
+    "name": "FM Rainbow Kolkata",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000473.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio058/hlspbaudio058_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "english",
+      "hindi",
+      "kolkata",
+      "local",
+      "news",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000485",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fnf-fm-kolkata-wb",
+    "name": "FnF FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000485.webp",
+    "streams": [
+      {
+        "url": "https://eu6.fastcast4u.com/proxy/arrahm00?mp=/1",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "internet",
+      "kolkata",
+      "local",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000888",
+    "type": "station",
+    "medium": "radio",
+    "slug": "my-radio-dj-kolkata-wb",
+    "name": "My Radio DJ",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Electronic",
+      "Jazz"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000888.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/84h97t3ewg0uv",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "electronic",
+      "hindi",
+      "internet",
+      "jazz",
+      "kolkata",
+      "local",
+      "music",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000889",
+    "type": "station",
+    "medium": "radio",
+    "slug": "my-radio-dj-my-90s-bengali-kolkata-wb",
+    "name": "My Radio DJ - My 90s Bengali",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000889.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/2k6xfu1pvs8uv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "internet",
+      "kolkata",
+      "local",
+      "music",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000890",
+    "type": "station",
+    "medium": "radio",
+    "slug": "my-radio-dj-my-club-remix-kolkata-wb",
+    "name": "My Radio DJ - My Club Remix",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "Electronic"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00000890.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/u7eee0hyzp8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "electronic",
+      "hindi",
+      "internet",
+      "kolkata",
+      "local",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001020",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-bolly-fm-kolkata-wb",
+    "name": "Radio Bolly FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Entertainment",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00001020.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/zu59ykebs2zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://stream.radiobollyfm.in:8201/stream/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://antares.dribbcast.com/proxy/radiobolly/stream.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "kolkata",
+      "local",
+      "music",
+      "pop",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001187",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-quarantine-kolkata-malda-wb",
+    "name": "Radio Quarantine Kolkata",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Malda",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.01,
+    "lng": 88.14,
+    "logo": "logos/west-bengal/ydn-00001187.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/qkuxqw830tzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "internet",
+      "local",
+      "malda",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001188",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-quarantine-kolkata-rqk-wb",
+    "name": "Radio Quarantine Kolkata (RQK)",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Community"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00001188.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/tkdbd3bxk2zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "community",
+      "internet",
+      "kolkata",
+      "local",
+      "music",
+      "talk",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001270",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vivid-voice-kolkata-wb",
+    "name": "Radio Vivid Voice",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Pop",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00001270.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xuin6ocdc2juv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Bengali",
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "english",
+      "hindi",
+      "internet",
+      "kolkata",
+      "local",
+      "music",
+      "pop",
+      "talk",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001283",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rak-103-5-fm-kolkata-wb",
+    "name": "Rak 103.5 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "FM",
+    "genres": [],
+    "frequency": "103.5 FM",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00001283.webp",
+    "streams": [
+      {
+        "url": "https://streamingv2.shoutcast.com/rakfm-live-stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "fm",
+      "kolkata",
+      "local",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001380",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sneh-bhakti-kolkata-wb",
+    "name": "Sneh Bhakti",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00001380.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/wijedvlk0smuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "entertainment",
+      "internet",
+      "kolkata",
+      "local",
+      "religious",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001568",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sneh-bhojpuriya-kolkata-wb",
+    "name": "Sneh Bhojpuriya",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00001568.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/zqyhigwwo5mvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bhojpuri",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhojpuri",
+      "entertainment",
+      "internet",
+      "kolkata",
+      "local",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001381",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sneh-sangeet-kolkata-wb",
+    "name": "Sneh Sangeet",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00001381.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/uhuy1g81aquuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "kolkata",
+      "local",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001532",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-kolkata-wb",
+    "name": "Vividh Bharati Kolkata",
+    "continent": "asia",
+    "country": "IN",
+    "state": "WB",
+    "city": "Kolkata",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 22.5726,
+    "lng": 88.3639,
+    "logo": "logos/west-bengal/ydn-00001532.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio275/hlspbaudio275_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "digital",
+      "english",
+      "hindi",
+      "kolkata",
+      "local",
+      "news",
+      "wb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

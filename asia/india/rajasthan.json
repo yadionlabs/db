@@ -1,0 +1,1955 @@
+[
+  {
+    "id": "ydn-00000030",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ajmer-radio-rj",
+    "name": "Ajmer Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Ajmer",
+    "category": "Internet",
+    "genres": [
+      "Rock",
+      "Bollywood",
+      "Entertainment",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 26.4499,
+    "lng": 74.6399,
+    "logo": "logos/rajasthan/ydn-00000030.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/yftb93nbay8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ajmer",
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "oldies",
+      "rj",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000042",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-alwar-rj",
+    "name": "Akashvani Alwar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Alwar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.1 FM",
+    "lat": 27.55444444,
+    "lng": 76.61111111,
+    "logo": "logos/rajasthan/ydn-00000042.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio153/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "alwar",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "mewati",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000051",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-banswara-rj",
+    "name": "Akashvani Banswara",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Banswara",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.3 FM",
+    "lat": 23.52333333,
+    "lng": 74.41861111,
+    "logo": "logos/rajasthan/ydn-00000051.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio014/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "banswara",
+      "bollywood",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000054",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-barmer-rj",
+    "name": "Akashvani Barmer",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Barmer",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 25.8125,
+    "lng": 71.40111111,
+    "logo": "logos/rajasthan/ydn-00000054.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio200/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "barmer",
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "rajasthani",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000068",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bikaner-rj",
+    "name": "Akashvani Bikaner",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Bikaner",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.6 FM",
+    "lat": 28.02222222,
+    "lng": 73.36944444,
+    "logo": "logos/rajasthan/ydn-00000068.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio053/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio053/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bikaner",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000078",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chittorgarh-rj",
+    "name": "Akashvani Chittorgarh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Chittorgarh",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.9 FM",
+    "lat": 24.86916667,
+    "lng": 74.64527778,
+    "logo": "logos/rajasthan/ydn-00000078.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 166,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio060/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 166,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "chittorgarh",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000080",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-churu-rj",
+    "name": "Akashvani Churu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Churu",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.7 FM",
+    "lat": 28.29444444,
+    "lng": 74.89166667,
+    "logo": "logos/rajasthan/ydn-00000080.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio226/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 377,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio226/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 377,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "churu",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000116",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jaipur-rj",
+    "name": "Akashvani Jaipur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "101.2 FM",
+    "lat": 26.90083333,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00000116.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio192/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "hindi",
+      "jaipur",
+      "local",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000117",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jaisalmer-rj",
+    "name": "Akashvani Jaisalmer",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaisalmer",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.8 FM",
+    "lat": 27.07944444,
+    "lng": 70.82,
+    "logo": "logos/rajasthan/ydn-00000117.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio206/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio206/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "jaisalmer",
+      "local",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000122",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jhalawar-rj",
+    "name": "Akashvani Jhalawar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jhalawar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.2 FM",
+    "lat": 24.34222222,
+    "lng": 76.19166667,
+    "logo": "logos/rajasthan/ydn-00000122.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio157/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio157/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jhalawar",
+      "local",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000124",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jodhpur-rj",
+    "name": "Akashvani Jodhpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jodhpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 26.31777778,
+    "lng": 72.97388889,
+    "logo": "logos/rajasthan/ydn-00000124.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio088/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "culture",
+      "digital",
+      "hindi",
+      "jodhpur",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "rajasthani",
+      "religious",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000125",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jodhpur-sun-city-fm-rj",
+    "name": "Akashvani Jodhpur Sun City FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jodhpur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 26.26722222,
+    "lng": 72.98527778,
+    "logo": "logos/rajasthan/ydn-00000125.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio089/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jodhpur",
+      "local",
+      "news",
+      "rajasthani",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000149",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kota-rj",
+    "name": "Akashvani Kota",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Kota",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102 FM",
+    "lat": 25.18527778,
+    "lng": 75.85805556,
+    "logo": "logos/rajasthan/ydn-00000149.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio084/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 71,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio084/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 71,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "kota",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000170",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-mount-abu-rj",
+    "name": "Akashvani Mount Abu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Mount Abu",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.5 FM",
+    "lat": 24.64861111,
+    "lng": 72.77694444,
+    "logo": "logos/rajasthan/ydn-00000170.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio159/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio159/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "mount abu",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000174",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-nagaur-rj",
+    "name": "Akashvani Nagaur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Nagaur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.7 FM",
+    "lat": 27.18777778,
+    "lng": 73.735,
+    "logo": "logos/rajasthan/ydn-00000174.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio170/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "nagaur",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000211",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-sawai-madhopur-rj",
+    "name": "Akashvani Sawai Madhopur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Sawai Madhopur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.5 FM",
+    "lat": 25.985,
+    "lng": 76.35222222,
+    "logo": "logos/rajasthan/ydn-00000211.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio119/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "sawai madhopur",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000225",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-suratgarh-rj",
+    "name": "Akashvani Suratgarh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Suratgarh",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "918 AM",
+    "lat": 29.3,
+    "lng": 73.91361111,
+    "logo": "logos/rajasthan/ydn-00000225.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio064/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "suratgarh",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000238",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-udaipur-rj",
+    "name": "Akashvani Udaipur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Udaipur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "1125 AM",
+    "lat": 24.57222222,
+    "lng": 73.73888889,
+    "logo": "logos/rajasthan/ydn-00000238.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio148/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Rajasthani",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk",
+      "udaipur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000239",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-udaipur-fm-lake-city-rj",
+    "name": "Akashvani Udaipur FM Lake City",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Udaipur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "100.9 FM",
+    "lat": 24.585,
+    "lng": 73.68416667,
+    "logo": "logos/rajasthan/ydn-00000239.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio149/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk",
+      "udaipur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000462",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-radio-toonga-jaipur-rj",
+    "name": "FM Radio Toonga",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00000462.webp",
+    "streams": [
+      {
+        "url": "https://e20.yesstreaming.net:8860/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000618",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jaipur-radio-rj",
+    "name": "Jaipur Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Folk",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00000618.webp",
+    "streams": [
+      {
+        "url": "http://d2jb21f28vbv8v.cloudfront.net/jaipurradio.m3u8",
+        "format": "aac",
+        "bitrate": 65,
+        "primary": true
+      },
+      {
+        "url": "https://streamasiacdn.atc-labs.com/jaipurradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "folk",
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000736",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jjn-radio-jhunjhunu-rj",
+    "name": "JJN Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jhunjhunu",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 28.128,
+    "lng": 75.399,
+    "logo": "logos/rajasthan/ydn-00000736.webp",
+    "streams": [
+      {
+        "url": "https://stream-174.zeno.fm/67be8cwqa18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2N2JlOGN3cWExOHV2IiwiaG9zdCI6InN0cmVhbS0xNzQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklxWThFRG54VHBxSDRQYUdrd2F0X0EiLCJpYXQiOjE3MzA4MTU0ODksImV4cCI6MTczMDgxNTU0OX0.jbzcM9Fdl5KE7E0Dyj",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "jhunjhunu",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000762",
+    "type": "station",
+    "medium": "radio",
+    "slug": "khamma-gani-rajasthan-jaipur-rj",
+    "name": "Khamma Gani Rajasthan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [
+      "Classical",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00000762.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cc9ez9yydy8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000787",
+    "type": "station",
+    "medium": "radio",
+    "slug": "lake-city-voice-banswara-rj",
+    "name": "Lake City Voice",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Banswara",
+    "category": "Internet",
+    "genres": [
+      "Education"
+    ],
+    "frequency": "",
+    "lat": 23.523333,
+    "lng": 74.418611,
+    "logo": "logos/rajasthan/ydn-00000787.webp",
+    "streams": [
+      {
+        "url": "https://lcvradio.duckdns.org:8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      },
+      {
+        "url": "https://152.67.11.51:8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi / English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "banswara",
+      "education",
+      "hindi english",
+      "internet",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000846",
+    "type": "station",
+    "medium": "radio",
+    "slug": "marudhara-radio-jodhpur-rj",
+    "name": "Marudhara Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jodhpur",
+    "category": "Internet",
+    "genres": [
+      "Classical",
+      "Rock",
+      "Pop",
+      "Bollywood",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 26.317778,
+    "lng": 72.973889,
+    "logo": "logos/rajasthan/ydn-00000846.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/eyxg23ky4x8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "hindi",
+      "internet",
+      "jodhpur",
+      "local",
+      "multilingual",
+      "music",
+      "pop",
+      "rj",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000847",
+    "type": "station",
+    "medium": "radio",
+    "slug": "marwar-radio-jaipur-rj",
+    "name": "Marwar Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Folk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00000847.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/vq6p5vxb4v8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "folk",
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "music",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000891",
+    "type": "station",
+    "medium": "radio",
+    "slug": "my-selfie-radio-jaipur-rj",
+    "name": "My Selfie Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00000891.webp",
+    "streams": [
+      {
+        "url": "https://e20.yesstreaming.net:8947/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000932",
+    "type": "station",
+    "medium": "radio",
+    "slug": "np-24-radio-jodhpur-rj",
+    "name": "NP 24 Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jodhpur",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 26.317778,
+    "lng": 72.973889,
+    "logo": "logos/rajasthan/ydn-00000932.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8wk1s0pt008uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "jodhpur",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000940",
+    "type": "station",
+    "medium": "radio",
+    "slug": "old-monk-radio-jaipur-rj",
+    "name": "Old Monk Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [
+      "Classical",
+      "Rock",
+      "Pop",
+      "Bollywood",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00000940.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/pr0zc64zdy8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "entertainment",
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "music",
+      "pop",
+      "rj",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001071",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-ginni-90-8-tonk-rj",
+    "name": "Radio Ginni 90.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Tonk",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Music"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 26.1664,
+    "lng": 75.7885,
+    "logo": "logos/rajasthan/ydn-00001071.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radiodknmu.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "fm",
+      "local",
+      "music",
+      "news",
+      "rj",
+      "talk",
+      "tonk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001085",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-hits-mumbai-jodhpur-rj",
+    "name": "Radio Hits Mumbai",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jodhpur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.317778,
+    "lng": 72.973889,
+    "logo": "logos/rajasthan/ydn-00001085.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ljtulzagjxyuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "jodhpur",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001111",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-madhuban-abu-road-rj",
+    "name": "Radio Madhuban",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Abu Road",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Community",
+      "Culture",
+      "News"
+    ],
+    "frequency": "107.8 FM",
+    "lat": 24.48,
+    "lng": 72.78,
+    "logo": "logos/rajasthan/ydn-00001111.webp",
+    "streams": [
+      {
+        "url": "https://icecast.bkwsu.eu/radiomadhuban.mp3?_=1",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "https://icecast.bkwsu.eu/radiomadhuban16k.mp3",
+        "format": "mp3",
+        "bitrate": 16,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "abu road",
+      "community",
+      "culture",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001133",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-masti-jaipur-rj",
+    "name": "Radio Masti",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00001133.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/88thk459f0hvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/k4k3981cntzuv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "pop",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001166",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-nagma-jaipur-rj",
+    "name": "Radio Nagma",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00001166.webp",
+    "streams": [
+      {
+        "url": "https://e20.yesstreaming.net:8135/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001192",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-rajputana-pali-rj",
+    "name": "Radio Rajputana",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Pali",
+    "category": "Internet",
+    "genres": [
+      "Classical",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 25.7725,
+    "lng": 73.3234,
+    "logo": "logos/rajasthan/ydn-00001192.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/e8avbwxb4v8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "hindi",
+      "internet",
+      "local",
+      "pali",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001251",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-taj-jaipur-rj",
+    "name": "Radio Taj",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 26.900833,
+    "lng": 75.735,
+    "logo": "logos/rajasthan/ydn-00001251.webp",
+    "streams": [
+      {
+        "url": "https://a9.asurahosting.com:7520/radio.mp3?_ic2=1720339962818",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      },
+      {
+        "url": "https://a9.asurahosting.com/listen/radio_taj/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "jaipur",
+      "local",
+      "music",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001281",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rajasthani-bhajan-jodhpur-rj",
+    "name": "Rajasthani Bhajan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jodhpur",
+    "category": "Internet",
+    "genres": [
+      "Classical",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 26.317778,
+    "lng": 72.973889,
+    "logo": "logos/rajasthan/ydn-00001281.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/4ukvgz7ydy8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "hindi",
+      "internet",
+      "jodhpur",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001367",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shiva-radio-banswara-rj",
+    "name": "Shiva Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Banswara",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 23.523333,
+    "lng": 74.418611,
+    "logo": "logos/rajasthan/ydn-00001367.webp",
+    "streams": [
+      {
+        "url": "https://icecast.bkwsu.eu/shiva-radio.mp3",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "banswara",
+      "hindi",
+      "internet",
+      "local",
+      "rj"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001499",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vagad-radio-90-8-fm-banswara-rj",
+    "name": "Vagad Radio 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Banswara",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Community",
+      "Culture"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 23.523333,
+    "lng": 74.418611,
+    "logo": "logos/rajasthan/ydn-00001499.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/vaagdhara.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Rajasthani"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "banswara",
+      "community",
+      "culture",
+      "fm",
+      "hindi",
+      "local",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001529",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-jaipur-rj",
+    "name": "Vividh Bharati Jaipur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "RJ",
+    "city": "Jaipur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "100.3 FM",
+    "lat": 26.91944444,
+    "lng": 75.79722222,
+    "logo": "logos/rajasthan/ydn-00001529.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio193/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio193/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jaipur",
+      "local",
+      "music",
+      "news",
+      "rajasthani",
+      "rj",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

@@ -1,0 +1,148 @@
+[
+  {
+    "id": "ydn-00000079",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-churachandpur-mn",
+    "name": "Akashvani Churachandpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MN",
+    "city": "Churachandpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.4 FM",
+    "lat": 24.36055556,
+    "lng": 93.70638889,
+    "logo": "logos/manipur/ydn-00000079.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio273/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 148,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Manipuri",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "churachandpur",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "manipuri",
+      "meitei",
+      "mn",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000109",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-imphal-kangla-mn",
+    "name": "Akashvani Imphal Kangla",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MN",
+    "city": "Imphal",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "103.5 FM",
+    "lat": 24.62138889,
+    "lng": 93.92444444,
+    "logo": "logos/manipur/ydn-00000109.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio209/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Manipuri",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "imphal",
+      "local",
+      "manipuri",
+      "mn",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000110",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-imphal-sangai-mn",
+    "name": "Akashvani Imphal Sangai",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MN",
+    "city": "Imphal",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 24.62138889,
+    "lng": 93.92444444,
+    "logo": "logos/manipur/ydn-00000110.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio210/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Manipuri",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "imphal",
+      "local",
+      "manipuri",
+      "mn",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  }
+]

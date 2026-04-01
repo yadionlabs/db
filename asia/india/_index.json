@@ -1,0 +1,251 @@
+{
+  "code": "IN",
+  "name": "India",
+  "slug": "india",
+  "continent": "asia",
+  "updatedAt": "2026-04-02T11:39:54.825Z",
+  "allFile": "_all.json",
+  "totalStations": 1304,
+  "states": [
+    {
+      "code": "AP",
+      "name": "Andhra Pradesh",
+      "file": "andhra-pradesh.json",
+      "stations": 35
+    },
+    {
+      "code": "AR",
+      "name": "Arunachal Pradesh",
+      "file": "arunachal-pradesh.json",
+      "stations": 5
+    },
+    {
+      "code": "AS",
+      "name": "Assam",
+      "file": "assam.json",
+      "stations": 25
+    },
+    {
+      "code": "BR",
+      "name": "Bihar",
+      "file": "bihar.json",
+      "stations": 33
+    },
+    {
+      "code": "CT",
+      "name": "Chhattisgarh",
+      "file": "chhattisgarh.json",
+      "stations": 10
+    },
+    {
+      "code": "GA",
+      "name": "Goa",
+      "file": "goa.json",
+      "stations": 4
+    },
+    {
+      "code": "GJ",
+      "name": "Gujarat",
+      "file": "gujarat.json",
+      "stations": 35
+    },
+    {
+      "code": "HR",
+      "name": "Haryana",
+      "file": "haryana.json",
+      "stations": 14
+    },
+    {
+      "code": "HP",
+      "name": "Himachal Pradesh",
+      "file": "himachal-pradesh.json",
+      "stations": 9
+    },
+    {
+      "code": "JH",
+      "name": "Jharkhand",
+      "file": "jharkhand.json",
+      "stations": 11
+    },
+    {
+      "code": "KA",
+      "name": "Karnataka",
+      "file": "karnataka.json",
+      "stations": 70
+    },
+    {
+      "code": "KL",
+      "name": "Kerala",
+      "file": "kerala.json",
+      "stations": 105
+    },
+    {
+      "code": "MP",
+      "name": "Madhya Pradesh",
+      "file": "madhya-pradesh.json",
+      "stations": 27
+    },
+    {
+      "code": "MH",
+      "name": "Maharashtra",
+      "file": "maharashtra.json",
+      "stations": 166
+    },
+    {
+      "code": "MN",
+      "name": "Manipur",
+      "file": "manipur.json",
+      "stations": 3
+    },
+    {
+      "code": "ML",
+      "name": "Meghalaya",
+      "file": "meghalaya.json",
+      "stations": 5
+    },
+    {
+      "code": "MZ",
+      "name": "Mizoram",
+      "file": "mizoram.json",
+      "stations": 3
+    },
+    {
+      "code": "NL",
+      "name": "Nagaland",
+      "file": "nagaland.json",
+      "stations": 4
+    },
+    {
+      "code": "OR",
+      "name": "Odisha",
+      "file": "odisha.json",
+      "stations": 23
+    },
+    {
+      "code": "PB",
+      "name": "Punjab",
+      "file": "punjab.json",
+      "stations": 28
+    },
+    {
+      "code": "RJ",
+      "name": "Rajasthan",
+      "file": "rajasthan.json",
+      "stations": 40
+    },
+    {
+      "code": "SK",
+      "name": "Sikkim",
+      "file": "sikkim.json",
+      "stations": 1
+    },
+    {
+      "code": "TN",
+      "name": "Tamil Nadu",
+      "file": "tamil-nadu.json",
+      "stations": 238
+    },
+    {
+      "code": "TG",
+      "name": "Telangana",
+      "file": "telangana.json",
+      "stations": 19
+    },
+    {
+      "code": "TR",
+      "name": "Tripura",
+      "file": "tripura.json",
+      "stations": 4
+    },
+    {
+      "code": "UP",
+      "name": "Uttar Pradesh",
+      "file": "uttar-pradesh.json",
+      "stations": 54
+    },
+    {
+      "code": "UK",
+      "name": "Uttarakhand",
+      "file": "uttarakhand.json",
+      "stations": 12
+    },
+    {
+      "code": "WB",
+      "name": "West Bengal",
+      "file": "west-bengal.json",
+      "stations": 30
+    }
+  ],
+  "unionTerritories": [
+    {
+      "code": "AN",
+      "name": "Andaman and Nicobar Islands",
+      "file": "andaman-nicobar.json",
+      "stations": 1
+    },
+    {
+      "code": "CH",
+      "name": "Chandigarh",
+      "file": "chandigarh.json",
+      "stations": 9
+    },
+    {
+      "code": "DN",
+      "name": "Dadra and Nagar Haveli",
+      "file": "dadra-nagar-haveli.json",
+      "stations": 0
+    },
+    {
+      "code": "DD",
+      "name": "Daman and Diu",
+      "file": "daman-diu.json",
+      "stations": 1
+    },
+    {
+      "code": "DL",
+      "name": "Delhi",
+      "file": "delhi.json",
+      "stations": 112
+    },
+    {
+      "code": "JK",
+      "name": "Jammu and Kashmir",
+      "file": "jammu-kashmir.json",
+      "stations": 8
+    },
+    {
+      "code": "LA",
+      "name": "Ladakh",
+      "file": "ladakh.json",
+      "stations": 2
+    },
+    {
+      "code": "LD",
+      "name": "Lakshadweep",
+      "file": "lakshadweep.json",
+      "stations": 1
+    },
+    {
+      "code": "PY",
+      "name": "Puducherry",
+      "file": "puducherry.json",
+      "stations": 8
+    }
+  ],
+  "national": [
+    {
+      "code": "NAT",
+      "name": "National Broadcasts",
+      "file": "national.json",
+      "stations": 5
+    }
+  ],
+  "unknown": [
+    {
+      "code": "UNK",
+      "name": "Unknown Stations",
+      "file": "unknown.json",
+      "stations": 144
+    }
+  ]
+}

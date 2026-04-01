@@ -1,0 +1,502 @@
+[
+  {
+    "id": "ydn-00000043",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ambikapur-ct",
+    "name": "Akashvani Ambikapur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Ambikapur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1260 AM",
+    "lat": 23.17361111,
+    "lng": 83.06833333,
+    "logo": "logos/chhattisgarh/ydn-00000043.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio086/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ambikapur",
+      "chhattisgarhi",
+      "ct",
+      "digital",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000069",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bilaspur-ct",
+    "name": "Akashvani Bilaspur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Bilaspur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.2 FM",
+    "lat": 22.1,
+    "lng": 82.15388889,
+    "logo": "logos/chhattisgarh/ydn-00000069.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio110/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bilaspur",
+      "chhattisgarhi",
+      "ct",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000075",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chhattisgarh-raipur-ct",
+    "name": "Akashvani Chhattisgarh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Raipur",
+    "category": "Digital",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 21.23916667,
+    "lng": 81.64833333,
+    "logo": "logos/chhattisgarh/ydn-00000075.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio118/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Chhattisgarhi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "chhattisgarhi",
+      "ct",
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "raipur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000115",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jagdalpur-ct",
+    "name": "Akashvani Jagdalpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Jagdalpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "756 AM",
+    "lat": 19.077312,
+    "lng": 82.009642,
+    "logo": "logos/chhattisgarh/ydn-00000115.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio201/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 56,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "chhattisgarhi",
+      "ct",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "jagdalpur",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000196",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-raigarh-ct",
+    "name": "Akashvani Raigarh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Raigarh",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.7 FM",
+    "lat": 21.88333333,
+    "lng": 83.41527778,
+    "logo": "logos/chhattisgarh/ydn-00000196.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio196/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "chhattisgarhi",
+      "ct",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "raigarh",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000197",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-raipur-fm-ct",
+    "name": "Akashvani Raipur FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Raipur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 21.23916667,
+    "lng": 81.64833333,
+    "logo": "logos/chhattisgarh/ydn-00000197.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio279/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ct",
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "raipur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000208",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-saraipali-saraipalli-ct",
+    "name": "Akashvani Saraipali",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Saraipalli",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.8 FM",
+    "lat": 21.31388889,
+    "lng": 83.00416667,
+    "logo": "logos/chhattisgarh/ydn-00000208.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio254/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio254/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "chhattisgarhi",
+      "ct",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "saraipalli",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000551",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hamar-radio-surajpur-ct",
+    "name": "Hamar Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Surajpur",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Community"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 23.22,
+    "lng": 82.87,
+    "logo": "logos/chhattisgarh/ydn-00000551.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/x3rsm8packhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "ct",
+      "fm",
+      "hindi",
+      "local",
+      "surajpur",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00001059",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-dhoom-89-6-raigarh-ct",
+    "name": "Radio Dhoom 89.6",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Raigarh",
+    "category": "FM",
+    "genres": [
+      "Bollywood",
+      "Community",
+      "Entertainment",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 21.883333,
+    "lng": 83.415278,
+    "logo": "logos/chhattisgarh/ydn-00001059.webp",
+    "streams": [
+      {
+        "url": "https://servidor37-2.brlogic.com:7502/live",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "https://servidor37.brlogic.com:7502/live",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "ct",
+      "entertainment",
+      "fm",
+      "hindi",
+      "local",
+      "news",
+      "raigarh",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001216",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sangwari-raipur-ct",
+    "name": "Radio Sangwari",
+    "continent": "asia",
+    "country": "IN",
+    "state": "CT",
+    "city": "Raipur",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "News",
+      "Religious",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 21.239167,
+    "lng": 81.648333,
+    "logo": "logos/chhattisgarh/ydn-00001216.webp",
+    "streams": [
+      {
+        "url": "https://servidor19.brlogic.com:7002/live",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://servidor19-4.brlogic.com:7002/live",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "ct",
+      "hindi",
+      "internet",
+      "local",
+      "news",
+      "pop",
+      "raipur",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  }
+]

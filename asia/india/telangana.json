@@ -1,0 +1,891 @@
+[
+  {
+    "id": "ydn-00000017",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aarani-saaral-fm-sathupally-tg",
+    "name": "Aarani Saaral FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Sathupally",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 17.21,
+    "lng": 80.83,
+    "logo": "logos/telangana/ydn-00000017.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/5dycqapghzzuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "sathupally",
+      "tamil",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000032",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-aadilabad-adilabad-tg",
+    "name": "Akashvani Aadilabad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Adilabad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.2 FM",
+    "lat": 19.67111111,
+    "lng": 78.52666667,
+    "logo": "logos/telangana/ydn-00000032.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio218/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "adilabad",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000150",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kothagudem-tg",
+    "name": "Akashvani Kothagudem",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Kothagudem",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 17.51416667,
+    "lng": 80.64166667,
+    "logo": "logos/telangana/ydn-00000150.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio116/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "hindi",
+      "kothagudem",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000179",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-nizamabad-tg",
+    "name": "Akashvani Nizamabad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Nizamabad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.2 FM",
+    "lat": 18.65777778,
+    "lng": 78.09333333,
+    "logo": "logos/telangana/ydn-00000179.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio222/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "nizamabad",
+      "talk",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000228",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-telangana-hyderabad-tg",
+    "name": "Akashvani Telangana",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00000228.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio032/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "folk",
+      "hindi",
+      "hyderabad",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000244",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-warangal-tg",
+    "name": "Akashvani Warangal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Warangal",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.5 FM",
+    "lat": 18.02111111,
+    "lng": 79.55361111,
+    "logo": "logos/telangana/ydn-00000244.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio154/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "culture",
+      "digital",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "telugu",
+      "tg",
+      "warangal"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000361",
+    "type": "station",
+    "medium": "radio",
+    "slug": "breezy-fm-narsampet-tg",
+    "name": "Breezy FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Narsampet",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.927,
+    "lng": 79.916,
+    "logo": "logos/telangana/ydn-00000361.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/nb7v5wd747zuv",
+        "format": "aac",
+        "bitrate": 130,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/pb91axd747zuv",
+        "format": "aac",
+        "bitrate": 130,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "narsampet",
+      "talk",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000469",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-hyderabad-tg",
+    "name": "FM Rainbow Hyderabad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "101.9 FM",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00000469.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio031/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "hyderabad",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "telugu",
+      "tg",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000773",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kool-fm-hyderabad-tg",
+    "name": "Kool FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "FM",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "104.7 FM",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00000773.webp",
+    "streams": [
+      {
+        "url": "https://ice42.securenetsystems.net/KQBK?playSessionID=893715E2-D578-F731-09E75DFFEE53C84F",
+        "format": "aac",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "fm",
+      "hyderabad",
+      "local",
+      "pop",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000855",
+    "type": "station",
+    "medium": "radio",
+    "slug": "melody-radio-hyderabad-tg",
+    "name": "Melody Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Classical",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00000855.webp",
+    "streams": [
+      {
+        "url": "https://a1.asurahosting.com/listen/melody_radio/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      },
+      {
+        "url": "https://a1.asurahosting.com:9580/radio.mp3/;",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Telugu"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "entertainment",
+      "hindi",
+      "hyderabad",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000916",
+    "type": "station",
+    "medium": "radio",
+    "slug": "nee-swaram-hyderabad-tg",
+    "name": "Nee Swaram",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00000916.webp",
+    "streams": [
+      {
+        "url": "http://85.25.185.202:8035/stream",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hyderabad",
+      "internet",
+      "local",
+      "religious",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001023",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-charminar-hyderabad-tg",
+    "name": "Radio Charminar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "FM",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "107.8 FM",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00001023.webp",
+    "streams": [
+      {
+        "url": "http://www.radiocharminar.com/wp-content/uploads/2016/03/radiocharminar.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "hindi",
+      "hyderabad",
+      "local",
+      "pop",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001119",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mama-hyderabad-tg",
+    "name": "Radio Mama",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00001119.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/hq1baby4sk8uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001458",
+    "type": "station",
+    "medium": "radio",
+    "slug": "telugu-music-nirmal-tg",
+    "name": "Telugu Music",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Nirmal",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 19.096,
+    "lng": 78.344,
+    "logo": "logos/telangana/ydn-00001458.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/rn8qfddy238uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "music",
+      "nirmal",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001459",
+    "type": "station",
+    "medium": "radio",
+    "slug": "telugu-nri-radio-hyderabad-tg",
+    "name": "Telugu NRI Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00001459.webp",
+    "streams": [
+      {
+        "url": "https://cast5.asurahosting.com:2199/proxy/telugunr?mp=/stream/;",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001460",
+    "type": "station",
+    "medium": "radio",
+    "slug": "telugu-top-100-hyderabad-tg",
+    "name": "Telugu Top 100",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Pop",
+      "Electronic",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00001460.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/jpazsptqrpsvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "electronic",
+      "entertainment",
+      "hyderabad",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001462",
+    "type": "station",
+    "medium": "radio",
+    "slug": "teluguone-radio-ist-hyderabad-tg",
+    "name": "Teluguone Radio - IST",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00001462.webp",
+    "streams": [
+      {
+        "url": "http://173.203.133.187:9700/;",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001485",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tori-radio-hyderabad-tg",
+    "name": "TORi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "News",
+      "Music",
+      "Bollywood",
+      "Community",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00001485.webp",
+    "streams": [
+      {
+        "url": "http://173.203.133.187:9700/TORi_Live/;",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "entertainment",
+      "hyderabad",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "telugu",
+      "tg"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001541",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-telugu-hyderabad-tg",
+    "name": "Vividh Bharati Telugu Hyderabad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "TG",
+    "city": "Hyderabad",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/telangana/ydn-00001541.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio034/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "regional",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "hyderabad",
+      "multilingual",
+      "music",
+      "news",
+      "regional",
+      "talk",
+      "telugu",
+      "tg",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

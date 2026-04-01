@@ -1,0 +1,261 @@
+[
+  {
+    "id": "ydn-00001815",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jongphi-shillong-fm-ml",
+    "name": "Akashvani Jongphi Shillong FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "ML",
+    "city": "Shillong",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 25.44166667,
+    "lng": 91.81777778,
+    "logo": "logos/meghalaya/ydn-00001815.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio264/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Khasi",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "khasi",
+      "local",
+      "ml",
+      "news",
+      "shillong"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000128",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jowai-ml",
+    "name": "Akashvani Jowai",
+    "continent": "asia",
+    "country": "IN",
+    "state": "ML",
+    "city": "Jowai",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.1 FM",
+    "lat": 25.44444444,
+    "lng": 92.19777778,
+    "logo": "logos/meghalaya/ydn-00000128.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio265/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio265/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Pnar",
+      "secondary": [
+        "Khasi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "jowai",
+      "khasi",
+      "local",
+      "ml",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00001808",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-north-east-shillong-ml",
+    "name": "Akashvani North East Shillong",
+    "continent": "asia",
+    "country": "IN",
+    "state": "ML",
+    "city": "Shillong",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 25.44444444,
+    "lng": 92.197778,
+    "logo": "logos/meghalaya/ydn-00001808.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio249/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "English",
+        "Regional"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "local",
+      "ml",
+      "news",
+      "shillong"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000214",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-shillong-ml",
+    "name": "Akashvani Shillong",
+    "continent": "asia",
+    "country": "IN",
+    "state": "ML",
+    "city": "Shillong",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "864 AM",
+    "lat": 25.53388889,
+    "lng": 91.85055556,
+    "logo": "logos/meghalaya/ydn-00000214.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio161/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Khasi",
+      "secondary": [
+        "English",
+        "Garo"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "khasi",
+      "local",
+      "ml",
+      "multilingual",
+      "music",
+      "news",
+      "shillong",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000236",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-tura-ml",
+    "name": "Akashvani Tura",
+    "continent": "asia",
+    "country": "IN",
+    "state": "ML",
+    "city": "Tura",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 25.49305556,
+    "lng": 90.17916667,
+    "logo": "logos/meghalaya/ydn-00000236.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio259/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio259/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 56,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Garo",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "khasi",
+      "local",
+      "ml",
+      "music",
+      "news",
+      "tura"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  }
+]

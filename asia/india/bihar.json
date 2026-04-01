@@ -1,0 +1,1469 @@
+[
+  {
+    "id": "ydn-00000063",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bhagalpur-br",
+    "name": "Akashvani Bhagalpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Bhagalpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1458 AM",
+    "lat": 25.25416667,
+    "lng": 86.98583333,
+    "logo": "logos/bihar/ydn-00000063.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio292/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 191,
+        "primary": true
+      },
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio003/hlspbaudio00364kbps.m3u8",
+        "format": "aac",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Angika",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bhagalpur",
+      "br",
+      "digital",
+      "hindi",
+      "local",
+      "maithili",
+      "music",
+      "news",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000084",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-darbhanga-br",
+    "name": "Akashvani Darbhanga",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Darbhanga",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1296 AM",
+    "lat": 26.13583333,
+    "lng": 85.91861111,
+    "logo": "logos/bihar/ydn-00000084.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio160/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Maithili",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "darbhanga",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "maithili",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000186",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-patna-br",
+    "name": "Akashvani Patna",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Patna",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "621 AM",
+    "lat": 25.53138889,
+    "lng": 85.28638889,
+    "logo": "logos/bihar/ydn-00000186.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio087/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bhojpuri",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "maithili",
+      "multilingual",
+      "music",
+      "news",
+      "patna",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000194",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-purnia-bihar-br",
+    "name": "Akashvani Purnia Bihar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Purnia",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 25.79833333,
+    "lng": 87.50805556,
+    "logo": "logos/bihar/ydn-00000194.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio147/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "digital",
+      "hindi",
+      "local",
+      "maithili",
+      "news",
+      "purnia"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000209",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-sasaram-br",
+    "name": "Akashvani Sasaram",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Sasaram",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.4 FM",
+    "lat": 24.95777778,
+    "lng": 84.00611111,
+    "logo": "logos/bihar/ydn-00000209.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio075/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhojpuri",
+      "br",
+      "digital",
+      "hindi",
+      "local",
+      "maithili",
+      "music",
+      "news",
+      "sasaram",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000341",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhojpuriya-fm-92-8-gopalganj-br",
+    "name": "Bhojpuriya FM 92.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Gopalganj",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.47,
+    "lng": 84.44,
+    "logo": "logos/bihar/ydn-00000341.webp",
+    "streams": [
+      {
+        "url": "https://streaming.softnep.net:10959/stream/;",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "gopalganj",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000345",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bindaas-jagran-bhagalpur-br",
+    "name": "Bindaas Jagran",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Bhagalpur",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 25.254167,
+    "lng": 86.985833,
+    "logo": "logos/bihar/ydn-00000345.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/2h0d5e8gkf9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhagalpur",
+      "bollywood",
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000397",
+    "type": "station",
+    "medium": "radio",
+    "slug": "colors-fm-102-4-siwan-br",
+    "name": "Colors FM 102.4",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Siwan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.22,
+    "lng": 84.36,
+    "logo": "logos/bihar/ydn-00000397.webp",
+    "streams": [
+      {
+        "url": "http://stream.orangictech.com.np:8050/colorsfm.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "siwan"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00001798",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-green-bhagalpur-br",
+    "name": "FM Green",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Bhagalpur",
+    "category": "FM",
+    "genres": [
+      "Education",
+      "Talk",
+      "Community"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 25.254167,
+    "lng": 86.985833,
+    "logo": "logos/bihar/ydn-00001798.webp",
+    "streams": [
+      {
+        "url": "https://d11pscvtcm3dd5.cloudfront.net/fmgreen.m3u8",
+        "format": "aac",
+        "bitrate": 66,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhagalpur",
+      "br",
+      "community",
+      "education",
+      "fm",
+      "hindi",
+      "local",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000456",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-green-bau-sabour-bhagalpur-br",
+    "name": "FM Green BAU Sabour",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Bhagalpur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.254167,
+    "lng": 86.985833,
+    "logo": "logos/bihar/ydn-00000456.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/fmgreen.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhagalpur",
+      "br",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000476",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-patna-br",
+    "name": "FM Rainbow Patna",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Patna",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 25.61333333,
+    "lng": 85.14,
+    "logo": "logos/bihar/ydn-00000476.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio252/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "digital",
+      "hindi",
+      "local",
+      "maithili",
+      "news",
+      "patna"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000754",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kalika-fm-91-0-siwan-br",
+    "name": "Kalika FM 91.0",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Siwan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.22,
+    "lng": 84.36,
+    "logo": "logos/bihar/ydn-00000754.webp",
+    "streams": [
+      {
+        "url": "https://streaming.softnep.net:10828/;stream.nsv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://kalika-stream.softnep.com:7740/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "siwan"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000775",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ktr-radio-katihar-br",
+    "name": "KTR Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Katihar",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 25.5385,
+    "lng": 87.5704,
+    "logo": "logos/bihar/ydn-00000775.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/27d11qgm2p8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Hindi / English / Bengali / Punjabi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "entertainment",
+      "hindi",
+      "hindi english bengali punjabi",
+      "internet",
+      "katihar",
+      "local",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000912",
+    "type": "station",
+    "medium": "radio",
+    "slug": "nawalpur-fm-104-7-siwan-br",
+    "name": "Nawalpur FM 104.7",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Siwan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.22,
+    "lng": 84.36,
+    "logo": "logos/bihar/ydn-00000912.webp",
+    "streams": [
+      {
+        "url": "https://live.itech.host:9376/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "siwan"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000993",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-active-bhagalpur-br",
+    "name": "Radio Active Bhagalpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Bhagalpur",
+    "category": "FM",
+    "genres": [
+      "Pop",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 25.254167,
+    "lng": 86.985833,
+    "logo": "logos/bihar/ydn-00000993.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/bmmfkpkwbg8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/sm2s8gqeb3wtv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://stream.zeno.fm/ogoasntaulstv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bhagalpur",
+      "bollywood",
+      "br",
+      "community",
+      "fm",
+      "hindi",
+      "local",
+      "multilingual",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001003",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-badal-siwan-br",
+    "name": "Radio Badal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Siwan",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 26.22,
+    "lng": 84.36,
+    "logo": "logos/bihar/ydn-00001003.webp",
+    "streams": [
+      {
+        "url": "https://listen.openstream.co/6654/;stream.mp3",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "siwan"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001017",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-bimal-katihar-br",
+    "name": "Radio Bimal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Katihar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.5385,
+    "lng": 87.5704,
+    "logo": "logos/bihar/ydn-00001017.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ynjkcll5jgctv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "hindi",
+      "internet",
+      "katihar",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001018",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-birgunj-99-fm-siwan-br",
+    "name": "Radio Birgunj 99 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Siwan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.22,
+    "lng": 84.36,
+    "logo": "logos/bihar/ydn-00001018.webp",
+    "streams": [
+      {
+        "url": "https://streaming.softnep.net:10991/;stream.nsv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "siwan"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001024",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-chenari-bhabua-br",
+    "name": "Radio Chenari",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Bhabua",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.041,
+    "lng": 83.607,
+    "logo": "logos/bihar/ydn-00001024.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xsrdsegrepbvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhabua",
+      "br",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001069",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-gaana-siwan-br",
+    "name": "Radio Gaana",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Siwan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.22,
+    "lng": 84.36,
+    "logo": "logos/bihar/ydn-00001069.webp",
+    "streams": [
+      {
+        "url": "https://sp14.instainternet.com/8044/stream",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "siwan"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001087",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-hotstar-siwan-br",
+    "name": "Radio Hotstar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Siwan",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.22,
+    "lng": 84.36,
+    "logo": "logos/bihar/ydn-00001087.webp",
+    "streams": [
+      {
+        "url": "https://mars.streamerr.co/8164/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "siwan"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001106",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-kvk-patna-br",
+    "name": "Radio KVK",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Patna",
+    "category": "FM",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 25.531389,
+    "lng": 85.286389,
+    "logo": "logos/bihar/ydn-00001106.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cqac5ddh698uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "br",
+      "fm",
+      "hindi",
+      "local",
+      "patna"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001114",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-majnu-daudnagar-br",
+    "name": "Radio Majnu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Daudnagar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.034,
+    "lng": 84.402,
+    "logo": "logos/bihar/ydn-00001114.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/r21vkin9s4nuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "daudnagar",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001189",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-radhika-munger-br",
+    "name": "Radio Radhika Munger",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Munger",
+    "category": "Internet",
+    "genres": [
+      "Community",
+      "Entertainment",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 25.374,
+    "lng": 86.474,
+    "logo": "logos/bihar/ydn-00001189.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/7ivlkteseuatv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "community",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "munger",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001191",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-rainbow-patna-br",
+    "name": "Radio Rainbow",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Patna",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 25.531389,
+    "lng": 85.286389,
+    "logo": "logos/bihar/ydn-00001191.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/m3g97f8eqm0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "patna"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001201",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-rimjhim-gopalganj-br",
+    "name": "Radio Rimjhim",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Gopalganj",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Community"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 26.47,
+    "lng": 84.44,
+    "logo": "logos/bihar/ydn-00001201.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radiorimjhim.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "community",
+      "gopalganj",
+      "hindi",
+      "internet",
+      "local",
+      "multilingual",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001244",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-snehi-siwan-br",
+    "name": "Radio Snehi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Siwan",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 26.22,
+    "lng": 84.36,
+    "logo": "logos/bihar/ydn-00001244.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/iz9omc2vm5suv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "br",
+      "community",
+      "fm",
+      "hindi",
+      "local",
+      "siwan",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001265",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-varsha-gopalganj-br",
+    "name": "Radio Varsha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Gopalganj",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Music",
+      "Community"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 26.47,
+    "lng": 84.44,
+    "logo": "logos/bihar/ydn-00001265.webp",
+    "streams": [
+      {
+        "url": "https://sp14.instainternet.com/8252/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "community",
+      "fm",
+      "gopalganj",
+      "hindi",
+      "local",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001272",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vrishti-bhojpuri-bhagalpur-br",
+    "name": "Radio Vrishti - Bhojpuri",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Bhagalpur",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 25.254167,
+    "lng": 86.985833,
+    "logo": "logos/bihar/ydn-00001272.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/un3qjmd4stbtv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Bhojpuri"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bhagalpur",
+      "bhojpuri",
+      "bollywood",
+      "br",
+      "hindi",
+      "internet",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001273",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vrishti-maithili-bhagalpur-br",
+    "name": "Radio Vrishti - Maithili",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Bhagalpur",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 25.254167,
+    "lng": 86.985833,
+    "logo": "logos/bihar/ydn-00001273.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/n7zztgyseaduv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Korean",
+      "secondary": [
+        "Maithili"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bhagalpur",
+      "br",
+      "folk",
+      "internet",
+      "korean",
+      "local",
+      "maithili",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001278",
+    "type": "station",
+    "medium": "radio",
+    "slug": "raha-fm-katihar-br",
+    "name": "Raha FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Katihar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 25.5385,
+    "lng": 87.5704,
+    "logo": "logos/bihar/ydn-00001278.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/fa79uibs1nvvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "hindi",
+      "internet",
+      "katihar",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001490",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ujyaalo-fm-90-gopalganj-br",
+    "name": "Ujyaalo FM 90",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Gopalganj",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 26.47,
+    "lng": 84.44,
+    "logo": "logos/bihar/ydn-00001490.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/wtuvp08xq1duv",
+        "format": "mp3",
+        "bitrate": 112,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "gopalganj",
+      "hindi",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001537",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-patna-br",
+    "name": "Vividh Bharati Patna",
+    "continent": "asia",
+    "country": "IN",
+    "state": "BR",
+    "city": "Patna",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 25.60611111,
+    "lng": 85.17583333,
+    "logo": "logos/bihar/ydn-00001537.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio251/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "br",
+      "digital",
+      "hindi",
+      "local",
+      "maithili",
+      "news",
+      "patna"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

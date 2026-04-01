@@ -1,0 +1,12 @@
+{
+  "schemaVersion": "1.0.0",
+  "dataVersion": "1.0.0",
+  "updatedAt": "2026-04-02T11:39:54.825Z",
+  "totalStations": 1304,
+  "types": [
+    "station"
+  ],
+  "media": [
+    "radio"
+  ]
+}

@@ -1,0 +1,191 @@
+[
+  {
+    "id": "ydn-00000161",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-mahadei-panaji-ga",
+    "name": "Akashvani Mahadei Panaji",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GA",
+    "city": "Panaji",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "1287 AM",
+    "lat": 15.48888889,
+    "lng": 73.82555556,
+    "logo": "logos/goa/ydn-00000161.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio049/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Konkani",
+      "secondary": [
+        "Marathi",
+        "Hindi",
+        "English",
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "ga",
+      "hindi",
+      "konkani",
+      "local",
+      "marathi",
+      "multilingual",
+      "music",
+      "news",
+      "panaji",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000468",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-goa-panaji-ga",
+    "name": "FM Rainbow Goa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GA",
+    "city": "Panaji",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "105.4 FM",
+    "lat": 15.45833333,
+    "lng": 73.84916667,
+    "logo": "logos/goa/ydn-00000468.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio048/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Konkani",
+      "secondary": [
+        "Marathi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "ga",
+      "konkani",
+      "local",
+      "marathi",
+      "news",
+      "panaji",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00001074",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-goa-old-goa-ga",
+    "name": "Radio Goa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GA",
+    "city": "Old Goa",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 15.5009,
+    "lng": 73.911,
+    "logo": "logos/goa/ydn-00001074.webp",
+    "streams": [
+      {
+        "url": "https://radio.faleiro.uk/radio/8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Konkani",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ga",
+      "internet",
+      "konkani",
+      "local",
+      "old goa"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001536",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-panaji-ga",
+    "name": "Vividh Bharati Panaji",
+    "continent": "asia",
+    "country": "IN",
+    "state": "GA",
+    "city": "Panaji",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 15.48888889,
+    "lng": 73.82555556,
+    "logo": "logos/goa/ydn-00001536.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio280/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Konkani",
+      "secondary": [
+        "Marathi",
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "ga",
+      "konkani",
+      "local",
+      "news",
+      "panaji"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

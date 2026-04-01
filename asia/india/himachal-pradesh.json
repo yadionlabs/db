@@ -1,0 +1,421 @@
+[
+  {
+    "id": "ydn-00000088",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-dharamshala-hp",
+    "name": "Akashvani Dharamshala",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Dharamshala",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "103.4 FM",
+    "lat": 32.05,
+    "lng": 76.36666667,
+    "logo": "logos/himachal-pradesh/ydn-00000088.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio165/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Pahari",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "dharamshala",
+      "digital",
+      "entertainment",
+      "hindi",
+      "hp",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "pahari",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000104",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-hamirpur-fm-hp",
+    "name": "Akashvani Hamirpur FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Hamirpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 31.69472222,
+    "lng": 76.52111111,
+    "logo": "logos/himachal-pradesh/ydn-00000104.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio243/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Pahari",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hamirpur",
+      "hindi",
+      "hp",
+      "local",
+      "news",
+      "pahari"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000215",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-shimla-hp",
+    "name": "Akashvani Shimla",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Shimla",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "103.7 FM",
+    "lat": 31.16694444,
+    "lng": 77.20194444,
+    "logo": "logos/himachal-pradesh/ydn-00000215.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio043/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 148,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Pahari",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "hp",
+      "local",
+      "news",
+      "pahari",
+      "shimla",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000216",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-shimla-fm-hp",
+    "name": "Akashvani Shimla FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Shimla",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music"
+    ],
+    "frequency": "774 AM",
+    "lat": 31.10361111,
+    "lng": 77.15222222,
+    "logo": "logos/himachal-pradesh/ydn-00000216.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio042/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 148,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Pahari",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "hp",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "pahari",
+      "shimla",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000829",
+    "type": "station",
+    "medium": "radio",
+    "slug": "maha-fm-dharamshala-hp",
+    "name": "Maha FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Dharamshala",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 32.05,
+    "lng": 76.366667,
+    "logo": "logos/himachal-pradesh/ydn-00000829.webp",
+    "streams": [
+      {
+        "url": "https://server1.mahamediacast.com/proxy/mahafm/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dharamshala",
+      "hindi",
+      "hp",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00001079",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-gunjan-fm-91-2-dharamshala-hp",
+    "name": "Radio Gunjan FM 91.2",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Dharamshala",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 32.05,
+    "lng": 76.366667,
+    "logo": "logos/himachal-pradesh/ydn-00001079.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/gunjanradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dharamshala",
+      "hindi",
+      "hp",
+      "internet",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001164",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-nagar-kullu-hp",
+    "name": "Radio Nagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Kullu",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Community",
+      "Entertainment"
+    ],
+    "frequency": "89.6 FM",
+    "lat": 31.96,
+    "lng": 77.11,
+    "logo": "logos/himachal-pradesh/ydn-00001164.webp",
+    "streams": [
+      {
+        "url": "https://s3.voscast.com:11195/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "english",
+      "entertainment",
+      "fm",
+      "hp",
+      "kullu",
+      "local",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001295",
+    "type": "station",
+    "medium": "radio",
+    "slug": "revive-radio-english-manali-hp",
+    "name": "Revive Radio - English",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Manali",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 32.24,
+    "lng": 77.19,
+    "logo": "logos/himachal-pradesh/ydn-00001295.webp",
+    "streams": [
+      {
+        "url": "https://gains.reviveradio.net/proxy/reviveradioenglish?mp=/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "hp",
+      "internet",
+      "local",
+      "manali"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001296",
+    "type": "station",
+    "medium": "radio",
+    "slug": "revive-radio-hindi-manali-hp",
+    "name": "Revive Radio - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "HP",
+    "city": "Manali",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 32.24,
+    "lng": 77.19,
+    "logo": "logos/himachal-pradesh/ydn-00001296.webp",
+    "streams": [
+      {
+        "url": "https://gains.reviveradio.net/proxy/reviveradiohindi/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://gains.reviveradio.net/proxy/reviveradiohindi?mp=/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "hp",
+      "internet",
+      "local",
+      "manali"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  }
+]

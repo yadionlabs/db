@@ -1,0 +1,1075 @@
+[
+  {
+    "id": "ydn-00000049",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-balangir-bolangir-or",
+    "name": "Akashvani Balangir",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Bolangir",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.9 FM",
+    "lat": 20.70416667,
+    "lng": 83.48527778,
+    "logo": "logos/odisha/ydn-00000049.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio187/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 379,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bolangir",
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "odia",
+      "or",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000053",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-baripada-or",
+    "name": "Akashvani Baripada",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Baripada",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.9 FM",
+    "lat": 21.9419,
+    "lng": 86.73,
+    "logo": "logos/odisha/ydn-00000053.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio158/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "baripada",
+      "digital",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "odia",
+      "or",
+      "oriya",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000059",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-berhampur-brahmapur-or",
+    "name": "Akashvani Berhampur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Brahmapur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.6 FM",
+    "lat": 19.315,
+    "lng": 84.794,
+    "logo": "logos/odisha/ydn-00000059.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio180/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "brahmapur",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "odia",
+      "or",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000064",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bhawanipatna-or",
+    "name": "Akashvani Bhawanipatna",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Bhawanipatna",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1206 AM",
+    "lat": 19.9,
+    "lng": 83.16,
+    "logo": "logos/odisha/ydn-00000064.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio120/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhawanipatna",
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "odia",
+      "or",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000121",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jeypore-or",
+    "name": "Akashvani Jeypore",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Jeypore",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1467 AM",
+    "lat": 18.86638889,
+    "lng": 82.56416667,
+    "logo": "logos/odisha/ydn-00000121.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio112/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 56,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hindi",
+      "jeypore",
+      "local",
+      "music",
+      "news",
+      "odia",
+      "or",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000126",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-joranda-or",
+    "name": "Akashvani Joranda",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Joranda",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 20.75777778,
+    "lng": 85.71972222,
+    "logo": "logos/odisha/ydn-00000126.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio256/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 72,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "joranda",
+      "local",
+      "news",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000140",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-keonjhar-or",
+    "name": "Akashvani Keonjhar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Keonjhar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1584 AM",
+    "lat": 21.65527778,
+    "lng": 85.62805556,
+    "logo": "logos/odisha/ydn-00000140.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio166/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hindi",
+      "keonjhar",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "odia",
+      "or",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000162",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-mahanadi-sambalpur-or",
+    "name": "Akashvani Mahanadi Sambalpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Sambalpur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 21.46861111,
+    "lng": 83.98361111,
+    "logo": "logos/odisha/ydn-00000162.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "odia",
+      "or",
+      "sambalpur",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000181",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-odia-cuttack-or",
+    "name": "Akashvani Odia",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Cuttack",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 20.47666667,
+    "lng": 85.87166667,
+    "logo": "logos/odisha/ydn-00000181.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio137/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "cuttack",
+      "digital",
+      "entertainment",
+      "folk",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "odia",
+      "or",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000193",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-puri-fm-or",
+    "name": "Akashvani Puri FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Puri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "103.4 FM",
+    "lat": 19.79222222,
+    "lng": 85.81972222,
+    "logo": "logos/odisha/ydn-00000193.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio100/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "odia",
+      "or",
+      "puri",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000204",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-rourkela-or",
+    "name": "Akashvani Rourkela",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Rourkela",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 22.23555556,
+    "lng": 84.85972222,
+    "logo": "logos/odisha/ydn-00000204.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio215/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "odia",
+      "or",
+      "rourkela"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000206",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-sambalpur-or",
+    "name": "Akashvani Sambalpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Sambalpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "945 AM",
+    "lat": 21.41916667,
+    "lng": 84.03527778,
+    "logo": "logos/odisha/ydn-00000206.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio181/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 75,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio182/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio181/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 75,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "odia",
+      "or",
+      "sambalpur",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000269",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ankora-radio-bhubaneswar-or",
+    "name": "Ankora Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Bhubaneswar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "logo": "logos/odisha/ydn-00000269.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xush70b1cbruv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhubaneswar",
+      "internet",
+      "local",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000466",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-cuttack-or",
+    "name": "FM Rainbow Cuttack",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Cuttack",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "101.3 FM",
+    "lat": 20.48194444,
+    "lng": 85.87416667,
+    "logo": "logos/odisha/ydn-00000466.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio102/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "cuttack",
+      "digital",
+      "hindi",
+      "local",
+      "multilingual",
+      "news",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000935",
+    "type": "station",
+    "medium": "radio",
+    "slug": "odia-old-songs-bhubaneswar-or",
+    "name": "Odia Old Songs",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Bhubaneswar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "logo": "logos/odisha/ydn-00000935.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/oystkixag3euv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhubaneswar",
+      "internet",
+      "local",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000936",
+    "type": "station",
+    "medium": "radio",
+    "slug": "odisha-radio-cuttack-or",
+    "name": "Odisha Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Cuttack",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 20.476667,
+    "lng": 85.871667,
+    "logo": "logos/odisha/ydn-00000936.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ehzgcb9mk98uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "cuttack",
+      "internet",
+      "local",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001796",
+    "type": "station",
+    "medium": "radio",
+    "slug": "odisha-radio-love-cuttack-or",
+    "name": "Odisha Radio - Love",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Cuttack",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 20.476667,
+    "lng": 85.871667,
+    "logo": "logos/odisha/ydn-00001796.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/x23ttc8e0chvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "cuttack",
+      "internet",
+      "local",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001026",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-choklate-bhubaneswar-or",
+    "name": "Radio Choklate",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Bhubaneswar",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "104 FM",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "logo": "logos/odisha/ydn-00001026.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/1t5ceyhcxbruv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/cuxmkpgdceruv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Odia"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bhubaneswar",
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "odia",
+      "or",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001167",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-nalta-99-2-fm-bhubaneswar-or",
+    "name": "Radio Nalta 99.2 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Bhubaneswar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "logo": "logos/odisha/ydn-00001167.webp",
+    "streams": [
+      {
+        "url": "https://centova47.instainternet.com/proxy/radionalta?mp=/stream",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhubaneswar",
+      "internet",
+      "local",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001178",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-padma-99-2-bhubaneswar-or",
+    "name": "Radio Padma 99.2",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Bhubaneswar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 20.2961,
+    "lng": 85.8245,
+    "logo": "logos/odisha/ydn-00001178.webp",
+    "streams": [
+      {
+        "url": "https://radiopadmabd.radioca.st/radiopadma",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bhubaneswar",
+      "internet",
+      "local",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001215",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sandesh-kantabanji-or",
+    "name": "Radio Sandesh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Kantabanji",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Community"
+    ],
+    "frequency": "90 FM",
+    "lat": 20.467,
+    "lng": 82.92,
+    "logo": "logos/odisha/ydn-00001215.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radiosandesh.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": [
+        "Odisha"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "kantabanji",
+      "local",
+      "news",
+      "odia",
+      "odisha",
+      "or",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001248",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-suravi-89-6-fm-balasore-or",
+    "name": "Radio Suravi 89.6 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Balasore",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 21.494,
+    "lng": 86.931,
+    "logo": "logos/odisha/ydn-00001248.webp",
+    "streams": [
+      {
+        "url": "https://dhkxi1xp7j48l.cloudfront.net/suravifmodisha.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "balasore",
+      "internet",
+      "local",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001526",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-cuttack-or",
+    "name": "Vividh Bharati Cuttack",
+    "continent": "asia",
+    "country": "IN",
+    "state": "OR",
+    "city": "Cuttack",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 20.48527778,
+    "lng": 85.85194444,
+    "logo": "logos/odisha/ydn-00001526.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio103/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Odia",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "cuttack",
+      "digital",
+      "hindi",
+      "local",
+      "news",
+      "odia",
+      "or"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "ydn-00000135",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kargil-la",
+    "name": "Akashvani Kargil",
+    "continent": "asia",
+    "country": "IN",
+    "state": "LA",
+    "city": "Kargil",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "1584 AM",
+    "lat": 34.51027778,
+    "lng": 76.13222222,
+    "logo": "logos/ladakh/ydn-00000135.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio066/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 101,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Ladakhi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "entertainment",
+      "hindi",
+      "kargil",
+      "la",
+      "ladakhi",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000156",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-leh-la",
+    "name": "Akashvani Leh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "LA",
+    "city": "Leh",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "101.1 FM",
+    "lat": 34.1175,
+    "lng": 77.58416667,
+    "logo": "logos/ladakh/ydn-00000156.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio223/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio233/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 149,
+        "primary": false
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio223/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Bhoti",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "la",
+      "ladakhi",
+      "leh",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  }
+]

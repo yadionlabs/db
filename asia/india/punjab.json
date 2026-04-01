@@ -1,0 +1,1280 @@
+[
+  {
+    "id": "ydn-00000002",
+    "type": "station",
+    "medium": "radio",
+    "slug": "24-7-radio-sarab-rog-ka-aukhad-naam-ludhiana-pb",
+    "name": "24/7 Radio Sarab Rog Ka Aukhad Naam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Ludhiana",
+    "category": "Internet",
+    "genres": [
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 30.906944,
+    "lng": 75.867778,
+    "logo": "logos/punjab/ydn-00000002.webp",
+    "streams": [
+      {
+        "url": "http://akalmultimedia.net:8000/srkan",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local",
+      "ludhiana",
+      "pb",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000029",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aid-badhni-kalan-ludhiana-pb",
+    "name": "Aid Badhni Kalan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Ludhiana",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 30.906944,
+    "lng": 75.867778,
+    "logo": "logos/punjab/ydn-00000029.webp",
+    "streams": [
+      {
+        "url": "http://104.237.193.163:8007/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "ludhiana",
+      "music",
+      "pb",
+      "punjabi",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000031",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akal-multimedia-ludhiana-pb",
+    "name": "Akal Multimedia",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Ludhiana",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 30.906944,
+    "lng": 75.867778,
+    "logo": "logos/punjab/ydn-00000031.webp",
+    "streams": [
+      {
+        "url": "http://kpanth.net:8000/srkan",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "ludhiana",
+      "music",
+      "pb",
+      "punjabi",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000055",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-bathinda-pb",
+    "name": "Akashvani Bathinda",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Bathinda",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.1 FM",
+    "lat": 30.20527778,
+    "lng": 74.94611111,
+    "logo": "logos/punjab/ydn-00000055.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio117/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bathinda",
+      "digital",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "pb",
+      "punjabi",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000158",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ludhiana-pb",
+    "name": "Akashvani Ludhiana",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Ludhiana",
+    "category": "Digital",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 30.90694444,
+    "lng": 75.86777778,
+    "logo": "logos/punjab/ydn-00000158.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio056/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 148,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "local",
+      "ludhiana",
+      "news",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000185",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-patiala-pb",
+    "name": "Akashvani Patiala",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Patiala",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.2 FM",
+    "lat": 30.35361111,
+    "lng": 76.44527778,
+    "logo": "logos/punjab/ydn-00000185.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio163/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "patiala",
+      "pb",
+      "punjabi",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000192",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-punjabi-jalandhar-pb",
+    "name": "Akashvani Punjabi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Jalandhar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 31.29027778,
+    "lng": 75.55805556,
+    "logo": "logos/punjab/ydn-00000192.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio138/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jalandhar",
+      "local",
+      "news",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00001595",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akath-katha-radio-amritsar-pb",
+    "name": "Akath Katha Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00001595.webp",
+    "streams": [
+      {
+        "url": "https://cast1.asurahosting.com/proxy/akath/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://cast1.my-control-panel.com/proxy/akath/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "internet",
+      "local",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000249",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akj-org-radio-ludhiana-pb",
+    "name": "AKJ Org Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Ludhiana",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 30.906944,
+    "lng": 75.867778,
+    "logo": "logos/punjab/ydn-00000249.webp",
+    "streams": [
+      {
+        "url": "http://akalmultimedia.net:8000/akjdotorglive",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "ludhiana",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000250",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akoisahib-radio-sangrur-pb",
+    "name": "Akoisahib Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Sangrur",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Pop",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 30.246,
+    "lng": 75.842,
+    "logo": "logos/punjab/ydn-00000250.webp",
+    "streams": [
+      {
+        "url": "https://eu4.fastcast4u.com/proxy/vijay?mp=/1/;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "folk",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "pb",
+      "pop",
+      "sangrur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000288",
+    "type": "station",
+    "medium": "radio",
+    "slug": "avatar-radio-seechewal-jalandhar-pb",
+    "name": "Avatar Radio Seechewal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Jalandhar",
+    "category": "FM",
+    "genres": [
+      "Religious",
+      "Talk",
+      "News",
+      "Music",
+      "Community"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 31.290278,
+    "lng": 75.558056,
+    "logo": "logos/punjab/ydn-00000288.webp",
+    "streams": [
+      {
+        "url": "https://radio.sanbroz.com/radio/8020/radio.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "jalandhar",
+      "local",
+      "music",
+      "news",
+      "pb",
+      "punjabi",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000470",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-jalandhar-pb",
+    "name": "FM Rainbow Jalandhar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Jalandhar",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 31.315,
+    "lng": 75.58333333,
+    "logo": "logos/punjab/ydn-00000470.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio134/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "hindi",
+      "jalandhar",
+      "local",
+      "news",
+      "pb",
+      "punjabi",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000539",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gurdwara-dukh-niwaran-sahib-ludhiana-pb",
+    "name": "Gurdwara Dukh Niwaran Sahib Ludhiana",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Ludhiana",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 30.906944,
+    "lng": 75.867778,
+    "logo": "logos/punjab/ydn-00000539.webp",
+    "streams": [
+      {
+        "url": "http://akalmultimedia.net:8000/GDNSLDH",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "ludhiana",
+      "music",
+      "pb",
+      "punjabi",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000540",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gurdwara-gtb-jalandhar-radio-pb",
+    "name": "Gurdwara GTB Jalandhar Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Jalandhar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 31.290278,
+    "lng": 75.558056,
+    "logo": "logos/punjab/ydn-00000540.webp",
+    "streams": [
+      {
+        "url": "http://akalmultimedia.net:8000/gdnsjal",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "jalandhar",
+      "local",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000578",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hindi-bible-radio-patiala-pb",
+    "name": "Hindi Bible Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Patiala",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 30.353611,
+    "lng": 76.445278,
+    "logo": "logos/punjab/ydn-00000578.webp",
+    "streams": [
+      {
+        "url": "https://stream.zenolive.com/92dg9vsfnueuv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "patiala",
+      "pb",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000624",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jesus-alive-radio-patiala-pb",
+    "name": "Jesus Alive Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Patiala",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 30.353611,
+    "lng": 76.445278,
+    "logo": "logos/punjab/ydn-00000624.webp",
+    "streams": [
+      {
+        "url": "https://stream.zenolive.com/qyb8s75nsceuv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/n6mc33prn9duv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": false
+      },
+      {
+        "url": "https://stream.zeno.fm/qyb8s75nsceuv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "internet",
+      "local",
+      "multilingual",
+      "music",
+      "patiala",
+      "pb",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00001577",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jesus-alive-radio-hindi-patiala-pb",
+    "name": "Jesus Alive Radio - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Patiala",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 30.353611,
+    "lng": 76.445278,
+    "logo": "logos/punjab/ydn-00001577.webp",
+    "streams": [
+      {
+        "url": "https://stream.zenolive.com/rabt5vsfnueuv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "patiala",
+      "pb",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000798",
+    "type": "station",
+    "medium": "radio",
+    "slug": "live-gurbani-radio-malout-pb",
+    "name": "Live Gurbani Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Malout",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 30.19,
+    "lng": 74.499,
+    "logo": "logos/punjab/ydn-00000798.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/r3m0whh0kxquv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "malout",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000799",
+    "type": "station",
+    "medium": "radio",
+    "slug": "live-kirtan-from-golden-temple-amritsar-pb",
+    "name": "Live Kirtan from Golden Temple",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00000799.webp",
+    "streams": [
+      {
+        "url": "https://live.sgpc.net:8442/;",
+        "format": "aac",
+        "bitrate": 28,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "internet",
+      "local",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000941",
+    "type": "station",
+    "medium": "radio",
+    "slug": "old-punjabi-songs-ludhiana-pb",
+    "name": "Old Punjabi Songs",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Ludhiana",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 30.906944,
+    "lng": 75.867778,
+    "logo": "logos/punjab/ydn-00000941.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/1hv8up0ww8quv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "ludhiana",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000972",
+    "type": "station",
+    "medium": "radio",
+    "slug": "punjab-rocks-radio-akhand-path-amritsar-pb",
+    "name": "Punjab Rocks Radio - Akhand Path",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00000972.webp",
+    "streams": [
+      {
+        "url": "https://punjabrocks.com:9968/;.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Punjabi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "english",
+      "internet",
+      "local",
+      "music",
+      "pb",
+      "punjabi",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000973",
+    "type": "station",
+    "medium": "radio",
+    "slug": "punjab-rocks-radio-katha-amritsar-pb",
+    "name": "Punjab Rocks Radio - Katha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00000973.webp",
+    "streams": [
+      {
+        "url": "https://punjabrocks.com:9978/;;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "english",
+      "internet",
+      "local",
+      "music",
+      "pb"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000974",
+    "type": "station",
+    "medium": "radio",
+    "slug": "punjab-rocks-radio-kirtan-amritsar-pb",
+    "name": "Punjab Rocks Radio - Kirtan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00000974.webp",
+    "streams": [
+      {
+        "url": "https://punjabrocks.com:9958/;;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "english",
+      "internet",
+      "local",
+      "music",
+      "pb",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001598",
+    "type": "station",
+    "medium": "radio",
+    "slug": "punjab-rocks-radio-punjabi-music-amritsar-pb",
+    "name": "Punjab Rocks Radio - Punjabi Music",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "Rock",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00001598.webp",
+    "streams": [
+      {
+        "url": "https://punjabrocks.com:9988/;;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://punjabrocks.com:9988/punjab",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://punjabrocks.com:9988/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "bollywood",
+      "internet",
+      "local",
+      "music",
+      "pb",
+      "punjabi",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001600",
+    "type": "station",
+    "medium": "radio",
+    "slug": "punjab-rocks-radio-taal-pb",
+    "name": "Punjab Rocks Radio - Taal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "",
+    "category": "Digital",
+    "genres": [
+      "Rock"
+    ],
+    "frequency": "",
+    "lat": null,
+    "lng": null,
+    "logo": "logos/punjab/ydn-00001600.webp",
+    "streams": [
+      {
+        "url": "https://punjabrocks.com:9998/;?type=http&nocache=6",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "regional",
+    "tags": [
+      "digital",
+      "hindi",
+      "pb",
+      "regional",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001353",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sgpc-live-kirtan-sri-harmandir-sahib-amritsar-pb",
+    "name": "SGPC - Live Kirtan Sri Harmandir Sahib",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00001353.webp",
+    "streams": [
+      {
+        "url": "https://live.sgpc.net:8443/;",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "https://live.sgpc.net:8442/;%20nocache=889869india",
+        "format": "aac",
+        "bitrate": 28,
+        "primary": false
+      },
+      {
+        "url": "https://live.sgpc.net:8443/stream.mp3/;",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "internet",
+      "local",
+      "music",
+      "pb",
+      "punjabi",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001370",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sikh-katha-radio-amritsar-pb",
+    "name": "Sikh Katha Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00001370.webp",
+    "streams": [
+      {
+        "url": "https://punjabrocks.com:9978/;.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://punjabrocks.com:9978/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "internet",
+      "local",
+      "pb",
+      "punjabi",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001372",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sikh-kirtan-radio-amritsar-pb",
+    "name": "Sikh Kirtan Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "PB",
+    "city": "Amritsar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 31.634,
+    "lng": 74.8723,
+    "logo": "logos/punjab/ydn-00001372.webp",
+    "streams": [
+      {
+        "url": "https://punjabrocks.com:9958/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amritsar",
+      "internet",
+      "local",
+      "pb",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  }
+]

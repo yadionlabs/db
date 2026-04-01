@@ -1,0 +1,4651 @@
+[
+  {
+    "id": "ydn-00000006",
+    "type": "station",
+    "medium": "radio",
+    "slug": "91-2-fm-karunasai-radio-thiruvananthapuram-kl",
+    "name": "91.2 FM Karunasai Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Community"
+    ],
+    "frequency": "91.2 FM",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000006.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/karunasairadio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "kl",
+      "local",
+      "malayalam",
+      "talk",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000022",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ac-live-kochi-kl",
+    "name": "AC Live",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 10.027778,
+    "lng": 76.347222,
+    "logo": "logos/kerala/ydn-00000022.webp",
+    "streams": [
+      {
+        "url": "https://stream.zenolive.com/egs2d2pd31zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "internet",
+      "kl",
+      "kochi",
+      "local",
+      "multilingual",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000028",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ahalia-fm-90-4-palakkad-kl",
+    "name": "Ahalia FM 90.4",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Palakkad",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Community",
+      "Entertainment"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 10.7867,
+    "lng": 76.6548,
+    "logo": "logos/kerala/ydn-00000028.webp",
+    "streams": [
+      {
+        "url": "https://cast1.my-control-panel.com/proxy/ahaliafm/stream/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "english",
+      "entertainment",
+      "fm",
+      "kl",
+      "local",
+      "news",
+      "palakkad",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000087",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-devikulam-thodupuzha-kl",
+    "name": "Akashvani Devikulam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thodupuzha",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 9.894,
+    "lng": 76.722,
+    "logo": "logos/kerala/ydn-00000087.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio214/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "kl",
+      "local",
+      "malayalam",
+      "news",
+      "thodupuzha"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000132",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kannur-kl",
+    "name": "Akashvani Kannur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kannur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.5 FM",
+    "lat": 11.89916667,
+    "lng": 75.37138889,
+    "logo": "logos/kerala/ydn-00000132.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio173/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "kannur",
+      "kl",
+      "local",
+      "malayalam",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000141",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kerala-thiruvananthapuram-kl",
+    "name": "Akashvani Kerala",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000141.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio230/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": [
+        "Hindi",
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "kl",
+      "local",
+      "malayalam",
+      "news",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000143",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kochi-kl",
+    "name": "Akashvani Kochi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "Digital",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 10.02777778,
+    "lng": 76.34722222,
+    "logo": "logos/kerala/ydn-00000143.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "kl",
+      "kochi",
+      "local",
+      "malayalam",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000151",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kozhikode-kl",
+    "name": "Akashvani Kozhikode",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kozhikode",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 11.28333333,
+    "lng": 75.78888889,
+    "logo": "logos/kerala/ydn-00000151.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio082/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 129,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "kl",
+      "kozhikode",
+      "local",
+      "malayalam",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000152",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kozhikode-real-fm-kl",
+    "name": "Akashvani Kozhikode Real FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kozhikode",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "103.6 FM",
+    "lat": 11.25416667,
+    "lng": 75.775,
+    "logo": "logos/kerala/ydn-00000152.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio083/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 129,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "kl",
+      "kozhikode",
+      "local",
+      "malayalam",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000165",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-manjeri-kl",
+    "name": "Akashvani Manjeri",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Manjeri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 11.11666667,
+    "lng": 76.13305556,
+    "logo": "logos/kerala/ydn-00000165.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio101/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "digital",
+      "english",
+      "entertainment",
+      "kl",
+      "local",
+      "malayalam",
+      "manjeri",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000231",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-thrissur-kl",
+    "name": "Akashvani Thrissur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "630 AM",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000231.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 164,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio036/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 164,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "kl",
+      "local",
+      "malayalam",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000273",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ar-radio-thrissur-kl",
+    "name": "AR Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000273.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8tqmb5gwxwzuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000281",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ashraya-fm-90-karunagappalli-kl",
+    "name": "Ashraya FM 90",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Karunagappalli",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 9.0579,
+    "lng": 76.5355,
+    "logo": "logos/kerala/ydn-00000281.webp",
+    "streams": [
+      {
+        "url": "https://fm.ashrayafm90.com/ashrayafm",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "karunagappalli",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000283",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aural-melodics-thrissur-kl",
+    "name": "Aural Melodics",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000283.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/a3250rmrga0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "entertainment",
+      "internet",
+      "kl",
+      "local",
+      "multilingual",
+      "music",
+      "pop",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000284",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aural-oldies-thiruvananthapuram-kl",
+    "name": "Aural Oldies",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Oldies",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000284.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ecn7y019e2zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "kl",
+      "local",
+      "multilingual",
+      "music",
+      "oldies",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000286",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aural-radio-thrissur-kl",
+    "name": "Aural Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Classical",
+      "Electronic",
+      "Talk",
+      "Rock",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000286.webp",
+    "streams": [
+      {
+        "url": "http://radio.auralradiokerala.com:1330/;?nocache=1723732527&type=http",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      },
+      {
+        "url": "https://radio.auralradiokerala.com:1315/stream",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      },
+      {
+        "url": "https://radio.auralradiokerala.com:1300/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "electronic",
+      "english",
+      "folk",
+      "internet",
+      "kl",
+      "local",
+      "multilingual",
+      "music",
+      "rock",
+      "talk",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000287",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aural-west-kochi-kl",
+    "name": "Aural West",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Education",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 10.027778,
+    "lng": 76.347222,
+    "logo": "logos/kerala/ydn-00000287.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xd6trx3e84zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://stream.zeno.fm/gs4vkx3e84zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "education",
+      "english",
+      "entertainment",
+      "internet",
+      "kl",
+      "kochi",
+      "local",
+      "multilingual",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000295",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aze-vision-radio-kanhangad-kl",
+    "name": "Aze Vision Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kanhangad",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Pop",
+      "Electronic"
+    ],
+    "frequency": "",
+    "lat": 12.3173,
+    "lng": 75.072,
+    "logo": "logos/kerala/ydn-00000295.webp",
+    "streams": [
+      {
+        "url": "https://a5.asurahosting.com:8340/radio.mp3/;",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "electronic",
+      "entertainment",
+      "internet",
+      "kanhangad",
+      "kl",
+      "local",
+      "malayalam",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000299",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bafa-radio-thiruvalla-kl",
+    "name": "Bafa Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvalla",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 9.3847,
+    "lng": 76.575,
+    "logo": "logos/kerala/ydn-00000299.webp",
+    "streams": [
+      {
+        "url": "https://gains.reviveradio.net/proxy/bafaradio/stream",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      },
+      {
+        "url": "http://gains.reviveradio.net:8023/stream/;",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "multilingual",
+      "pop",
+      "religious",
+      "thiruvalla"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000376",
+    "type": "station",
+    "medium": "radio",
+    "slug": "christian-kester-hits-ernakulam-kl",
+    "name": "Christian Kester Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Ernakulam",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 9.9816,
+    "lng": 76.2999,
+    "logo": "logos/kerala/ydn-00000376.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cdmavzmkxy8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ernakulam",
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000377",
+    "type": "station",
+    "medium": "radio",
+    "slug": "christian-old-songs-hits-ernakulam-kl",
+    "name": "Christian Old Songs Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Ernakulam",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 9.9816,
+    "lng": 76.2999,
+    "logo": "logos/kerala/ydn-00000377.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/rzn0cvdan48uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ernakulam",
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "oldies",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000381",
+    "type": "station",
+    "medium": "radio",
+    "slug": "christian-songs-2-ernakulam-kl",
+    "name": "Christian Songs 2",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Ernakulam",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 9.9816,
+    "lng": 76.2999,
+    "logo": "logos/kerala/ydn-00000381.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/dp579fgfyy8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ernakulam",
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000382",
+    "type": "station",
+    "medium": "radio",
+    "slug": "christian-songs-radio-thiruvananthapuram-kl",
+    "name": "Christian Songs Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000382.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/tv7epbu67f8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Malayalam / Tamil / Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "kl",
+      "local",
+      "malayalam tamil hindi",
+      "religious",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000393",
+    "type": "station",
+    "medium": "radio",
+    "slug": "club-fm-thrissur-kl",
+    "name": "Club FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "FM",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "104.8 FM",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000393.webp",
+    "streams": [
+      {
+        "url": "https://listen.openstream.co/4635/audio",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "kl",
+      "local",
+      "malayalam",
+      "pop",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000396",
+    "type": "station",
+    "medium": "radio",
+    "slug": "cn-radio-chathannoor-thiruvananthapuram-kl",
+    "name": "CN Radio Chathannoor",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000396.webp",
+    "streams": [
+      {
+        "url": "https://stream-55.zeno.fm/pwkew3e9reruv?aw_0_req_lsid=047ec97d3858914fd93e011c8d6ecdef&zs=lRjsPbzLRLGS7t3rWBrg5g",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000431",
+    "type": "station",
+    "medium": "radio",
+    "slug": "e-malayalam-emg-radio-station-kochi-kl",
+    "name": "E Malayalam - EMG Radio Station",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.027778,
+    "lng": 76.347222,
+    "logo": "logos/kerala/ydn-00000431.webp",
+    "streams": [
+      {
+        "url": "https://streamingv2.shoutcast.com/emgradio",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kochi",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000437",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ente-radio-91-2-kollam-kl",
+    "name": "Ente Radio 91.2",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kollam",
+    "category": "FM",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "91.2 FM",
+    "lat": 8.8932,
+    "lng": 76.6141,
+    "logo": "logos/kerala/ydn-00000437.webp",
+    "streams": [
+      {
+        "url": "http://65.108.105.26:9002/stream/;",
+        "format": "mp3",
+        "bitrate": 112,
+        "primary": true
+      },
+      {
+        "url": "https://cast1.my-control-panel.com/proxy/enteradio/stream",
+        "format": "mp3",
+        "bitrate": 112,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "fm",
+      "kl",
+      "kollam",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000438",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ephphatha-radio-kanhangad-kl",
+    "name": "Ephphatha Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kanhangad",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 12.3173,
+    "lng": 75.072,
+    "logo": "logos/kerala/ydn-00000438.webp",
+    "streams": [
+      {
+        "url": "https://ephphatha.radioca.st/stream",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": true
+      },
+      {
+        "url": "http://cassini.shoutca.st:8605/stream",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kanhangad",
+      "kl",
+      "local",
+      "malayalam",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000443",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fc-film-corners-music-thrissur-kl",
+    "name": "FC Film Corners Music",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000443.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/mtp12ctpb18uv?aw_0_req_lsid=15738bc733f7529f78a44054fa7ac6e5",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000459",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-kottarakara-kottayam-kl",
+    "name": "FM Kottarakara",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kottayam",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "News",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 9.5916,
+    "lng": 76.5222,
+    "logo": "logos/kerala/ydn-00000459.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/gqdb1rev5s8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "kl",
+      "kottayam",
+      "local",
+      "music",
+      "news",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000463",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-ragam-thiruvananthapuram-kl",
+    "name": "FM Ragam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000463.webp",
+    "streams": [
+      {
+        "url": "http://147.135.181.83:9400/;?listening-from-radio-garden=1580811088769",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00001279",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-kochi-kl",
+    "name": "FM Rainbow Kochi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "102.3 FM",
+    "lat": 10.02777778,
+    "lng": 76.34722222,
+    "logo": "logos/kerala/ydn-00001279.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio044/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": [
+        "English",
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "digital",
+      "education",
+      "english",
+      "entertainment",
+      "homepage",
+      "kl",
+      "kochi",
+      "local",
+      "malayalam",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000508",
+    "type": "station",
+    "medium": "radio",
+    "slug": "global-radio-91-2-fm-alappuzha-kl",
+    "name": "Global Radio 91.2 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Alappuzha",
+    "category": "FM",
+    "genres": [
+      "Entertainment",
+      "Talk",
+      "Community"
+    ],
+    "frequency": "91.2 FM",
+    "lat": 9.4981,
+    "lng": 76.3388,
+    "logo": "logos/kerala/ydn-00000508.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/45o41jvammjtv",
+        "format": "aac",
+        "bitrate": 131,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "alappuzha",
+      "community",
+      "entertainment",
+      "fm",
+      "kl",
+      "local",
+      "malayalam",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000531",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gopan-haripad-thiruvananthapuram-kl",
+    "name": "Gopan Haripad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000531.webp",
+    "streams": [
+      {
+        "url": "https://stream-55.zeno.fm/s5nn2rbtbwzuv?aw_0_req_lsid=047ec97d3858914fd93e011c8d6ecdef&zs=Ir1HXKlBSpG2AkzcZqgKaQ",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/5wf56rbtbwzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000534",
+    "type": "station",
+    "medium": "radio",
+    "slug": "green-radio-kochi-kl",
+    "name": "Green Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.027778,
+    "lng": 76.347222,
+    "logo": "logos/kerala/ydn-00000534.webp",
+    "streams": [
+      {
+        "url": "http://37.59.32.115:5139/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://gains.reviveradio.net/proxy/greenradio?mp=/stream",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kochi",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000575",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hello-radio-thrissur-kl",
+    "name": "Hello Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000575.webp",
+    "streams": [
+      {
+        "url": "http://148.72.210.73:8000/helloradio.ogg",
+        "format": "ogg",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000615",
+    "type": "station",
+    "medium": "radio",
+    "slug": "islamic-talk-thrissur-kl",
+    "name": "Islamic Talk",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000615.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ndfmthxpp8quv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000619",
+    "type": "station",
+    "medium": "radio",
+    "slug": "janvani-90-8-fm-kanhangad-kl",
+    "name": "Janvani 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kanhangad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 12.3173,
+    "lng": 75.072,
+    "logo": "logos/kerala/ydn-00000619.webp",
+    "streams": [
+      {
+        "url": "https://radiosavre.com:8060/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kanhangad",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000626",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jesus-coming-fm-naduvannur-kl",
+    "name": "Jesus Coming FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Naduvannur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.446,
+    "lng": 75.775,
+    "logo": "logos/kerala/ydn-00000626.webp",
+    "streams": [
+      {
+        "url": "http://live.jesuscomingfm.com:8550/;",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "naduvannur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000742",
+    "type": "station",
+    "medium": "radio",
+    "slug": "joichen-s-radio-thiruvananthapuram-kl",
+    "name": "Joichen's Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000742.webp",
+    "streams": [
+      {
+        "url": "https://streamingv2.shoutcast.com/joichens-radio1",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000747",
+    "type": "station",
+    "medium": "radio",
+    "slug": "june-fm-90-8-thodupuzha-kl",
+    "name": "June FM 90.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thodupuzha",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 9.894,
+    "lng": 76.722,
+    "logo": "logos/kerala/ydn-00000747.webp",
+    "streams": [
+      {
+        "url": "https://onair.junefm.in/live",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thodupuzha"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000749",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kabani-radio-kozhikode-kl",
+    "name": "Kabani Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kozhikode",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 11.283333,
+    "lng": 75.788889,
+    "logo": "logos/kerala/ydn-00000749.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/5geumk1hbchvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/hfaf7suhbchvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Multilingual",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kozhikode",
+      "local",
+      "multilingual",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000760",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kerala-fm-thiruvananthapuram-kl",
+    "name": "Kerala FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000760.webp",
+    "streams": [
+      {
+        "url": "http://51.15.208.163:8081/radio/RadioMango_1/icecast.audio",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000761",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kerala-malabar-islamic-radio-kochi-kl",
+    "name": "Kerala Malabar Islamic Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.027778,
+    "lng": 76.347222,
+    "logo": "logos/kerala/ydn-00000761.webp",
+    "streams": [
+      {
+        "url": "http://198.178.123.11:8068/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kochi",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000767",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kissan-radio-panoor-kl",
+    "name": "Kissan Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Panoor",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.75,
+    "lng": 75.55,
+    "logo": "logos/kerala/ydn-00000767.webp",
+    "streams": [
+      {
+        "url": "https://radiosavre.com:8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "panoor"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000786",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kuzhippalathil-kozhikode-kl",
+    "name": "Kuzhippalathil",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kozhikode",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 11.283333,
+    "lng": 75.788889,
+    "logo": "logos/kerala/ydn-00000786.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/apd6xdec1rhvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "internet",
+      "kl",
+      "kozhikode",
+      "local",
+      "malayam",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000806",
+    "type": "station",
+    "medium": "radio",
+    "slug": "luminous-radio-english-thiruvananthapuram-kl",
+    "name": "Luminous Radio - English",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000806.webp",
+    "streams": [
+      {
+        "url": "http://192.111.140.6:8539/stream",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "http://192.111.140.6:8539/autodj",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "kl",
+      "local",
+      "music",
+      "religious",
+      "talk",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000807",
+    "type": "station",
+    "medium": "radio",
+    "slug": "luminous-radio-hindi-thiruvananthapuram-kl",
+    "name": "Luminous Radio - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000807.webp",
+    "streams": [
+      {
+        "url": "http://192.111.140.6:8601/app",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "http://192.111.140.6:8601/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "kl",
+      "local",
+      "music",
+      "religious",
+      "talk",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000808",
+    "type": "station",
+    "medium": "radio",
+    "slug": "luminous-radio-malayalam-thiruvananthapuram-kl",
+    "name": "Luminous Radio - Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000808.webp",
+    "streams": [
+      {
+        "url": "http://192.111.140.6:8546/app",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "http://192.111.140.6:8546/live",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "http://192.111.140.6:8546/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "http://192.111.140.6:8546/autodj",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "music",
+      "religious",
+      "talk",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000809",
+    "type": "station",
+    "medium": "radio",
+    "slug": "luminous-radio-tamil-thiruvananthapuram-kl",
+    "name": "Luminous Radio - Tamil",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious",
+      "Education",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000809.webp",
+    "streams": [
+      {
+        "url": "http://192.111.140.6:8602/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "education",
+      "entertainment",
+      "internet",
+      "kl",
+      "local",
+      "music",
+      "religious",
+      "tamil",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000810",
+    "type": "station",
+    "medium": "radio",
+    "slug": "luminous-radio-urdu-thiruvananthapuram-kl",
+    "name": "Luminous Radio - Urdu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000810.webp",
+    "streams": [
+      {
+        "url": "http://192.111.140.6:8558/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://192.111.140.6:9562/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Urdu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "thiruvananthapuram",
+      "urdu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000813",
+    "type": "station",
+    "medium": "radio",
+    "slug": "maac-radio-ettumanoor-kl",
+    "name": "Maac Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Ettumanoor",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 9.683,
+    "lng": 76.566,
+    "logo": "logos/kerala/ydn-00000813.webp",
+    "streams": [
+      {
+        "url": "https://s5.radio.co/s6372f685b/listen",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ettumanoor",
+      "internet",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000833",
+    "type": "station",
+    "medium": "radio",
+    "slug": "malabar-cafe-tirur-kl",
+    "name": "Malabar Cafe",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Tirur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.9137,
+    "lng": 75.9214,
+    "logo": "logos/kerala/ydn-00000833.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/pnep2v7myrhvv?aw_0_req_lsid=15738bc733f7529f78a44054fa7ac6e5",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "tirur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000837",
+    "type": "station",
+    "medium": "radio",
+    "slug": "malayalam-english-christian-radio-pathanamthitta-kl",
+    "name": "Malayalam English Christian Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Pathanamthitta",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Pop",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 9.264,
+    "lng": 76.787,
+    "logo": "logos/kerala/ydn-00000837.webp",
+    "streams": [
+      {
+        "url": "https://jeremiah7.radioca.st/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "kl",
+      "local",
+      "multilingual",
+      "music",
+      "pathanamthitta",
+      "pop",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000840",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mani-chettan-thiruvananthapuram-kl",
+    "name": "Mani Chettan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000840.webp",
+    "streams": [
+      {
+        "url": "https://stream-25.zeno.fm/s6hhy943w0hvv?aw_0_req_lsid=5ba88f0337ed8b0bf133617e923d456b&zs=TxXMfShmQ7aIV6txY8d8iw",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000851",
+    "type": "station",
+    "medium": "radio",
+    "slug": "me-radio-malappuram-kl",
+    "name": "Me Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Malappuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.051,
+    "lng": 76.071,
+    "logo": "logos/kerala/ydn-00000851.webp",
+    "streams": [
+      {
+        "url": "https://freestream.hu:8340/radiome",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malappuram",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000856",
+    "type": "station",
+    "medium": "radio",
+    "slug": "menorah-radio-thiruvananthapuram-kl",
+    "name": "Menorah Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000856.webp",
+    "streams": [
+      {
+        "url": "https://gains.reviveradio.net/proxy/menorah?mp=/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000857",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mesmera-campus-fm-kollam-kl",
+    "name": "Mesmera Campus FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kollam",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.8932,
+    "lng": 76.6141,
+    "logo": "logos/kerala/ydn-00000857.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/avq4h49qwrhvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kollam",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000879",
+    "type": "station",
+    "medium": "radio",
+    "slug": "music-24x7-neyyattinkara-kl",
+    "name": "Music 24x7",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Neyyattinkara",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.398,
+    "lng": 77.085,
+    "logo": "logos/kerala/ydn-00000879.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/g8cx7tggb3quv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "neyyattinkara"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000882",
+    "type": "station",
+    "medium": "radio",
+    "slug": "muthnabi-radio-kasaragod-kl",
+    "name": "MuthNabi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kasaragod",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 12.4996,
+    "lng": 74.9869,
+    "logo": "logos/kerala/ydn-00000882.webp",
+    "streams": [
+      {
+        "url": "https://cast4.my-control-panel.com/proxy/muthnabi/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://65.109.81.84:8847/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kasaragod",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000884",
+    "type": "station",
+    "medium": "radio",
+    "slug": "my-catholic-online-radio-thiruvananthapuram-kl",
+    "name": "My Catholic Online Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000884.webp",
+    "streams": [
+      {
+        "url": "http://84.16.232.202:8054/stream/;",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "kl",
+      "local",
+      "religious",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000887",
+    "type": "station",
+    "medium": "radio",
+    "slug": "my-radio-90-fm-thrissur-kl",
+    "name": "My Radio 90 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thrissur",
+    "category": "FM",
+    "genres": [
+      "Community"
+    ],
+    "frequency": "90 FM",
+    "lat": 10.5276,
+    "lng": 76.2144,
+    "logo": "logos/kerala/ydn-00000887.webp",
+    "streams": [
+      {
+        "url": "http://65.108.105.26:7672/stream/;",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "kl",
+      "local",
+      "malayalam",
+      "thrissur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000926",
+    "type": "station",
+    "medium": "radio",
+    "slug": "njan-malayalee-bhakti-thiruvananthapuram-kl",
+    "name": "Njan Malayalee Bhakti",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000926.webp",
+    "streams": [
+      {
+        "url": "http://91.121.222.81:8342/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "religious",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000952",
+    "type": "station",
+    "medium": "radio",
+    "slug": "peace-radio-quran-malappuram-kl",
+    "name": "Peace Radio - Quran",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Malappuram",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 11.051,
+    "lng": 76.071,
+    "logo": "logos/kerala/ydn-00000952.webp",
+    "streams": [
+      {
+        "url": "http://stream.peaceradio.com:8000/quran/aacsblow",
+        "format": "aac",
+        "bitrate": 10,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malappuram",
+      "malayalam",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000963",
+    "type": "station",
+    "medium": "radio",
+    "slug": "pranayam-radio-kalpetta-kl",
+    "name": "Pranayam Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kalpetta",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 11.6085,
+    "lng": 76.0834,
+    "logo": "logos/kerala/ydn-00000963.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/22rzts9gdwzuv",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "kalpetta",
+      "kl",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000964",
+    "type": "station",
+    "medium": "radio",
+    "slug": "premam-fm-thiruvananthapuram-kl",
+    "name": "Premam FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00000964.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cvffsps3puctv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000965",
+    "type": "station",
+    "medium": "radio",
+    "slug": "psalms-radio-kottayam-kl",
+    "name": "Psalms Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kottayam",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 9.5916,
+    "lng": 76.5222,
+    "logo": "logos/kerala/ydn-00000965.webp",
+    "streams": [
+      {
+        "url": "https://s2.citrus3.com:8046/stream",
+        "format": "aac",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kottayam",
+      "local",
+      "malayalam",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000980",
+    "type": "station",
+    "medium": "radio",
+    "slug": "quilon-fm-kollam-kl",
+    "name": "Quilon FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kollam",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.8932,
+    "lng": 76.6141,
+    "logo": "logos/kerala/ydn-00000980.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/d9rmzqlv92ytv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kollam",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000986",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-4-u-kanhangad-kl",
+    "name": "Radio 4 U",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kanhangad",
+    "category": "FM",
+    "genres": [
+      "Community",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 12.3173,
+    "lng": 75.072,
+    "logo": "logos/kerala/ydn-00000986.webp",
+    "streams": [
+      {
+        "url": "https://a5.asurahosting.com:7450/radio.mp3/;",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "kanhangad",
+      "kl",
+      "local",
+      "malayalam",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000988",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-90-fm-kanjirappally-kl",
+    "name": "Radio 90 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kanjirappally",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 9.56,
+    "lng": 76.78,
+    "logo": "logos/kerala/ydn-00000988.webp",
+    "streams": [
+      {
+        "url": "https://icecast.octosignals.com/radio90_final",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kanjirappally",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001053",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-cu-thenhipalam-kl",
+    "name": "Radio CU",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thenhipalam",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.133,
+    "lng": 75.9,
+    "logo": "logos/kerala/ydn-00001053.webp",
+    "streams": [
+      {
+        "url": "https://cast1.my-control-panel.com/proxy/radioculive/stream.mp3",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thenhipalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001062",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-digital-malayali-malappuram-kl",
+    "name": "Radio Digital Malayali",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Malappuram",
+    "category": "Internet",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 11.051,
+    "lng": 76.071,
+    "logo": "logos/kerala/ydn-00001062.webp",
+    "streams": [
+      {
+        "url": "https://radio.digitalmalayali.in/listen/stream/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "kl",
+      "local",
+      "malappuram",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001078",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-green-thiruvananthapuram-kl",
+    "name": "Radio Green",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00001078.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/wyqezxthwlfvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001082",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-haripad-alappuzha-kl",
+    "name": "Radio Haripad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Alappuzha",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 9.4981,
+    "lng": 76.3388,
+    "logo": "logos/kerala/ydn-00001082.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/b1jf9esvzpivv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "alappuzha",
+      "internet",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001101",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-kerala-thiruvananthapuram-kl",
+    "name": "Radio Kerala",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00001101.webp",
+    "streams": [
+      {
+        "url": "https://stream-47.zeno.fm/pfeg1crrzk0uv?aw_0_req_lsid=5ba88f0337ed8b0bf133617e923d456b&zs=c8jDObPNQwisz2-B4a9p8A",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://ec2-52-15-112-72.us-east-2.compute.amazonaws.com:8000/radio.mp3?1572286529=",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001109",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-macfast-thiruvalla-kl",
+    "name": "Radio Macfast",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvalla",
+    "category": "FM",
+    "genres": [
+      "Talk"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 9.3847,
+    "lng": 76.575,
+    "logo": "logos/kerala/ydn-00001109.webp",
+    "streams": [
+      {
+        "url": "https://icecast.octosignals.com/radiomacfast",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "kl",
+      "local",
+      "malayalam",
+      "talk",
+      "thiruvalla"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001115",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-malabar-89-6-fm-kannur-kl",
+    "name": "Radio Malabar 89.6 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kannur",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Community"
+    ],
+    "frequency": "89.6 FM",
+    "lat": 11.899167,
+    "lng": 75.371389,
+    "logo": "logos/kerala/ydn-00001115.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radiomalabar.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "kannur",
+      "kl",
+      "local",
+      "malayalam",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001116",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-malayalam-thiruvananthapuram-kl",
+    "name": "Radio Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Internet",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00001116.webp",
+    "streams": [
+      {
+        "url": "https://radiomalayalamfm.com/radio/8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "pop",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001123",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mangalam-kottayam-kl",
+    "name": "Radio Mangalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kottayam",
+    "category": "FM",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "91.2 FM",
+    "lat": 9.5916,
+    "lng": 76.5222,
+    "logo": "logos/kerala/ydn-00001123.webp",
+    "streams": [
+      {
+        "url": "http://radiomangalam.in:8000/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://www.radiomangalam.in:8000/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "kl",
+      "kottayam",
+      "local",
+      "malayalam",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001125",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mango-kochi-kl",
+    "name": "Radio Mango",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "FM",
+    "genres": [
+      "Classical",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "91.9 FM",
+    "lat": 10.027778,
+    "lng": 76.347222,
+    "logo": "logos/kerala/ydn-00001125.webp",
+    "streams": [
+      {
+        "url": "https://radiomangoalive1-a.akamaihd.net/9268677ef77949a9b21d33239a55eadd/ap-southeast-1/6034685947001/playlist.m3u8",
+        "format": "hls",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://strw3.openstream.co/1459",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "entertainment",
+      "fm",
+      "kl",
+      "kochi",
+      "local",
+      "malayalam",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001135",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mattoli-mananthavady-kl",
+    "name": "Radio Mattoli",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Mananthavady",
+    "category": "FM",
+    "genres": [
+      "Education",
+      "Talk",
+      "Music",
+      "Community",
+      "Culture",
+      "News"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 11.8,
+    "lng": 76,
+    "logo": "logos/kerala/ydn-00001135.webp",
+    "streams": [
+      {
+        "url": "http://65.108.105.26:8933/stream/;",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": true
+      },
+      {
+        "url": "https://cast1.my-control-panel.com/proxy/radiomattoli/stream",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "culture",
+      "education",
+      "fm",
+      "kl",
+      "local",
+      "malayalam",
+      "mananthavady",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001138",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-media-village-90-8-fm-changanassery-kl",
+    "name": "Radio Media Village 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Changanassery",
+    "category": "FM",
+    "genres": [
+      "Pop",
+      "Music",
+      "Community",
+      "News",
+      "Talk"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 9.442,
+    "lng": 76.536,
+    "logo": "logos/kerala/ydn-00001138.webp",
+    "streams": [
+      {
+        "url": "https://443-1.autopo.st/183/stream",
+        "format": "ogg",
+        "bitrate": 320,
+        "primary": true
+      },
+      {
+        "url": "http://184.154.43.106:8145/stream/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Malayalam"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "changanassery",
+      "community",
+      "fm",
+      "hindi",
+      "kl",
+      "local",
+      "malayalam",
+      "music",
+      "news",
+      "pop",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001144",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mint-kochi-kl",
+    "name": "Radio Mint",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kochi",
+    "category": "Internet",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 10.027778,
+    "lng": 76.347222,
+    "logo": "logos/kerala/ydn-00001144.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/qyd98cnwpcqtv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kochi",
+      "local",
+      "malayalam",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001173",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-neythal-fm-107-8-karunagappalli-kl",
+    "name": "Radio Neythal FM 107.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Karunagappalli",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 9.0579,
+    "lng": 76.5355,
+    "logo": "logos/kerala/ydn-00001173.webp",
+    "streams": [
+      {
+        "url": "https://s2.myradiostream.com:5538/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "karunagappalli",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001177",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-onattukara-kayamkulam-kl",
+    "name": "Radio Onattukara",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kayamkulam",
+    "category": "Internet",
+    "genres": [
+      "Oldies",
+      "Music",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 9.1817,
+    "lng": 76.5014,
+    "logo": "logos/kerala/ydn-00001177.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/fu94u25kqd0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/wbz5p25kqd0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "internet",
+      "kayamkulam",
+      "kl",
+      "local",
+      "malayalam",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001179",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-palakkad-kl",
+    "name": "Radio Palakkad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Palakkad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.7867,
+    "lng": 76.6548,
+    "logo": "logos/kerala/ydn-00001179.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ddt8y2uhb2zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "palakkad"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001184",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-peace-malappuram-kl",
+    "name": "Radio Peace",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Malappuram",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 11.051,
+    "lng": 76.071,
+    "logo": "logos/kerala/ydn-00001184.webp",
+    "streams": [
+      {
+        "url": "http://stream.peaceradio.com:8000/aacsblow",
+        "format": "aac",
+        "bitrate": 10,
+        "primary": true
+      },
+      {
+        "url": "http://stream.peaceradio.com:8000/high",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "kl",
+      "local",
+      "malappuram",
+      "malayalam",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001203",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-saanthwanam-kollam-kl",
+    "name": "Radio Saanthwanam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kollam",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 8.8932,
+    "lng": 76.6141,
+    "logo": "logos/kerala/ydn-00001203.webp",
+    "streams": [
+      {
+        "url": "https://d2ygn3336khva1.cloudfront.net/rdsaanthwanam.m3u8",
+        "format": "aac",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "fm",
+      "kl",
+      "kollam",
+      "local",
+      "malayalam",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001220",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sarang-107-8-fm-kanhangad-kl",
+    "name": "Radio Sarang 107.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kanhangad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 12.3173,
+    "lng": 75.072,
+    "logo": "logos/kerala/ydn-00001220.webp",
+    "streams": [
+      {
+        "url": "https://cast1.asurahosting.com/proxy/deltaast/stream",
+        "format": "mp3",
+        "bitrate": 56,
+        "primary": true
+      },
+      {
+        "url": "https://sac-elearning.com/sarang",
+        "format": "mp3",
+        "bitrate": 56,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kanhangad",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001222",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sarangi-malayalam-alappuzha-kl",
+    "name": "Radio Sarangi Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Alappuzha",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 9.4981,
+    "lng": 76.3388,
+    "logo": "logos/kerala/ydn-00001222.webp",
+    "streams": [
+      {
+        "url": "https://radiosarangi.logichost.in/listen/sarangi/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "alappuzha",
+      "internet",
+      "kl",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001264",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vaisyan-mannarakkat-kl",
+    "name": "Radio Vaisyan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Mannarakkat",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.989,
+    "lng": 76.461,
+    "logo": "logos/kerala/ydn-00001264.webp",
+    "streams": [
+      {
+        "url": "https://stream-36.zeno.fm/r920me1rmm0uv?aw_0_req_lsid=047ec97d3858914fd93e011c8d6ecdef&zs=6WVvm_yRSD2Spnu22mmLmA",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "mannarakkat"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001266",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vatakara-kozhikode-kl",
+    "name": "Radio Vatakara",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kozhikode",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.283333,
+    "lng": 75.788889,
+    "logo": "logos/kerala/ydn-00001266.webp",
+    "streams": [
+      {
+        "url": "http://node-06.zeno.fm/dtr207bhb8zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kozhikode",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001271",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-voxa-thiruvalla-kl",
+    "name": "Radio Voxa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvalla",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 9.3847,
+    "lng": 76.575,
+    "logo": "logos/kerala/ydn-00001271.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/kezsc0y2wwzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "internet",
+      "kl",
+      "local",
+      "music",
+      "talk",
+      "tamil",
+      "thiruvalla"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001289",
+    "type": "station",
+    "medium": "radio",
+    "slug": "recast-fm-tirur-kl",
+    "name": "Recast FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Tirur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.9137,
+    "lng": 75.9214,
+    "logo": "logos/kerala/ydn-00001289.webp",
+    "streams": [
+      {
+        "url": "https://usa8.fastcast4u.com/proxy/auralradio?mp=/1/;stream.mp3",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "tirur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001297",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rhythm-nation-24x7-kannur-kl",
+    "name": "Rhythm Nation 24x7",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kannur",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 11.899167,
+    "lng": 75.371389,
+    "logo": "logos/kerala/ydn-00001297.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/dz8dvc19mexuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "internet",
+      "kannur",
+      "kl",
+      "local",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001343",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sargakshetra-fm-89-6-mannanam-kl",
+    "name": "Sargakshetra FM 89.6",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Mannanam",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 9.7,
+    "lng": 76.53,
+    "logo": "logos/kerala/ydn-00001343.webp",
+    "streams": [
+      {
+        "url": "https://icecast.octosignals.com/sargakshetrafm",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "mannanam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001349",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sehion-radio-palakkad-kl",
+    "name": "Sehion Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Palakkad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.7867,
+    "lng": 76.6548,
+    "logo": "logos/kerala/ydn-00001349.webp",
+    "streams": [
+      {
+        "url": "http://199.195.194.140:8012/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "palakkad"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001358",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shalom-global-radio-tirur-kl",
+    "name": "Shalom Global Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Tirur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 10.9137,
+    "lng": 75.9214,
+    "logo": "logos/kerala/ydn-00001358.webp",
+    "streams": [
+      {
+        "url": "https://gains.reviveradio.net/proxy/shalomglobalradio?mp=/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malayalam",
+      "tirur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001569",
+    "type": "station",
+    "medium": "radio",
+    "slug": "snehatheeeam-madeena-malappuram-kl",
+    "name": "Snehatheeeam Madeena",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Malappuram",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 11.051,
+    "lng": 76.071,
+    "logo": "logos/kerala/ydn-00001569.webp",
+    "streams": [
+      {
+        "url": "https://stream-47.zeno.fm/tz06ypxczy8uv?aw_0_req_lsid=047ec97d3858914fd93e011c8d6ecdef&zs=LqNHMg8lTBGEPnOuAO2FPQ",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "local",
+      "malappuram",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001501",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vaikhari-kozhikode-kl",
+    "name": "Vaikhari",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kozhikode",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 11.283333,
+    "lng": 75.788889,
+    "logo": "logos/kerala/ydn-00001501.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/p2ysncnc1rhvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Homepage",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "homepage",
+      "internet",
+      "kl",
+      "kozhikode",
+      "local",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001502",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vaikhari-bh-kozhikode-kl",
+    "name": "Vaikhari-BH",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kozhikode",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 11.283333,
+    "lng": 75.788889,
+    "logo": "logos/kerala/ydn-00001502.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/emkyc4gx398uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Multilingual",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "internet",
+      "kl",
+      "kozhikode",
+      "local",
+      "multilingual",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001503",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vaikhari-suprabhatham-kozhikode-kl",
+    "name": "Vaikhari-Suprabhatham",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kozhikode",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 11.283333,
+    "lng": 75.788889,
+    "logo": "logos/kerala/ydn-00001503.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/zuqytq7nv98uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kozhikode",
+      "local",
+      "malayalam",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001507",
+    "type": "station",
+    "medium": "radio",
+    "slug": "venad-fm-kollam-kl",
+    "name": "Venad FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kollam",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.8932,
+    "lng": 76.6141,
+    "logo": "logos/kerala/ydn-00001507.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/nnfgfcmr538uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kollam",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001572",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vismaya-radio-kerala-kollam-kl",
+    "name": "Vismaya Radio Kerala",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Kollam",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 8.8932,
+    "lng": 76.6141,
+    "logo": "logos/kerala/ydn-00001572.webp",
+    "streams": [
+      {
+        "url": "http://node-28.zeno.fm/euqwg5mdd8zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kl",
+      "kollam",
+      "local",
+      "malayalam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001533",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-malayalam-thiruvananthapuram-kl",
+    "name": "Vividh Bharati Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "KL",
+    "city": "Thiruvananthapuram",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "101.9 FM",
+    "lat": 8.5241,
+    "lng": 76.9366,
+    "logo": "logos/kerala/ydn-00001533.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio229/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "regional",
+    "tags": [
+      "digital",
+      "english",
+      "kl",
+      "malayalam",
+      "news",
+      "regional",
+      "talk",
+      "thiruvananthapuram"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

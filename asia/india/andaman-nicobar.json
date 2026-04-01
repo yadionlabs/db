@@ -1,0 +1,67 @@
+[
+  {
+    "id": "ydn-00000222",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-sri-vijaya-puram-port-blair-an",
+    "name": "Akashvani Sri Vijaya Puram",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AN",
+    "city": "Port Blair",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "684 AM",
+    "lat": 11.60416667,
+    "lng": 92.76138889,
+    "logo": "logos/andaman-nicobar/ydn-00000222.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio038/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "English",
+        "Bengali",
+        "Tamil",
+        "Telugu",
+        "Malayalam",
+        "Nicobarese"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "an",
+      "bengali",
+      "culture",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "nicobarese",
+      "port blair",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  }
+]

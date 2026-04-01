@@ -1,0 +1,7725 @@
+[
+  {
+    "id": "ydn-00000004",
+    "type": "station",
+    "medium": "radio",
+    "slug": "3-techies-banter-radio-mumbai-mh",
+    "name": "3 Techies Banter Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "News"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000004.webp",
+    "streams": [
+      {
+        "url": "https://s4.radio.co/sc57e8512a/listen",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000020",
+    "type": "station",
+    "medium": "radio",
+    "slug": "abp-majha-mumbai-mh",
+    "name": "ABP Majha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000020.webp",
+    "streams": [
+      {
+        "url": "https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8",
+        "format": "aac",
+        "bitrate": 964,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000021",
+    "type": "station",
+    "medium": "radio",
+    "slug": "abp-news-mumbai-mh",
+    "name": "ABP News",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000021.webp",
+    "streams": [
+      {
+        "url": "https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8",
+        "format": "aac",
+        "bitrate": 1984,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000023",
+    "type": "station",
+    "medium": "radio",
+    "slug": "acharya-90-fm-mumbai-mh",
+    "name": "Acharya 90 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Music",
+      "Community"
+    ],
+    "frequency": "90 FM",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000023.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/acharya90fmmum.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "hindi",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000036",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ahilyanagar-ahmednagar-mh",
+    "name": "Akashvani Ahilyanagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Ahmednagar",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.1 FM",
+    "lat": 19.0952,
+    "lng": 74.7496,
+    "logo": "logos/maharashtra/ydn-00000036.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio019/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 117,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmednagar",
+      "bollywood",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000040",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-akola-mh",
+    "name": "Akashvani Akola",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Akola",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.4 FM",
+    "lat": 20.35444444,
+    "lng": 77.01277778,
+    "logo": "logos/maharashtra/ydn-00000040.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio178/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 74,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "akola",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000044",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-amravati-mh",
+    "name": "Akashvani Amravati",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Amravati",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.5 FM",
+    "lat": 20.9375,
+    "lng": 77.775,
+    "logo": "logos/maharashtra/ydn-00000044.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio151/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amravati",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multillingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000056",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-beed-mh",
+    "name": "Akashvani Beed",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Beed",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.9 FM",
+    "lat": 18.99861111,
+    "lng": 75.77416667,
+    "logo": "logos/maharashtra/ydn-00000056.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio077/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "beed",
+      "bollywood",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000072",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chandrapur-mh",
+    "name": "Akashvani Chandrapur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Chandrapur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103 FM",
+    "lat": 19.97222222,
+    "lng": 79.28361111,
+    "logo": "logos/maharashtra/ydn-00000072.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio074/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "chandrapur",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000074",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-chhatrapati-sambhaji-nagar-aurangabad-mh",
+    "name": "Akashvani Chhatrapati Sambhaji Nagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Aurangabad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.7 FM",
+    "lat": 19.88833333,
+    "lng": 75.35361111,
+    "logo": "logos/maharashtra/ydn-00000074.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio065/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "aurangabad",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000089",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-dharashiv-osmanabad-mh",
+    "name": "Akashvani Dharashiv",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Osmanabad",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.3 FM",
+    "lat": 18.19083333,
+    "lng": 76.03916667,
+    "logo": "logos/maharashtra/ydn-00000089.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio132/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 93,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "news",
+      "osmanabad",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000092",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-dhule-mh",
+    "name": "Akashvani Dhule",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Dhule",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 20.93611111,
+    "lng": 74.77388889,
+    "logo": "logos/maharashtra/ydn-00000092.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio079/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dhule",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000118",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-jalgaon-mh",
+    "name": "Akashvani Jalgaon",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Jalgaon",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "963 AM",
+    "lat": 21.010434,
+    "lng": 75.560488,
+    "logo": "logos/maharashtra/ydn-00000118.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio096/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "jalgaon",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00001591",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kolhapur-mh",
+    "name": "Akashvani Kolhapur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Kolhapur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.7 FM",
+    "lat": 16.80555556,
+    "lng": 74.11111111,
+    "logo": "logos/maharashtra/ydn-00001591.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio063/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "kolhapur",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000166",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-marathi-mumbai-asmita-mh",
+    "name": "Akashvani Marathi Mumbai Asmita",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.83222222,
+    "logo": "logos/maharashtra/ydn-00000166.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio010/hlspbaudio010_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "regional",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "marathi",
+      "mh",
+      "mumbai",
+      "news",
+      "regional"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000175",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-nagpur-mh",
+    "name": "Akashvani Nagpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nagpur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "585 AM",
+    "lat": 21.20083333,
+    "lng": 79.135,
+    "logo": "logos/maharashtra/ydn-00000175.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 92,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio069/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 92,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "nagpur",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000177",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-nanded-mh",
+    "name": "Akashvani Nanded",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nanded",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.1 FM",
+    "lat": 19.13027778,
+    "lng": 77.32194444,
+    "logo": "logos/maharashtra/ydn-00000177.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio072/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "nanded",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000178",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-nashik-mh",
+    "name": "Akashvani Nashik",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nashik",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 19.9975,
+    "lng": 73.7898,
+    "logo": "logos/maharashtra/ydn-00000178.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 93,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio035/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 93,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "nashik",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000183",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-parbhani-mh",
+    "name": "Akashvani Parbhani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Parbhani",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1305 AM",
+    "lat": 19.31916667,
+    "lng": 76.73333333,
+    "logo": "logos/maharashtra/ydn-00000183.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio085/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio085/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 119,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "parbhani",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000190",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-pune-mh",
+    "name": "Akashvani Pune",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Pune",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "792 AM",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "logo": "logos/maharashtra/ydn-00000190.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 79,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio012/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 79,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "culture",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "pune",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000191",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-pune-fm-mh",
+    "name": "Akashvani Pune FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Pune",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "logo": "logos/maharashtra/ydn-00000191.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio013/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 79,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "news",
+      "pune"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000201",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-ratnagiri-mh",
+    "name": "Akashvani Ratnagiri",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Ratnagiri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1143 AM",
+    "lat": 17.00111111,
+    "lng": 73.36694444,
+    "logo": "logos/maharashtra/ydn-00000201.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 121,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio071/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 121,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "culture",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "news",
+      "ratnagiri",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00001810",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-samvadita-mumbai-mh",
+    "name": "Akashvani Samvadita Mumbai",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.83222222,
+    "logo": "logos/maharashtra/ydn-00001810.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio009/hlspbaudio009_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "regional",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "marathi",
+      "mh",
+      "mumbai",
+      "news",
+      "regional"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000207",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-sangli-mh",
+    "name": "Akashvani Sangli",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Sangli",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1251 AM",
+    "lat": 16.92777778,
+    "lng": 74.48333333,
+    "logo": "logos/maharashtra/ydn-00000207.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio106/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "news",
+      "sangli",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000210",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-satara-mh",
+    "name": "Akashvani Satara",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Satara",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.1 FM",
+    "lat": 17.675,
+    "lng": 73.99722222,
+    "logo": "logos/maharashtra/ydn-00000210.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio076/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "satara",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000220",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-sindhudurg-ratnagiri-mh",
+    "name": "Akashvani Sindhudurg",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Ratnagiri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 16.985,
+    "lng": 73.30805556,
+    "logo": "logos/maharashtra/ydn-00000220.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio219/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 61,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "konkani",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "news",
+      "ratnagiri"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000221",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-solapur-mh",
+    "name": "Akashvani Solapur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Solapur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "103.4 FM",
+    "lat": 17.62638889,
+    "lng": 75.935,
+    "logo": "logos/maharashtra/ydn-00000221.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio093/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "solapur",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000245",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-yavatmal-mh",
+    "name": "Akashvani Yavatmal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Yavatmal",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "102.7 FM",
+    "lat": 20.39166667,
+    "lng": 78.1375,
+    "logo": "logos/maharashtra/ydn-00000245.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio109/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 5201,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "yavatmal"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000253",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ama-radio-mumbai-mh",
+    "name": "Ama Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000253.webp",
+    "streams": [
+      {
+        "url": "http://192.240.102.3:8922/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000279",
+    "type": "station",
+    "medium": "radio",
+    "slug": "aryavarta-radio-mumbai-mh",
+    "name": "Aryavarta Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Bollywood",
+      "News",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000279.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/rx7cywgcs2zuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000305",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bbm-radio-mumbai-mh",
+    "name": "BBM Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000305.webp",
+    "streams": [
+      {
+        "url": "https://gains.reviveradio.net/proxy/bbmradio/stream",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000316",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktisudha-pune-mh",
+    "name": "Bhaktisudha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Pune",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "logo": "logos/maharashtra/ydn-00000316.webp",
+    "streams": [
+      {
+        "url": "https://stream.radiojar.com/cfqyfcspcv8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://n03.radiojar.com/cfqyfcspcv8uv?rj-tok=AAABhA79_48ANTrb0_2ZNmKpIg&rj-ttl=5&ver=305517",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "music",
+      "pune",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000317",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-bhagavad-gita-mumbai-mh",
+    "name": "Bhaktiworld Bhagavad Gita",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000317.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ijklcild1wrtv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000318",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-devi-maa-mumbai-mh",
+    "name": "Bhaktiworld Devi Maa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000318.webp",
+    "streams": [
+      {
+        "url": "https://ibadat.out.airtime.pro:8000/ibadat_a",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000320",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-ganesha-mumbai-mh",
+    "name": "Bhaktiworld Ganesha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000320.webp",
+    "streams": [
+      {
+        "url": "http://radio2bindia.out.airtime.pro:8000/radio2bindia_a",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      },
+      {
+        "url": "https://radio2bindia.out.airtime.pro/radio2bindia_a",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000322",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-gayatri-mantra-mumbai-mh",
+    "name": "Bhaktiworld Gayatri Mantra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000322.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/503oro4ujkuuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream-172.zeno.fm/503oro4ujkuuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000323",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-gurbani-mumbai-mh",
+    "name": "Bhaktiworld Gurbani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000323.webp",
+    "streams": [
+      {
+        "url": "https://gurbani.out.airtime.pro:8000/gurbani_b?_ga=2.77423505.548091236.1582029213-1175002648.1580299245",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000324",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-hanuman-mumbai-mh",
+    "name": "Bhaktiworld Hanuman",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000324.webp",
+    "streams": [
+      {
+        "url": "https://2bhanuman.out.airtime.pro:8000/2bhanuman_a",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000325",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-kashta-nivaran-mantra-mumbai-mh",
+    "name": "Bhaktiworld Kashta Nivaran Mantra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000325.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/4bwupenfuedvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000326",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-krishna-mumbai-mh",
+    "name": "Bhaktiworld Krishna",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000326.webp",
+    "streams": [
+      {
+        "url": "https://millenniumhits.out.airtime.pro:8000/millenniumhits_a",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000328",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-mahamrityunjay-mantra-mumbai-mh",
+    "name": "Bhaktiworld Mahamrityunjay Mantra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000328.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/9zrvfxrimqytv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream-172.zeno.fm/9zrvfxrimqytv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000329",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-mantra-shakti-mumbai-mh",
+    "name": "Bhaktiworld Mantra Shakti",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000329.webp",
+    "streams": [
+      {
+        "url": "https://djbeat.out.airtime.pro:8000/djbeat_a",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000330",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-meditation-mumbai-mh",
+    "name": "Bhaktiworld Meditation",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000330.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/mahank02nrvvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/0iunv0zjgvetv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000331",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-mindfulness-mumbai-mh",
+    "name": "Bhaktiworld Mindfulness",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000331.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/29agn2cdnm5uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000332",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-mritasanjeevani-mantra-mumbai-mh",
+    "name": "Bhaktiworld Mritasanjeevani Mantra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000332.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ystze8ylk8fvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000334",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-navaran-mantra-mumbai-mh",
+    "name": "Bhaktiworld Navaran Mantra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000334.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/kutyooocsdqtv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream-172.zeno.fm/kutyooocsdqtv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000335",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-podcasts-mumbai-mh",
+    "name": "Bhaktiworld Podcasts",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000335.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/nqvcaqevkx5vv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/m05npowrlhsvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000336",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-sai-baba-mumbai-mh",
+    "name": "Bhaktiworld Sai Baba",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000336.webp",
+    "streams": [
+      {
+        "url": "https://iskon2b.out.airtime.pro:8000/iskon2b_a",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000337",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-shani-mantra-mumbai-mh",
+    "name": "Bhaktiworld Shani Mantra",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000337.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ehmzrkjw9xtuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000338",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-shiva-mumbai-mh",
+    "name": "Bhaktiworld Shiva",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000338.webp",
+    "streams": [
+      {
+        "url": "https://hot.out.airtime.pro:8000/hot_a",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000340",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhaktiworld-shri-ram-mumbai-mh",
+    "name": "Bhaktiworld Shri Ram",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000340.webp",
+    "streams": [
+      {
+        "url": "http://dard.out.airtime.pro:8000/dard_a",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      },
+      {
+        "url": "https://dard.out.airtime.pro/dard_a",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000342",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bhutan-broadcasting-service-bbs-1-islampur-mh",
+    "name": "Bhutan Broadcasting Service BBS 1",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Islampur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.0676,
+    "lng": 74.2679,
+    "logo": "logos/maharashtra/ydn-00000342.webp",
+    "streams": [
+      {
+        "url": "https://radio.bbs.bt/dz-ch",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "islampur",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000343",
+    "type": "station",
+    "medium": "radio",
+    "slug": "big-fm-mumbai-mh",
+    "name": "Big FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "FM",
+    "genres": [
+      "Pop",
+      "Music",
+      "Bollywood",
+      "Entertainment",
+      "News",
+      "Talk"
+    ],
+    "frequency": "92.7 FM",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000343.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/r2gn1pgm4qruv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": [
+        "English",
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "entertainment",
+      "fm",
+      "hindi",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "news",
+      "pop",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000348",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bolly-top-100-mumbai-mh",
+    "name": "Bolly Top 100",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000348.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/6hebzur8d72tv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000349",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bollyhits-radio-mumbai-mh",
+    "name": "BollyHits Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000349.webp",
+    "streams": [
+      {
+        "url": "https://az13.yesstreaming.net:8450/bollyhitsradio128kbps",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://az13.yesstreaming.net:8450/bollyhitsradio192kbps",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000358",
+    "type": "station",
+    "medium": "radio",
+    "slug": "bombay-hott-radio-mumbai-mh",
+    "name": "Bombay Hott Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Bollywood",
+      "Music",
+      "Entertainment",
+      "Rock"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000358.webp",
+    "streams": [
+      {
+        "url": "https://ec5.yesstreaming.net:2555/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000394",
+    "type": "station",
+    "medium": "radio",
+    "slug": "club-mirchi-mumbai-mh",
+    "name": "Club Mirchi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000394.webp",
+    "streams": [
+      {
+        "url": "https://stream-141.zeno.fm/6n6ewddtad0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000417",
+    "type": "station",
+    "medium": "radio",
+    "slug": "dholcutz-radio-mumbai-mh",
+    "name": "DholCutz Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000417.webp",
+    "streams": [
+      {
+        "url": "https://server1.dholcutzradio.com/stream",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000425",
+    "type": "station",
+    "medium": "radio",
+    "slug": "dnyaneshwari-ahmednagar-mh",
+    "name": "Dnyaneshwari",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Ahmednagar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 19.0952,
+    "lng": 74.7496,
+    "logo": "logos/maharashtra/ydn-00000425.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/qvssvt2r8druv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmednagar",
+      "internet",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000455",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-gold-mumbai-mh",
+    "name": "FM Gold Mumbai",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "100.1 FM",
+    "lat": 19.18888889,
+    "lng": 72.81388889,
+    "logo": "logos/maharashtra/ydn-00000455.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio007_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio007/hlspbaudio00732kbps.m3u8",
+        "format": "aac",
+        "bitrate": 32,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000475",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-mumbai-mh",
+    "name": "FM Rainbow Mumbai",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.83222222,
+    "logo": "logos/maharashtra/ydn-00000475.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio008/hlspbaudio008_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000535",
+    "type": "station",
+    "medium": "radio",
+    "slug": "gsc-fm-tamil-christian-radio-mumbai-mh",
+    "name": "GSC FM - Tamil Christian Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music",
+      "Folk",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000535.webp",
+    "streams": [
+      {
+        "url": "https://dc1.serverse.com/proxy/goodshepherdchurch/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "http://84.16.232.202:7479/stream/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "folk",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.290Z"
+  },
+  {
+    "id": "ydn-00000571",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hasya-katta-official-mumbai-mh",
+    "name": "Hasya Katta Official",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000571.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/grpa985az98uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/b1hn585az98uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "multilingual",
+      "mumbai",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000581",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hindi-tarang-kolhapur-mh",
+    "name": "Hindi Tarang",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Kolhapur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 16.805556,
+    "lng": 74.111111,
+    "logo": "logos/maharashtra/ydn-00000581.webp",
+    "streams": [
+      {
+        "url": "https://a1.asurahosting.com/hls/hindi_tarang/live.m3u8",
+        "format": "aac",
+        "bitrate": 211,
+        "primary": true
+      },
+      {
+        "url": "https://a1.asurahosting.com/listen/hindi_tarang/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "kolhapur",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000584",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hits-of-arijit-singh-mumbai-mh",
+    "name": "Hits Of Arijit Singh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000584.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/wn6muavgfr2tv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000586",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hits-of-bollywood-mumbai-mh",
+    "name": "Hits Of Bollywood",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Classical",
+      "Folk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000586.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8ty8szwpwfeuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "entertainment",
+      "folk",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000591",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hits-of-mohammed-rafi-mumbai-mh",
+    "name": "Hits Of Mohammed Rafi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Entertainment",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000591.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/0zkr7x8ztm0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/2xx62x8ztm0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://stream-165.zeno.fm/2xx62x8ztm0uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIyeHg2Mng4enRtMHV2IiwiaG9zdCI6InN0cmVhbS0xNjUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1sQzhwbXFGVFE2MHNRaDYzWi1lVkEiLCJpYXQiOjE3NzE1MTEwMzgsImV4cCI6MTc3MTUxMTA5OH0.Eu4PdDrejTS9RuClTIIWr_MgX4_z64Hrm6bSNW3f90g",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000594",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hungama-bolly-instrumental-mumbai-mh",
+    "name": "Hungama - Bolly Instrumental",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000594.webp",
+    "streams": [
+      {
+        "url": "http://103.16.47.70:8333/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000595",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hungama-mehfil-mumbai-mh",
+    "name": "Hungama - Mehfil",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000595.webp",
+    "streams": [
+      {
+        "url": "http://103.16.47.70:9666/listen.pls?sid=1",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000596",
+    "type": "station",
+    "medium": "radio",
+    "slug": "hungama-tamil-hits-mumbai-mh",
+    "name": "Hungama - Tamil Hits",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000596.webp",
+    "streams": [
+      {
+        "url": "http://103.16.47.70:9555/;stream.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000597",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ibc-tamil-mumbai-mh",
+    "name": "IBC Tamil",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000597.webp",
+    "streams": [
+      {
+        "url": "http://fm.ibctamil.com:6176/stream.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000598",
+    "type": "station",
+    "medium": "radio",
+    "slug": "idiotic-radio-mumbai-mh",
+    "name": "Idiotic Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000598.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/1c4vtuzvveruv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000599",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ilmus-salaf-mumbai-mh",
+    "name": "Ilmus Salaf",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music",
+      "Education",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000599.webp",
+    "streams": [
+      {
+        "url": "http://equinox.shoutca.st:9023/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "education",
+      "internet",
+      "local",
+      "malayalam",
+      "mh",
+      "mumbai",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000613",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ishq-fm-mumbai-mh",
+    "name": "Ishq FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "FM",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "104.8 FM",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000613.webp",
+    "streams": [
+      {
+        "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "fm",
+      "hindi",
+      "local",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000622",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jehovahrapha-fm-mumbai-mh",
+    "name": "JehovahRapha FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000622.webp",
+    "streams": [
+      {
+        "url": "https://c22.radioboss.fm/stream/532",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "religious",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000732",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jesus-fm-mumbai-mh",
+    "name": "Jesus FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000732.webp",
+    "streams": [
+      {
+        "url": "http://50.7.70.66:8575/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000740",
+    "type": "station",
+    "medium": "radio",
+    "slug": "joel-fm-mumbai-mh",
+    "name": "Joel FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000740.webp",
+    "streams": [
+      {
+        "url": "http://66.55.145.43:7888/stream",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000748",
+    "type": "station",
+    "medium": "radio",
+    "slug": "just-punjabi-radio-mumbai-mh",
+    "name": "Just Punjabi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000748.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/s4e0u5bqhtzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000771",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kodairagam-fm-mumbai-mh",
+    "name": "Kodairagam FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000771.webp",
+    "streams": [
+      {
+        "url": "https://server1.mahamediacast.com/proxy/kodairagam/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000776",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ktr-radio-93-2-fm-islampur-mh",
+    "name": "KTR Radio 93.2 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Islampur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.0676,
+    "lng": 74.2679,
+    "logo": "logos/maharashtra/ydn-00000776.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/14p58qgm2p8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "islampur",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000801",
+    "type": "station",
+    "medium": "radio",
+    "slug": "living-waters-tamil-mumbai-mh",
+    "name": "Living Waters - Tamil",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000801.webp",
+    "streams": [
+      {
+        "url": "https://a3.asurahosting.com/listen/ir_tamil/radio.mp3",
+        "format": "mp3",
+        "bitrate": 320,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000815",
+    "type": "station",
+    "medium": "radio",
+    "slug": "maayboli-marathi-ahmednagar-mh",
+    "name": "Maayboli - Marathi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Ahmednagar",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 19.0952,
+    "lng": 74.7496,
+    "logo": "logos/maharashtra/ydn-00000815.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/48kybvzrwfeuv",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmednagar",
+      "bollywood",
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000820",
+    "type": "station",
+    "medium": "radio",
+    "slug": "madhur-sangeet-mumbai-mh",
+    "name": "Madhur Sangeet",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000820.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/8kqd6dp18vzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/yv2k0dp18vzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000838",
+    "type": "station",
+    "medium": "radio",
+    "slug": "malayalam-top-100-mumbai-mh",
+    "name": "Malayalam Top 100",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000838.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/vd4tk09zixstv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "malayalam",
+      "mh",
+      "mumbai",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000844",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mappila-pattu-mumbai-mh",
+    "name": "Mappila Pattu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000844.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/2sgvktnrbc9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000845",
+    "type": "station",
+    "medium": "radio",
+    "slug": "marathi-tarang-mahad-mh",
+    "name": "Marathi Tarang",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mahad",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Folk",
+      "Religious",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.083,
+    "lng": 73.417,
+    "logo": "logos/maharashtra/ydn-00000845.webp",
+    "streams": [
+      {
+        "url": "https://silverstream.radioca.st/;",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Marathi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "folk",
+      "hindi",
+      "internet",
+      "local",
+      "mahad",
+      "marathi",
+      "mh",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000860",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mgm-fm-90-8-ahmednagar-mh",
+    "name": "MGM FM 90.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Ahmednagar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 19.0952,
+    "lng": 74.7496,
+    "logo": "logos/maharashtra/ydn-00000860.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/mgmradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmednagar",
+      "internet",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000875",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mohd-rafi-radio-mumbai-mh",
+    "name": "Mohd Rafi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Classical",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000875.webp",
+    "streams": [
+      {
+        "url": "http://radio.mohdrafi.com/rafi.mp3",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "english",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000920",
+    "type": "station",
+    "medium": "radio",
+    "slug": "new-hits-of-bollywood-mumbai-mh",
+    "name": "New Hits Of Bollywood",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000920.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/q9xkvxc2tfeuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/rqqps6cbe3quv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000921",
+    "type": "station",
+    "medium": "radio",
+    "slug": "news-18-lokmat-mumbai-mh",
+    "name": "News 18 Lokmat",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000921.webp",
+    "streams": [
+      {
+        "url": "https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/master.m3u8?hdnea=st%3D1589380756~exp%3D1589416756~acl%3D/%2A~hmac%3D95df8c97f88410b25d343e18ad7f18ea30de95b990270ab3019f68f104db9395",
+        "format": "hls",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000922",
+    "type": "station",
+    "medium": "radio",
+    "slug": "niche-radio-navi-mumbai-mh",
+    "name": "Niche Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Navi Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 19.033,
+    "lng": 73.0297,
+    "logo": "logos/maharashtra/ydn-00000922.webp",
+    "streams": [
+      {
+        "url": "http://143.110.252.20:8000/nicheradio",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "navi mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000929",
+    "type": "station",
+    "medium": "radio",
+    "slug": "non-stop-punjabi-radio-mumbai-mh",
+    "name": "Non Stop Punjabi Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000929.webp",
+    "streams": [
+      {
+        "url": "http://s8.voscast.com:7020/stream",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000944",
+    "type": "station",
+    "medium": "radio",
+    "slug": "omr-online-malayalam-radio-mumbai-mh",
+    "name": "OMR - Online Malayalam Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000944.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/x2baeup395quv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "malayalam",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000959",
+    "type": "station",
+    "medium": "radio",
+    "slug": "pop-fm-2k23-mumbai-mh",
+    "name": "Pop FM 2k23",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000959.webp",
+    "streams": [
+      {
+        "url": "https://stream-175.zeno.fm/5s5zi6rdxbauv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/5s5zi6rdxbauv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000967",
+    "type": "station",
+    "medium": "radio",
+    "slug": "puneri-awaz-pune-mh",
+    "name": "Puneri Awaz",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Pune",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "News",
+      "Music",
+      "Community",
+      "Entertainment"
+    ],
+    "frequency": "107.8 FM",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "logo": "logos/maharashtra/ydn-00000967.webp",
+    "streams": [
+      {
+        "url": "https://icecast.bkwsu.eu/radio-awaz-pune16k.mp3",
+        "format": "mp3",
+        "bitrate": 16,
+        "primary": true
+      },
+      {
+        "url": "https://icecast.bkwsu.eu/radio-awaz-pune.mp3",
+        "format": "mp3",
+        "bitrate": 65,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "entertainment",
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "news",
+      "pune",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000977",
+    "type": "station",
+    "medium": "radio",
+    "slug": "punjabi-top-100-mumbai-mh",
+    "name": "Punjabi Top 100",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000977.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/bfwwdala7grtv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "punjabi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000981",
+    "type": "station",
+    "medium": "radio",
+    "slug": "quran-in-telugu-by-edc-mumbai-mh",
+    "name": "Quran in Telugu by EDC",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000981.webp",
+    "streams": [
+      {
+        "url": "http://quraan.us:9954/;*.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000983",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-24-nanded-mh",
+    "name": "Radio 24",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nanded",
+    "category": "Internet",
+    "genres": [
+      "News"
+    ],
+    "frequency": "",
+    "lat": 19.130278,
+    "lng": 77.321944,
+    "logo": "logos/maharashtra/ydn-00000983.webp",
+    "streams": [
+      {
+        "url": "https://s7.everestcast.com:1155/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "nanded",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000985",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-4-public-health-mumbai-mh",
+    "name": "Radio 4 Public Health",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00000985.webp",
+    "streams": [
+      {
+        "url": "https://cast4.my-control-panel.com/proxy/demo4usv/live",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://cast4.my-control-panel.com/proxy/demo4usv/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001002",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-azad-hind-90-8-fm-nagpur-mh",
+    "name": "Radio Azad Hind 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nagpur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 21.200833,
+    "lng": 79.135,
+    "logo": "logos/maharashtra/ydn-00001002.webp",
+    "streams": [
+      {
+        "url": "https://edge.mixlr.com/channel/uaphi",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "nagpur"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001028",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-mumbai-mh",
+    "name": "Radio City",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "FM",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "91.1 FM",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001028.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/pxc55r5uyc9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "hindi",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001036",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-bhakti-telugu-mumbai-mh",
+    "name": "Radio City - Bhakti Telugu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001036.webp",
+    "streams": [
+      {
+        "url": "https://prclive4.listenon.in/Bhakti",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001038",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-faith-mumbai-mh",
+    "name": "Radio City - Faith",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001038.webp",
+    "streams": [
+      {
+        "url": "http://prclive4.listenon.in:8830/Faith",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001039",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-freedom-mumbai-mh",
+    "name": "Radio City - Freedom",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Electronic",
+      "Rock",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001039.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/d6f5w51zrf9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://prclive4.listenon.in/Freedom",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "electronic",
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001040",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-ghazal-mumbai-mh",
+    "name": "Radio City - Ghazal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Classical",
+      "Religious",
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001040.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/yo0kzyzedittv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "folk",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001041",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-gujarati-mumbai-mh",
+    "name": "Radio City - Gujarati",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Classical",
+      "Electronic",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001041.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/kcqq0a5zrf9uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://prclive4.listenon.in/Gujarati",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Gujarati",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "electronic",
+      "folk",
+      "gujarati",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001042",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-hindi-mumbai-mh",
+    "name": "Radio City - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Classical",
+      "Entertainment",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001042.webp",
+    "streams": [
+      {
+        "url": "https://prclive4.listenon.in/Hindi",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/mrkzzr5uyc9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001043",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-hip-hop-mumbai-mh",
+    "name": "Radio City - Hip Hop",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001043.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/dgrgdv2zrf9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001047",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-malayalam-mumbai-mh",
+    "name": "Radio City - Malayalam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Classical",
+      "Folk",
+      "Entertainment",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001047.webp",
+    "streams": [
+      {
+        "url": "http://prclive1.listenon.in:9908/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://prclive4.listenon.in/Malayalam",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "entertainment",
+      "folk",
+      "internet",
+      "local",
+      "malayalam",
+      "mh",
+      "mumbai",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001049",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-metal-mumbai-mh",
+    "name": "Radio City - Metal",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Rock",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001049.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/apxnpe2zrf9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://prclive4.listenon.in/Metal",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      },
+      {
+        "url": "https://stream.zeno.fm/630qt84uyc9uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001051",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-city-rock-mumbai-mh",
+    "name": "Radio City - Rock",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Rock"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001051.webp",
+    "streams": [
+      {
+        "url": "https://a5.asurahosting.com/hls/kora_radio_/live.m3u8",
+        "format": "aac",
+        "bitrate": 211,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001054",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-cumbia-india-mumbai-mh",
+    "name": "Radio Cumbia India",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001054.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/itwalgqnqnhtv",
+        "format": "aac",
+        "bitrate": 198,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001093",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-jodhpur-92-7-fm-mumbai-mh",
+    "name": "Radio Jodhpur 92.7 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "FM",
+    "genres": [],
+    "frequency": "92.7 FM",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001093.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/jnhzpcpudixuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001097",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-karmaveer-88-4-fm-nashik-mh",
+    "name": "Radio Karmaveer 88.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nashik",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 19.9975,
+    "lng": 73.7898,
+    "logo": "logos/maharashtra/ydn-00001097.webp",
+    "streams": [
+      {
+        "url": "https://a4.asurahosting.com:6670/radio.mp3",
+        "format": "aac",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "nashik"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001117",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-malda-90-4-fm-islampur-mh",
+    "name": "Radio Malda 90.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Islampur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.0676,
+    "lng": 74.2679,
+    "logo": "logos/maharashtra/ydn-00001117.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/10rt7tpf6ehvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "islampur",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001122",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mangal-dhwani-amalner-mh",
+    "name": "Radio Mangal Dhwani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Amalner",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 21.04,
+    "lng": 75.06,
+    "logo": "logos/maharashtra/ydn-00001122.webp",
+    "streams": [
+      {
+        "url": "https://2radio.shoutcastservices.com/proxy/radiomangal/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "amalner",
+      "internet",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001127",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-manna-hindi-mumbai-mh",
+    "name": "Radio Manna - Hindi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001127.webp",
+    "streams": [
+      {
+        "url": "http://216.224.164.196:8807/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001128",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-manna-tamil-mumbai-mh",
+    "name": "Radio Manna - Tamil",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001128.webp",
+    "streams": [
+      {
+        "url": "http://216.224.164.196:6807/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001131",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-maria-india-mumbai-mh",
+    "name": "Radio Maria India",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Religious",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001131.webp",
+    "streams": [
+      {
+        "url": "http://dreamsiteradiocp.com:8002/;",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "http://dreamsiteradiocp.com:8002/stream/;",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      },
+      {
+        "url": "https://dreamsiteradiocp2.com/proxy/rmindia1?mp=/stream",
+        "format": "aac",
+        "bitrate": 32,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001146",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mirchi-mumbai-mh",
+    "name": "Radio Mirchi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "FM",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Pop"
+    ],
+    "frequency": "98.3 FM",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001146.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/wgaznsmt92quv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://peridot.streamguys1.com:7155/MirchiFiji",
+        "format": "aac",
+        "bitrate": 24,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "bollywood",
+      "fm",
+      "hindi",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001156",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mirchi-hindi-retro-mumbai-mh",
+    "name": "Radio Mirchi - Hindi Retro",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Classical",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001156.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/v2zfmxef798uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001147",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mirchi-98-3-fm-mumbai-mh",
+    "name": "Radio Mirchi 98.3 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "FM",
+    "genres": [
+      "Bollywood"
+    ],
+    "frequency": "98.3 FM",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001147.webp",
+    "streams": [
+      {
+        "url": "https://eu8.fastcast4u.com/proxy/clyedupq?mp=/1?aw_0_req_lsid%3D2c0fae177108c9a42a7cf24878625444",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Bengali",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bengali",
+      "bollywood",
+      "fm",
+      "local",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001150",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mirchi-bay-area-mumbai-mh",
+    "name": "Radio Mirchi Bay Area",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Classical",
+      "Oldies",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001150.webp",
+    "streams": [
+      {
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SFO_HIN_PSTAAC.m3u8",
+        "format": "aac",
+        "bitrate": 65,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "oldies"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001151",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mirchi-bay-area-telugu-mumbai-mh",
+    "name": "Radio Mirchi Bay Area Telugu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001151.webp",
+    "streams": [
+      {
+        "url": "https://17653.live.streamtheworld.com/MTL_TEL_ESTAAC/HLS/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001154",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-mirchi-darling-shweta-mumbai-mh",
+    "name": "Radio Mirchi Darling Shweta",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "News",
+      "Music",
+      "Bollywood",
+      "Talk",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001154.webp",
+    "streams": [
+      {
+        "url": "https://28163.live.streamtheworld.com/DSH_TEL_ISTAAC/HLS/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSH_TEL_IST.mp3",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001163",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-nagar-ahmednagar-mh",
+    "name": "Radio Nagar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Ahmednagar",
+    "category": "Internet",
+    "genres": [
+      "Folk",
+      "Pop",
+      "Music"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 19.0952,
+    "lng": 74.7496,
+    "logo": "logos/maharashtra/ydn-00001163.webp",
+    "streams": [
+      {
+        "url": "https://centova87.shoutcastservices.com/proxy/nagar90/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmednagar",
+      "folk",
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001169",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-namkin-mumbai-mh",
+    "name": "Radio Namkin",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001169.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/84h7fsbaqv5tv",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/yg1qhsbaqv5tv",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      },
+      {
+        "url": "http://namkeen.riggrodigital.com:8888/stream",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      },
+      {
+        "url": "https://stream-19.zeno.fm/84h7fsbaqv5tv?zs=5fWIjd5dTEWImmlwdIadqA",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001170",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-nasha-91-9-fm-mumbai-mh",
+    "name": "Radio Nasha 91.9 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "FM",
+    "genres": [],
+    "frequency": "91.9 FM",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001170.webp",
+    "streams": [
+      {
+        "url": "https://stream-158.zeno.fm/zu59ykebs2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ6dTU5eWtlYnMyenV2IiwiaG9zdCI6InN0cmVhbS0xNTguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkRnT0VPZk45VGstdmxvU0ZaNjlYRnciLCJpYXQiOjE3MzkxODY1MTMsImV4cCI6MTczOTE4NjU3M30.Z9zk2O1SnhguUWMdwL",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001171",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-nev-mumbai-mh",
+    "name": "Radio Nev",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001171.webp",
+    "streams": [
+      {
+        "url": "https://a7.asurahosting.com:8140/radio.mp3",
+        "format": "mp3",
+        "bitrate": 192,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Pnjabi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "pnjabi",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001217",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sanskrit-bharati-nashik-mh",
+    "name": "Radio Sanskrit Bharati",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nashik",
+    "category": "Internet",
+    "genres": [
+      "Education",
+      "Talk",
+      "News"
+    ],
+    "frequency": "",
+    "lat": 19.9975,
+    "lng": 73.7898,
+    "logo": "logos/maharashtra/ydn-00001217.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/c0adewsyw8quv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/m08mkwsyw8quv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": [
+        "Sanskrit"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "education",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "nashik",
+      "news",
+      "sanskrit",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001224",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-say-pune-mh",
+    "name": "Radio Say",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Pune",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "logo": "logos/maharashtra/ydn-00001224.webp",
+    "streams": [
+      {
+        "url": "https://a11.asurahosting.com:7080/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "pune"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001225",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-schizoid-chillout-ambient-mumbai-mh",
+    "name": "Radio Schizoid - Chillout / Ambient",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Electronic",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001225.webp",
+    "streams": [
+      {
+        "url": "http://94.130.113.214:8000/chill",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "electronic",
+      "english",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001226",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-schizoid-dub-techno-mumbai-mh",
+    "name": "Radio Schizoid - Dub Techno",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Electronic",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001226.webp",
+    "streams": [
+      {
+        "url": "http://94.130.113.214:8000/dubtechno",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "electronic",
+      "english",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001227",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-schizoid-progressive-psy-mumbai-mh",
+    "name": "Radio Schizoid - Progressive Psy",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Electronic",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001227.webp",
+    "streams": [
+      {
+        "url": "http://94.130.113.214:8000/prog",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "electronic",
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001228",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-schizoid-psytrance-mumbai-mh",
+    "name": "Radio Schizoid - PsyTrance",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Electronic",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001228.webp",
+    "streams": [
+      {
+        "url": "http://94.130.113.214:8000/schizoid",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "electronic",
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001236",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sindhi-classic-mumbai-mh",
+    "name": "Radio Sindhi - Classic",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Classical",
+      "Music",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001236.webp",
+    "streams": [
+      {
+        "url": "http://139.59.119.157:8221/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.radiosindhi.com/proxy/classic/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Sindhi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "classical",
+      "community",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "sindhi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001237",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sindhi-dada-shyam-mumbai-mh",
+    "name": "Radio Sindhi - Dada Shyam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Pop",
+      "Music",
+      "Culture",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001237.webp",
+    "streams": [
+      {
+        "url": "https://stream.radiosindhi.com/proxy/dadashyam/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Sindhi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "culture",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop",
+      "sindhi",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001238",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sindhi-hd-mumbai-mh",
+    "name": "Radio Sindhi - HD",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Classical",
+      "Community",
+      "Culture",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001238.webp",
+    "streams": [
+      {
+        "url": "http://139.59.119.157:8261/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.radiosindhi.com/proxy/radiosindhihd/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Sindhi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "community",
+      "culture",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "sindhi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001239",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sindhi-prime-mumbai-mh",
+    "name": "Radio Sindhi - Prime",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Community",
+      "Culture",
+      "Entertainment",
+      "Pop",
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001239.webp",
+    "streams": [
+      {
+        "url": "http://139.59.119.157:8211/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.radiosindhi.com/proxy/prime/stream/;",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Sindhi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "culture",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop",
+      "religious",
+      "sindhi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001240",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sindhi-sacho-satram-mumbai-mh",
+    "name": "Radio Sindhi - Sacho Satram",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001240.webp",
+    "streams": [
+      {
+        "url": "https://stream.radiosindhi.com/proxy/sachosatram/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Sindhi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "sindhi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001241",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sindhi-satnam-sakhi-mumbai-mh",
+    "name": "Radio Sindhi - Satnam Sakhi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001241.webp",
+    "streams": [
+      {
+        "url": "https://stream.radiosindhi.com/proxy/satnamsakhi/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Sindhi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "sindhi"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001243",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sindhi-vishwas-mumbai-mh",
+    "name": "Radio Sindhi - Vishwas",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Pop",
+      "Music",
+      "Community",
+      "Culture",
+      "Religious",
+      "Entertainment",
+      "Oldies"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001243.webp",
+    "streams": [
+      {
+        "url": "http://139.59.119.157:8201/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.radiosindhi.com/proxy/vishwas/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Sindhi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "culture",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "oldies",
+      "pop",
+      "religious",
+      "sindhi",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001249",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-suvartha-mumbai-mh",
+    "name": "Radio Suvartha",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001249.webp",
+    "streams": [
+      {
+        "url": "http://192.184.9.158:8734/",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001250",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-swami-ahmednagar-mh",
+    "name": "Radio Swami",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Ahmednagar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 19.0952,
+    "lng": 74.7496,
+    "logo": "logos/maharashtra/ydn-00001250.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/zuafg01w4ueuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ahmednagar",
+      "internet",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001254",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-terna-90-4-fm-osmanabad-mh",
+    "name": "Radio Terna 90.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Osmanabad",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "Bollywood",
+      "Community",
+      "Culture"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 18.190833,
+    "lng": 76.039167,
+    "logo": "logos/maharashtra/ydn-00001254.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/tpctradio.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "culture",
+      "fm",
+      "hindi",
+      "local",
+      "mh",
+      "osmanabad",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001267",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vishwas-90-8-nashik-mh",
+    "name": "Radio Vishwas 90.8",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nashik",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Bollywood",
+      "Community"
+    ],
+    "frequency": "",
+    "lat": 19.9975,
+    "lng": 73.7898,
+    "logo": "logos/maharashtra/ydn-00001267.webp",
+    "streams": [
+      {
+        "url": "https://dgnlfn5aus0c6.cloudfront.net/radiovishwas.m3u8",
+        "format": "aac",
+        "bitrate": 65,
+        "primary": true
+      },
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radiovishwas.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "community",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "music",
+      "nashik",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001275",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-welcome-90-8-fm-buldana-mh",
+    "name": "Radio Welcome 90.8 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Buldana",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 20.53,
+    "lng": 76.18,
+    "logo": "logos/maharashtra/ydn-00001275.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/2tm4yz0pvxhvv",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "buldana",
+      "internet",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001280",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rajadoot-radio-hindi-mumbai-mh",
+    "name": "Rajadoot Radio (Hindi)",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001280.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/5ev2g6qnq0hvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001282",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rajshahi-am-1080-islampur-mh",
+    "name": "Rajshahi AM 1080",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Islampur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.0676,
+    "lng": 74.2679,
+    "logo": "logos/maharashtra/ydn-00001282.webp",
+    "streams": [
+      {
+        "url": "https://as1.digitalsynapsebd.com/proxy/bbrajmw/stream",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "islampur",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001298",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rit-radio-sugar-sangli-mh",
+    "name": "RIT Radio Sugar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Sangli",
+    "category": "FM",
+    "genres": [
+      "Education",
+      "Talk",
+      "Community",
+      "News"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 16.927778,
+    "lng": 74.483333,
+    "logo": "logos/maharashtra/ydn-00001298.webp",
+    "streams": [
+      {
+        "url": "http://188.165.222.198:8157/stream/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "education",
+      "fm",
+      "hindi",
+      "local",
+      "mh",
+      "news",
+      "sangli",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001322",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sadhakashram-radio-aurangabad-mh",
+    "name": "Sadhakashram Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Aurangabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 19.888333,
+    "lng": 75.353611,
+    "logo": "logos/maharashtra/ydn-00001322.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/80c86wkeb9quv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "aurangabad",
+      "internet",
+      "local",
+      "marathi",
+      "mh"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001335",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sanatan-radio-mumbai-mh",
+    "name": "Sanatan Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001335.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/qbw9y613038uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001337",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sangeet-fm-mumbai-mh",
+    "name": "Sangeet FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Music",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001337.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/cwng9d3dxtzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001339",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sangeet-samvaad-pune-mh",
+    "name": "Sangeet Samvaad",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Pune",
+    "category": "Internet",
+    "genres": [
+      "Classical",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "logo": "logos/maharashtra/ydn-00001339.webp",
+    "streams": [
+      {
+        "url": "https://stream.radiojar.com/7mh06pa8uwzuv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.radiojar.com/7mh06pa8uwzuv.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "classical",
+      "hindi",
+      "internet",
+      "local",
+      "mh",
+      "music",
+      "pune"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001344",
+    "type": "station",
+    "medium": "radio",
+    "slug": "satvik-bhakti-radio-mumbai-mh",
+    "name": "Satvik Bhakti Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Rock"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001344.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/01gg9s8q6x8uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "english",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "pop",
+      "rock"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001368",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shripad-radio-pune-mh",
+    "name": "Shripad Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Pune",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "logo": "logos/maharashtra/ydn-00001368.webp",
+    "streams": [
+      {
+        "url": "https://shripadradio.radioca.st/;",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      },
+      {
+        "url": "https://shripadradio.radioca.st/stream",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "pune"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001369",
+    "type": "station",
+    "medium": "radio",
+    "slug": "shripad-radio-stream-pune-mh",
+    "name": "Shripad Radio Stream",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Pune",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Bollywood",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 18.5204,
+    "lng": 73.8567,
+    "logo": "logos/maharashtra/ydn-00001369.webp",
+    "streams": [
+      {
+        "url": "http://jett.shoutca.st:8020/stream/;",
+        "format": "mp3",
+        "bitrate": 48,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "english",
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "pune",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001373",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sikh-radio-mumbai-mh",
+    "name": "Sikh Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001373.webp",
+    "streams": [
+      {
+        "url": "http://104.237.193.163:8005/;",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001374",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sikh-radio-akhand-paath-mumbai-mh",
+    "name": "Sikh Radio - Akhand Paath",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001374.webp",
+    "streams": [
+      {
+        "url": "http://radio2.sikhnet.com:8018/stream",
+        "format": "mp3",
+        "bitrate": 32,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Punjabi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "punjabi",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001410",
+    "type": "station",
+    "medium": "radio",
+    "slug": "sunnah-channel-mumbai-mh",
+    "name": "Sunnah Channel",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001410.webp",
+    "streams": [
+      {
+        "url": "http://cp.usa1.fastcast4u.com:2199/tunein/-stream/rweban01.pls",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001445",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tamil-radio-mumbai-mh",
+    "name": "Tamil Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001445.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/xrsym56130yvv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001447",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tamil-top-100-mumbai-mh",
+    "name": "Tamil Top 100",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Pop",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001447.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ex1yqu2gsh1tv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/1hwkbanbz3stv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Tamil",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "entertainment",
+      "internet",
+      "local",
+      "mh",
+      "mumbai",
+      "music",
+      "pop",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001484",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tori-osmanabad-mh",
+    "name": "TORi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Osmanabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.190833,
+    "lng": 76.039167,
+    "logo": "logos/maharashtra/ydn-00001484.webp",
+    "streams": [
+      {
+        "url": "https://stream.teluguoneradio.com:8164/;stream/1",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "osmanabad"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001570",
+    "type": "station",
+    "medium": "radio",
+    "slug": "tunely-radio-mumbai-mh",
+    "name": "Tunely Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 18.925,
+    "lng": 72.832222,
+    "logo": "logos/maharashtra/ydn-00001570.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/kofpzasauiotv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Marathi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "internet",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001534",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-mumbai-mh",
+    "name": "Vividh Bharati Mumbai",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Mumbai",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "",
+    "lat": 19.18888889,
+    "lng": 72.81388889,
+    "logo": "logos/maharashtra/ydn-00001534.webp",
+    "streams": [
+      {
+        "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio011/hlspbaudio011_Auto.m3u8",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "mumbai",
+      "news"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001535",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-nagpur-mh",
+    "name": "Vividh Bharati Nagpur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "MH",
+    "city": "Nagpur",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment",
+      "Classical"
+    ],
+    "frequency": "100.6 FM",
+    "lat": 21.16861111,
+    "lng": 79.05027778,
+    "logo": "logos/maharashtra/ydn-00001535.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 94,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "local",
+      "marathi",
+      "mh",
+      "nagpur",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

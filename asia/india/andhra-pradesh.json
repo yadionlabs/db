@@ -1,0 +1,1600 @@
+[
+  {
+    "id": "ydn-00000045",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-anantapur-ap",
+    "name": "Akashvani Anantapur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Anantapur",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.7 FM",
+    "lat": 14.63944444,
+    "lng": 77.6225,
+    "logo": "logos/andhra-pradesh/ydn-00000045.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio054/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio054/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 120,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "anantapur",
+      "ap",
+      "digital",
+      "english",
+      "entertainment",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000046",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-andhra-pradesh-vijayawada-ap",
+    "name": "Akashvani Andhra Pradesh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Vijayawada",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Folk",
+      "Talk",
+      "Bollywood",
+      "Community",
+      "Entertainment"
+    ],
+    "frequency": "103.4 FM",
+    "lat": 16.50555556,
+    "lng": 80.63416667,
+    "logo": "logos/andhra-pradesh/ydn-00000046.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio175/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "regional",
+    "tags": [
+      "ap",
+      "bollywood",
+      "community",
+      "digital",
+      "entertainment",
+      "folk",
+      "hindi",
+      "news",
+      "regional",
+      "talk",
+      "telugu",
+      "vijayawada"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000129",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kadapa-ap",
+    "name": "Akashvani Kadapa",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Kadapa",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "900 AM",
+    "lat": 14.47916667,
+    "lng": 78.72916667,
+    "logo": "logos/andhra-pradesh/ydn-00000129.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio018/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 79,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "digital",
+      "hindi",
+      "kadapa",
+      "local",
+      "news",
+      "talk",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000153",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kurnool-ap",
+    "name": "Akashvani Kurnool",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Kurnool",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 15.83,
+    "lng": 78.015,
+    "logo": "logos/andhra-pradesh/ydn-00000153.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio052/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio052/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "community",
+      "culture",
+      "digital",
+      "kurnool",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000167",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-markapur-markapuram-ap",
+    "name": "Akashvani Markapur",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Markapuram",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.5 FM",
+    "lat": 15.74722222,
+    "lng": 79.27027778,
+    "logo": "logos/andhra-pradesh/ydn-00000167.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio039/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "http://air.pc.cdn.bitgravity.com/air/live/pbaudio039/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "digital",
+      "local",
+      "markapuram",
+      "music",
+      "news",
+      "talk",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00001811",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-simhapuri-nellore-fm-ap",
+    "name": "Akashvani Simhapuri Nellore FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Nellore",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 14.442599,
+    "lng": 79.986458,
+    "logo": "logos/andhra-pradesh/ydn-00001811.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio168/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "regional",
+    "tags": [
+      "ap",
+      "digital",
+      "nellore",
+      "news",
+      "regional",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000235",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-tirupati-ap",
+    "name": "Akashvani Tirupati",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Tirupati",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Religious"
+    ],
+    "frequency": "103.2 FM",
+    "lat": 13.62027778,
+    "lng": 79.41694444,
+    "logo": "logos/andhra-pradesh/ydn-00000235.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio144/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": [
+        "Sanskrit"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "digital",
+      "english",
+      "entertainment",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "telugu",
+      "tirupati"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000243",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-visakhapatnam-ap",
+    "name": "Akashvani Visakhapatnam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Visakhapatnam",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "927 AM",
+    "lat": 17.68416667,
+    "lng": 83.15916667,
+    "logo": "logos/andhra-pradesh/ydn-00000243.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 237,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio080/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 237,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "digital",
+      "entertainment",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "telugu",
+      "visakhapatnam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00001561",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ap-9-fm-andole-ap",
+    "name": "AP 9 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Andole",
+    "category": "FM",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "9 FM",
+    "lat": 17.814,
+    "lng": 78.077,
+    "logo": "logos/andhra-pradesh/ydn-00001561.webp",
+    "streams": [
+      {
+        "url": "https://stream.ap9fm.in/radio/8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      },
+      {
+        "url": "https://stream.ap9fm.in:8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "andole",
+      "ap",
+      "entertainment",
+      "fm",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000386",
+    "type": "station",
+    "medium": "radio",
+    "slug": "cjm-ministries-khammam-ap",
+    "name": "CJM Ministries",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Khammam",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.2473,
+    "lng": 80.1514,
+    "logo": "logos/andhra-pradesh/ydn-00000386.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/qr43ntm61s8uv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "internet",
+      "khammam",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.287Z"
+  },
+  {
+    "id": "ydn-00000411",
+    "type": "station",
+    "medium": "radio",
+    "slug": "dasubhashitam-radio-hyderabad-ap",
+    "name": "Dasubhashitam Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/andhra-pradesh/ydn-00000411.webp",
+    "streams": [
+      {
+        "url": "https://listen.radioking.com/radio/99004/stream/137725",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.288Z"
+  },
+  {
+    "id": "ydn-00000480",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-vijayawada-ap",
+    "name": "FM Rainbow Vijayawada",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Vijayawada",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 16.35833333,
+    "lng": 80.5,
+    "logo": "logos/andhra-pradesh/ydn-00000480.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio174/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "digital",
+      "local",
+      "news",
+      "telugu",
+      "vijayawada"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000481",
+    "type": "station",
+    "medium": "radio",
+    "slug": "fm-rainbow-visakhapatnam-ap",
+    "name": "FM Rainbow Visakhapatnam",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Visakhapatnam",
+    "category": "Digital",
+    "genres": [
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.71833333,
+    "lng": 83.32055556,
+    "logo": "logos/andhra-pradesh/ydn-00000481.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio081/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 232,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": [
+        "English"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "digital",
+      "local",
+      "news",
+      "telugu",
+      "visakhapatnam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.289Z"
+  },
+  {
+    "id": "ydn-00000608",
+    "type": "station",
+    "medium": "radio",
+    "slug": "intern-radio-kurnool-ap",
+    "name": "Intern Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Kurnool",
+    "category": "Internet",
+    "genres": [
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 15.83,
+    "lng": 78.015,
+    "logo": "logos/andhra-pradesh/ydn-00000608.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/wijwedhm3aluv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "entertainment",
+      "hindi",
+      "internet",
+      "kurnool",
+      "local"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.291Z"
+  },
+  {
+    "id": "ydn-00000620",
+    "type": "station",
+    "medium": "radio",
+    "slug": "jc-hindi-broadcast-kakinada-ap",
+    "name": "JC Hindi Broadcast",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Kakinada",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 16.9891,
+    "lng": 82.2475,
+    "logo": "logos/andhra-pradesh/ydn-00000620.webp",
+    "streams": [
+      {
+        "url": "https://eu9.fastcast4u.com/proxy/simon?mp=/1",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "internet",
+      "kakinada",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000785",
+    "type": "station",
+    "medium": "radio",
+    "slug": "kushi-fm-hyderabad-ap",
+    "name": "Kushi FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/andhra-pradesh/ydn-00000785.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/adjd0oju5rktv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.292Z"
+  },
+  {
+    "id": "ydn-00000862",
+    "type": "station",
+    "medium": "radio",
+    "slug": "mits-radio-90-8-cr-madanapalle-ap",
+    "name": "MITS Radio 90.8 CR",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Madanapalle",
+    "category": "FM",
+    "genres": [
+      "Music",
+      "Bollywood",
+      "Education",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 13.55,
+    "lng": 78.5,
+    "logo": "logos/andhra-pradesh/ydn-00000862.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/mitsradio.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "bollywood",
+      "education",
+      "fm",
+      "hindi",
+      "local",
+      "madanapalle",
+      "music",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.293Z"
+  },
+  {
+    "id": "ydn-00000892",
+    "type": "station",
+    "medium": "radio",
+    "slug": "myindmedia-hyderabad-ap",
+    "name": "MyIndMedia",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/andhra-pradesh/ydn-00000892.webp",
+    "streams": [
+      {
+        "url": "http://52.200.24.222:8000/;stream.mp3/1",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001578",
+    "type": "station",
+    "medium": "radio",
+    "slug": "nithyam-yesutho-radio-hyderabad-ap",
+    "name": "Nithyam Yesutho Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/andhra-pradesh/ydn-00001578.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/vdts8y00v8quv",
+        "format": "aac",
+        "bitrate": 134,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00000995",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-ala-kakinada-ap",
+    "name": "Radio Ala",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Kakinada",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Music"
+    ],
+    "frequency": "90.8 FM",
+    "lat": 16.9891,
+    "lng": 82.2475,
+    "logo": "logos/andhra-pradesh/ydn-00000995.webp",
+    "streams": [
+      {
+        "url": "https://mahi.radioca.st/stream",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hindi",
+      "internet",
+      "kakinada",
+      "local",
+      "music",
+      "pop"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001104",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-kokila-visakhapatnam-ap",
+    "name": "Radio Kokila",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Visakhapatnam",
+    "category": "Internet",
+    "genres": [
+      "Pop"
+    ],
+    "frequency": "",
+    "lat": 17.684167,
+    "lng": 83.159167,
+    "logo": "logos/andhra-pradesh/ydn-00001104.webp",
+    "streams": [
+      {
+        "url": "https://radio.sodhini.com/listen/radio_kokila/radio.mp3",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hindi",
+      "internet",
+      "local",
+      "pop",
+      "visakhapatnam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001195",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-ranjan-cards-fm-90-4-guntur-ap",
+    "name": "Radio Ranjan Cards FM 90.4",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Guntur",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 16.3067,
+    "lng": 80.4365,
+    "logo": "logos/andhra-pradesh/ydn-00001195.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/rfqqoi2w5u0tv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "guntur",
+      "internet",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001204",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sai-puttaparthi-ap",
+    "name": "Radio Sai",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Puttaparthi",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 14.165,
+    "lng": 77.811,
+    "logo": "logos/andhra-pradesh/ydn-00001204.webp",
+    "streams": [
+      {
+        "url": "http://stream.radiosai.org:8008/",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "internet",
+      "local",
+      "puttaparthi",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001206",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sai-bhajan-stream-visakhapatnam-ap",
+    "name": "Radio Sai - Bhajan Stream",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Visakhapatnam",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.684167,
+    "lng": 83.159167,
+    "logo": "logos/andhra-pradesh/ydn-00001206.webp",
+    "streams": [
+      {
+        "url": "https://stream.sssmediacentre.org:8443/bhajan",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": true
+      },
+      {
+        "url": "http://stream.radiosai.org:8000/",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "english",
+      "entertainment",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "religious",
+      "talk",
+      "visakhapatnam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001209",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sai-discourse-stream-visakhapatnam-ap",
+    "name": "Radio Sai - Discourse Stream",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Visakhapatnam",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Music",
+      "Religious",
+      "News"
+    ],
+    "frequency": "",
+    "lat": 17.684167,
+    "lng": 83.159167,
+    "logo": "logos/andhra-pradesh/ydn-00001209.webp",
+    "streams": [
+      {
+        "url": "http://stream.radiosai.org:8008/",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": true
+      },
+      {
+        "url": "http://stream.radiosai.net:8008/",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "english",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "religious",
+      "talk",
+      "visakhapatnam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001212",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sai-prasanthi-stream-visakhapatnam-ap",
+    "name": "Radio Sai - Prasanthi Stream",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Visakhapatnam",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Pop",
+      "Music",
+      "Religious",
+      "News",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.684167,
+    "lng": 83.159167,
+    "logo": "logos/andhra-pradesh/ydn-00001212.webp",
+    "streams": [
+      {
+        "url": "http://stream.radiosai.org:8002/",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": true
+      },
+      {
+        "url": "http://stream.radiosai.net:8002/",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "english",
+      "entertainment",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "pop",
+      "religious",
+      "talk",
+      "visakhapatnam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001214",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-sai-telugu-stream-visakhapatnam-ap",
+    "name": "Radio Sai - Telugu Stream",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Visakhapatnam",
+    "category": "Internet",
+    "genres": [
+      "Religious",
+      "Talk",
+      "Pop",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 17.684167,
+    "lng": 83.159167,
+    "logo": "logos/andhra-pradesh/ydn-00001214.webp",
+    "streams": [
+      {
+        "url": "http://stream.radiosai.net:8020/",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": true
+      },
+      {
+        "url": "http://stream.radiosai.org:8020/?a=b/;",
+        "format": "mp3",
+        "bitrate": 24,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "entertainment",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "religious",
+      "talk",
+      "telugu",
+      "visakhapatnam"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001593",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vishnu-hyderabad-ap",
+    "name": "Radio Vishnu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/andhra-pradesh/ydn-00001593.webp",
+    "streams": [
+      {
+        "url": "http://streamasiacdn.atc-labs.com/radiovishnu.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001594",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-vishnu-90-4-cr-bhimavaram-ap",
+    "name": "Radio Vishnu 90.4 CR",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Bhimavaram",
+    "category": "FM",
+    "genres": [
+      "Culture",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 16.544,
+    "lng": 81.521,
+    "logo": "logos/andhra-pradesh/ydn-00001594.webp",
+    "streams": [
+      {
+        "url": "http://streamasiahlscdn.atc-labs.com/radiovishnu.m3u8",
+        "format": "aac",
+        "bitrate": 65,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "bhimavaram",
+      "culture",
+      "fm",
+      "local",
+      "news",
+      "talk",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001288",
+    "type": "station",
+    "medium": "radio",
+    "slug": "rb-radio-hyderabad-ap",
+    "name": "RB Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/andhra-pradesh/ydn-00001288.webp",
+    "streams": [
+      {
+        "url": "https://stream.ors.balajibpa.com/live",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.298Z"
+  },
+  {
+    "id": "ydn-00001581",
+    "type": "station",
+    "medium": "radio",
+    "slug": "suvarthamaanam-radio-hyderabad-ap",
+    "name": "Suvarthamaanam Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/andhra-pradesh/ydn-00001581.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/h27dx5b8u7zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hyderabad",
+      "internet",
+      "local",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001584",
+    "type": "station",
+    "medium": "radio",
+    "slug": "suvarthamaanam-radio-telugu-hyderabad-ap",
+    "name": "Suvarthamaanam Radio - Telugu",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Hyderabad",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 17.385,
+    "lng": 78.4867,
+    "logo": "logos/andhra-pradesh/ydn-00001584.webp",
+    "streams": [
+      {
+        "url": "http://157.245.106.180:8010/radio.mp3",
+        "format": "mp3",
+        "bitrate": null,
+        "primary": true
+      },
+      {
+        "url": "https://stream.zeno.fm/xet2s5b8u7zuv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "hindi",
+      "hyderabad",
+      "internet",
+      "local",
+      "religious"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001454",
+    "type": "station",
+    "medium": "radio",
+    "slug": "telugu-bible-radio-vijayawada-ap",
+    "name": "Telugu Bible Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Vijayawada",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 16.505556,
+    "lng": 80.634167,
+    "logo": "logos/andhra-pradesh/ydn-00001454.webp",
+    "streams": [
+      {
+        "url": "https://gains.reviveradio.net/proxy/teluguradio?mp=/stream",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "internet",
+      "local",
+      "telugu",
+      "vijayawada"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001455",
+    "type": "station",
+    "medium": "radio",
+    "slug": "telugu-christian-media-guntur-ap",
+    "name": "Telugu Christian Media",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Guntur",
+    "category": "Internet",
+    "genres": [
+      "Religious"
+    ],
+    "frequency": "",
+    "lat": 16.3067,
+    "lng": 80.4365,
+    "logo": "logos/andhra-pradesh/ydn-00001455.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/e1nkg444dxhvv",
+        "format": "unknown",
+        "bitrate": null,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "ap",
+      "guntur",
+      "internet",
+      "local",
+      "religious",
+      "telugu"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  },
+  {
+    "id": "ydn-00001542",
+    "type": "station",
+    "medium": "radio",
+    "slug": "vividh-bharati-telugu-vijayawada-ap",
+    "name": "Vividh Bharati Telugu Vijayawada",
+    "continent": "asia",
+    "country": "IN",
+    "state": "AP",
+    "city": "Vijayawada",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "101.3 FM",
+    "lat": 16.50555556,
+    "lng": 80.63416667,
+    "logo": "logos/andhra-pradesh/ydn-00001542.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio176/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 96,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Telugu",
+      "secondary": []
+    },
+    "coverage": "regional",
+    "tags": [
+      "ap",
+      "digital",
+      "news",
+      "regional",
+      "talk",
+      "telugu",
+      "vijayawada"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.299Z"
+  }
+]

@@ -1,0 +1,569 @@
+[
+  {
+    "id": "ydn-00000041",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-almora-uk",
+    "name": "Akashvani Almora",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Almora",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.8 FM",
+    "lat": 29.61361111,
+    "lng": 79.65972222,
+    "logo": "logos/uttarakhand/ydn-00000041.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 378,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio122/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 378,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Kumaoni",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "almora",
+      "digital",
+      "entertainment",
+      "garhwali",
+      "hindi",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "talk",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.283Z"
+  },
+  {
+    "id": "ydn-00000085",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-dehradun-uk",
+    "name": "Akashvani Dehradun",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Dehradun",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "100.5 FM",
+    "lat": 30.46277778,
+    "lng": 78.09666667,
+    "logo": "logos/uttarakhand/ydn-00000085.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 127,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio191/chunklist.m3u8",
+        "format": "mp3",
+        "bitrate": 96,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Garhwali",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "dehradun",
+      "digital",
+      "entertainment",
+      "garhwali",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  },
+  {
+    "id": "ydn-00000187",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-pauri-uk",
+    "name": "Akashvani Pauri",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Pauri",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "1602 AM",
+    "lat": 30.14361111,
+    "lng": 78.77055556,
+    "logo": "logos/uttarakhand/ydn-00000187.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio107/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Garhwali",
+      "secondary": [
+        "Hindi"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "garhwali",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "pauri",
+      "talk",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.285Z"
+  },
+  {
+    "id": "ydn-00000254",
+    "type": "station",
+    "medium": "radio",
+    "slug": "ambesine-radio-dehradun-uk",
+    "name": "Ambesine Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Dehradun",
+    "category": "Internet",
+    "genres": [
+      "Pop",
+      "Folk",
+      "Music"
+    ],
+    "frequency": "",
+    "lat": 30.462778,
+    "lng": 78.096667,
+    "logo": "logos/uttarakhand/ydn-00000254.webp",
+    "streams": [
+      {
+        "url": "http://65.109.81.84:8435/stream/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dehradun",
+      "folk",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "pop",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.286Z"
+  },
+  {
+    "id": "ydn-00000939",
+    "type": "station",
+    "medium": "radio",
+    "slug": "oho-radio-dehradun-uk",
+    "name": "Oho Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Dehradun",
+    "category": "Internet",
+    "genres": [
+      "Entertainment",
+      "Pop",
+      "Bollywood"
+    ],
+    "frequency": "",
+    "lat": 30.462778,
+    "lng": 78.096667,
+    "logo": "logos/uttarakhand/ydn-00000939.webp",
+    "streams": [
+      {
+        "url": "https://mehramedia.in:9300/stream/;",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "bollywood",
+      "dehradun",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "pop",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.295Z"
+  },
+  {
+    "id": "ydn-00001065",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-divine-90-4-fm-haridwar-uk",
+    "name": "Radio Divine 90.4 FM",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Haridwar",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 29.9457,
+    "lng": 78.1642,
+    "logo": "logos/uttarakhand/ydn-00001065.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/ut3kgm1vsa0uv",
+        "format": "mp3",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "haridwar",
+      "hindi",
+      "internet",
+      "local",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001099",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-kedar-rudraprayag-uk",
+    "name": "Radio Kedar",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Rudraprayag",
+    "category": "FM",
+    "genres": [
+      "Talk",
+      "News",
+      "Music",
+      "Community"
+    ],
+    "frequency": "91.2 FM",
+    "lat": 30.2844,
+    "lng": 78.9811,
+    "logo": "logos/uttarakhand/ydn-00001099.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radiokedar.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "fm",
+      "hindi",
+      "local",
+      "music",
+      "news",
+      "rudraprayag",
+      "talk",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001103",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-khushi-mussoorie-uk",
+    "name": "Radio Khushi",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Mussoorie",
+    "category": "FM",
+    "genres": [
+      "Music"
+    ],
+    "frequency": "90.4 FM",
+    "lat": 30.4598,
+    "lng": 78.0644,
+    "logo": "logos/uttarakhand/ydn-00001103.webp",
+    "streams": [
+      {
+        "url": "https://stream.zeno.fm/etf3x2h5rrhvv",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "fm",
+      "hindi",
+      "local",
+      "music",
+      "mussoorie",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001113",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-maharani-dehradun-uk",
+    "name": "Radio Maharani",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Dehradun",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 30.462778,
+    "lng": 78.096667,
+    "logo": "logos/uttarakhand/ydn-00001113.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/radiomaharani.aac",
+        "format": "aac",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dehradun",
+      "hindi",
+      "internet",
+      "local",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.296Z"
+  },
+  {
+    "id": "ydn-00001202",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-rishikesh-dehradun-uk",
+    "name": "Radio Rishikesh",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Dehradun",
+    "category": "Internet",
+    "genres": [
+      "Community",
+      "Entertainment",
+      "Music",
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 30.462778,
+    "lng": 78.096667,
+    "logo": "logos/uttarakhand/ydn-00001202.webp",
+    "streams": [
+      {
+        "url": "https://s4.voscast.com:9339/stream",
+        "format": "mp3",
+        "bitrate": 64,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "community",
+      "dehradun",
+      "entertainment",
+      "hindi",
+      "internet",
+      "local",
+      "music",
+      "news",
+      "talk",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001258",
+    "type": "station",
+    "medium": "radio",
+    "slug": "radio-udaan-dehradun-uk",
+    "name": "Radio Udaan",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Dehradun",
+    "category": "Internet",
+    "genres": [
+      "Talk",
+      "Pop",
+      "News",
+      "Music",
+      "Entertainment"
+    ],
+    "frequency": "",
+    "lat": 30.462778,
+    "lng": 78.096667,
+    "logo": "logos/uttarakhand/ydn-00001258.webp",
+    "streams": [
+      {
+        "url": "http://173.212.234.220/radio/8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": true
+      },
+      {
+        "url": "https://173.212.234.220:8000/radio.mp3",
+        "format": "mp3",
+        "bitrate": 256,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "English",
+      "secondary": [
+        "Multilingual"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "dehradun",
+      "english",
+      "entertainment",
+      "internet",
+      "local",
+      "multilingual",
+      "music",
+      "news",
+      "pop",
+      "talk",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.297Z"
+  },
+  {
+    "id": "ydn-00001550",
+    "type": "station",
+    "medium": "radio",
+    "slug": "walktalk-radio-dehradun-uk",
+    "name": "Walktalk Radio",
+    "continent": "asia",
+    "country": "IN",
+    "state": "UK",
+    "city": "Dehradun",
+    "category": "Internet",
+    "genres": [],
+    "frequency": "",
+    "lat": 30.462778,
+    "lng": 78.096667,
+    "logo": "logos/uttarakhand/ydn-00001550.webp",
+    "streams": [
+      {
+        "url": "https://streamasiacdn.atc-labs.com/walktalkradio.aac",
+        "format": "aac",
+        "bitrate": 128,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Hindi",
+      "secondary": []
+    },
+    "coverage": "local",
+    "tags": [
+      "dehradun",
+      "hindi",
+      "internet",
+      "local",
+      "uk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.300Z"
+  }
+]

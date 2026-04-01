@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ydn-00000095",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-gangtok-sk",
+    "name": "Akashvani Gangtok",
+    "continent": "asia",
+    "country": "IN",
+    "state": "SK",
+    "city": "Gangtok",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk",
+      "Culture"
+    ],
+    "frequency": "1404 AM",
+    "lat": 27.33611111,
+    "lng": 88.61777778,
+    "logo": "logos/sikkim/ydn-00000095.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": true
+      },
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio227/chunklist.m3u8",
+        "format": "aac",
+        "bitrate": 95,
+        "primary": false
+      }
+    ],
+    "language": {
+      "primary": "Nepali",
+      "secondary": [
+        "English",
+        "Bhutia",
+        "Lepcha"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "gangtok",
+      "hindi",
+      "local",
+      "music",
+      "nepali",
+      "news",
+      "sk",
+      "talk",
+      "tamil"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  }
+]

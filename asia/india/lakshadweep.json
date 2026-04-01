@@ -1,0 +1,52 @@
+[
+  {
+    "id": "ydn-00000139",
+    "type": "station",
+    "medium": "radio",
+    "slug": "akashvani-kavaratti-ld",
+    "name": "Akashvani Kavaratti",
+    "continent": "asia",
+    "country": "IN",
+    "state": "LD",
+    "city": "Kavaratti",
+    "category": "Digital",
+    "genres": [
+      "News",
+      "Talk"
+    ],
+    "frequency": "",
+    "lat": 10.5667,
+    "lng": 72.6369,
+    "logo": "logos/lakshadweep/ydn-00000139.webp",
+    "streams": [
+      {
+        "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio189/playlist.m3u8",
+        "format": "aac",
+        "bitrate": 85,
+        "primary": true
+      }
+    ],
+    "language": {
+      "primary": "Malayalam",
+      "secondary": [
+        "Mahl"
+      ]
+    },
+    "coverage": "local",
+    "tags": [
+      "digital",
+      "english",
+      "entertainment",
+      "hindi",
+      "kavaratti",
+      "ld",
+      "local",
+      "malayalam",
+      "multilingual",
+      "news",
+      "talk"
+    ],
+    "active": true,
+    "updatedAt": "2026-04-02T11:39:54.284Z"
+  }
+]
